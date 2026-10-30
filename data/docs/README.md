@@ -1,21 +1,20 @@
-# Data Documentation for Intelligent Job Recommendation System
+# Data
 
-## Datasets Overview
-1. **Resume Dataset (`resume_dataset_train_raw.csv`, `resume_dataset_eval_raw.csv`)**
-   - Source: HuggingFace (Open Source)
-   - Contains: Raw resume texts across professional categories.
-   - License: Apache-2.0
-2. **Data Science Job Descriptions (`ds_job_descriptions_raw.jsonl`)**
-   - Source: HuggingFace
-   - Contains: Detailed job postings and requirements.
-   - License: WTFPL
-3. **Resume-Job Fairness Evaluation Dataset (`fairness_eval_pairs_raw.csv`)**
-   - Source: HuggingFace
-   - Contains: Long-text pairs of CVs and Jobs for testing LLM personalization.
-   - License: MIT
+Two English parts of the Djinni Recruitment Dataset (anonymized IT CVs and job postings from djinni.co, 2020-2023).
 
-## Preprocessing Steps (Planned)
-- Lowercasing all text.
-- Removing HTML tags and special characters.
-- Tokenization for Sentence-BERT embeddings.
-Raw data is strictly read-only. All cleaned data will be saved in `data/processed/`.
+| Dataset | Source | License | Local folder |
+|---|---|---|---|
+| Candidate profiles (210,250 CVs) | https://huggingface.co/datasets/lang-uk/recruitment-dataset-candidate-profiles-english | MIT | `data/raw/djinni_candidates/` |
+| Job descriptions (141,897 postings) | https://huggingface.co/datasets/lang-uk/recruitment-dataset-job-descriptions-english | MIT | `data/raw/djinni_jobs/` |
+
+Paper: N. Drushchak, M. Romanyshyn, "Introducing the Djinni Recruitment Dataset: A Corpus of Anonymized CVs and Job Postings", UNLP 2024. https://aclanthology.org/2024.unlp-1.2
+
+## Files
+
+- `data/raw/` - original Parquet files and dataset cards from Hugging Face. Not changed.
+- `data/processed/candidates_it_v1.csv` - 132,220 CVs with IT roles only.
+- `data/processed/jobs_it_v1.csv` - random sample of 20,000 IT job postings.
+- `data/samples/` - 50 rows of each processed file.
+- `data/docs/codebook.md` - description of all columns.
+
+The processed files are created by `notebooks/01_data_selection.ipynb` (`random_state = 5267`).
