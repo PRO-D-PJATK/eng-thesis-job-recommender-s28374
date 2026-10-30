@@ -1,0 +1,1573 @@
+Position,Long Description,Company Name,Exp Years,Primary Keyword,English Level,Published,Long Description_lang,id,role_family
+Senior QA Engineer,"**JOB POSITION:**
+We are building an online platform (think part LinkedIn, part Crunchbase, but for the nonprofit sector) that connects people, organizations, and information in the nonprofit world. As a QA engineer you will be to make sure every new release stands to the highest standard, build our QA automation tests, and help us define our CI/CD processes.
+
+**SPECIFICALLY YOU WILL:**
+● Work with product and design to review requirements, specifications, and technical design documents to provide timely and meaningful feedback.
+● Create detailed, comprehensive, and well-structured test plans and test cases.
+● Be responsible for the quality of each new release.
+● Design, develop and execute automation tests.
+● Work with the development team to set up our CI/CD processes.
+● Track quality assurance metrics, like defect densities and open defect counts.
+● Stay up-to-date with new testing tools and test strategies.
+
+**WHAT WE ARE LOOKING FOR:**
+● Experience in QA automation.
+● Experience with CI/CD
+● Solid knowledge of SQL and scripting.
+● Passion for building QA projects from the ground up.
+● Working on SPA projects.
+● Strong knowledge of software QA methodologies, tools, and processes.
+● Good written and verbal communication skills in English.
+● Experience with performance and/or security testing is a plus.
+
+**WE OFFER:**
+● Long-term employment with 20 days of paid vacation, sick days, and other social benefits.
+●  Stock options in the early stages of cooperation.
+●  Medical insurance, English courses, paid professional development courses, fitness access.
+●  Flexible schedule: the balanced life of our employees is very important for us.",MUGCO,5y,QA Automation,upper,2022-10-01T00:00:00+03:00,en,b3679427-2ebb-5b48-87ca-55ecf70eae97,QA
+Front-end Developer,"PAXLE is an international group of ADTech product companies. We provide businesses with the Performance Marketing solutions. Currently, we are looking a Front-end developer with the prospect of growth and development. 
+
+Requirements:
+- Work experience as a Front-end developer for more than 1.5 years;
+- GIT (add/commit/push/pull/merge);
+- frameworks (bootstrap, foundation, etc);
+- jquery;
+- ec5/ec6;
+- responsive/adaptive bugfixing;
+- cross-browser bugfixing;
+- figma.
+
+The main tasks will be:
+- Create a website from scratch using Figma;
+- bugfixing current projects;
+- optimization currrent projects.
+
+What we offer:
+-Flexible working hours (you can work 8 hours per day even from your couch if it’s profitable);
+- 24 days of paid vacation, 10 days of paid sick leave;
+- extensive opportunities for personal and professional growth;
+- interesting long-term projects;
+- decent salary based on the results of the interview and a comprehensive bonus system;
+-  medical insurance;
+- financial support of external training (trainings, courses, etc.), internal lectures from employees.",PAXLE,1y,JavaScript,intermediate,2023-09-01T00:00:00+03:00,en,9b13a9eb-4700-5cd9-9da3-4f6655ca538f,Frontend / JavaScript
+Middle .NET Developer,"The platform consolidates the data of all required business applications into a single dashboard that can operate as a cloud service, on-premises, or hybrid solution.
+
+The solution uses advanced AWS technologies.
+
+The uniqueness of Iconduct Self Service Integration Platform lies in its flexibility and the possibility of additional customization for the needs of a particular company.
+
+Product stack: ASP.NET, JavaScript, MVC and SignalR, relational DB. Microservices
+Project Description
+
+Iconduct leading IPaaS platform company who provide integration solutions which enables its users to easily and elegantly configure and intricate between systems with a zero-coding on cloud, cross-platform, or hybrid environment, looking for highly motivated Developer.
+
+The platform is located in AWS cloud and consumes AWS managed services.
+
+Iconduct platform is a large-scale application that uses a variety of .Net technologies (.Net Framework, .Net Core, .Net 5).
+
+The platform uses Relational Database and NoSQL Database (Cassandra, Elasticsearch).
+
+We use advanced pub/sub concepts and message brokers.
+
+As a Developer you will
+- focus on the backend multithreading infrastructure and front-end angular 2+, ASP.net
+- Have the Ability to work in a multi-technology environment & learn new technologies.
+- Be a membership in our Multidisciplinary team to define and improve features and solutions
+
+Requirements
+- At least 1+ years’ Hands On experience as C# .NET and .NET Core.
+- Experience working with a design pattern
+- Experience building distributed multi-tiered systems that feature high throughput, low latency, and high availability
+- Experience At least one of: NATS/ RabbitMQ / MSMQ/ Kafka, Redis, Docker, etc.
+- At least 2 years’ Hands On experience in Front End development (JS, HTML, CSS, Angular/ React/ Vue)
+- Experience in Microservices architecture and development — Advantage
+- Experience in Open-source Technologies- Advantage
+- In-depth knowledge with Scrum/Agile methodology- Advantage
+
+We offer
+
+Working in our dynamic environment you will get the freedom of action, trust of management, and the ability to implement projects from “0” to output to production
+
+Also:
+- Challenging tasks
+- Opportunity to learn new approaches in a highly-demanded cloud technologies
+- Career growth
+- Paid vacation (20 working days per year)
+- Paid sick leaves
+- Fixed working hours
+- A friendly team of experts who inspire and support you",Unitask,1y,.NET,intermediate,2022-03-01T00:00:00+02:00,en,2d8f00e1-1823-5cf8-adab-37187624c734,Backend
+Middle Android Developer (office work),"Our Company is focused on a specific set of emerging IoT and IoE technologies, including embedded development, backend development, DevOps, Big Data and ML projects, mobile applications' development, software, hardware, QA. And now we are looking for an **Android Developer** to join our team in Kyiv.
+
+**Main requirements:**
+- Excellent programming knowledge of Java and Kotlin;
+- Familiarity with Android Studio, Gradle, and Android SDK;
+- Familiarity with Git and GitHub/Bitbucket/GitLab;
+- Strong experience with Flutter;
+- Experience with Retrofit2, Dagger2/Koin, RxJava, Coroutines, Firebase tools, Navigation component, Room;
+- Experience in developing Android applications from scratch using various design patterns (MVP, MVVM);
+- Experience integrating APIs and handling data communication between mobile devices and backend services;
+- Ability to create user-friendly interfaces, Google's Material Design UI/UX principles;
+- **Intermediate+** level of written and spoken English.
+
+**Will be a plus:** 
+- Bluetooth classic and BLE protocols;
+- Bluetooth API.
+
+**We offer:**
+- Interesting work with cutting edge and innovative technologies;
+- Communication with foreign customers;
+- Professional development opportunities;
+- Comfortable and modern office near metro station (KPI, Shulyavska) with Generator & Starlink;
+- Flexible working hours;
+- Open and friendly teammates :)",Fordewind,2y,Android,intermediate,2023-08-01T00:00:00+03:00,en,0653efaf-3ee6-5015-9c51-6a72dded71a0,Mobile
+Full Stack Software Development Team Leader,"Position Requirements:
+MSc. BSc. in Computer Sciences from a top university, or equivalent.
+A Doer, a leader, a winner, a savvy hands-on coder, highly analytical, a bar raiser, and a team player.
+One who can translate product goals into high-quality beautiful products.
+7 years of experience in front-end or full-stack development with at least 2 years of leadership.
+3+ years of Javascript experience, working knowledge of asynchronous programming and ES6 concepts
+3+ years of HTML/CSS experience, familiarity with cross-browser compatibility, accessibility and SEO best practices
+Experience with browser APIs & front end performance optimizations
+Proven track record of design and implementation of highly scalable and distributed web applications, JavaScript frameworks, and application state management.
+Great 360 collaboration and communication skills.
+High standards for code quality, testing, and performance.
+At Fiverr, we’re not about checklists. If you don’t meet 100% of the requirements for this role but still feel passionate about the position and think you have the right skills and qualifications to excel at it, we want to hear from you.
+
+As a plus:
+Leadership skills;
+Experience in leading the teams;
+Strong organisational skills;
+
+We offer
+When you join our team, you’re helping create opportunities for anyone in the world to build their business, brand, or dream. Is there a more meaningful benefit than that?
+To top it off, except of a comprehensive salary, we also have a tight-knit Fiverr employee culture, team gatherings, a pretty amazing office space, an opportunity to participate in Fiverr’s stock option plan, daily virtual workout inspirations, and much more.
+**Office in Creative State Arsenal in Kyiv (Our work model is hybrid, combining remote and on-site work. This allows us to get things done when and where we are most productive.)**
+Fiverr’s Equity (FVRR)
+Health insurance
+Gym
+Parking
+Lunch
+
+Responsibilities
+Lead a team of developers through the product lifecycle — architecture, design, development, quality and production.
+Hands-on development of features (~70% of the time).
+Complete technical ownership of specific services and domains.
+Work closely with the team product manager on new products, features and initiatives.
+Ongoing leadership and mentorship of the team developers.",Fiverr,5y,JavaScript,upper,2023-08-01T00:00:00+03:00,en,5c0e9761-106c-531c-84cc-3b768e2113e0,Frontend / JavaScript
+Middle/Senior QA Automation engineer (Java/JS),"**Requirements:**
+— QA experience 3+ years (senior/Middle level)
+— Experience with BE automation on Java — Cucumber+RestAssured
+— Agile background Proven integration testing experience
+— Proven experience with any API tools CI/CD experience (Gitlab/Jenkins)
+— Open to learning new things, be able to work at multiple things at the same time
+
+**Soft skills**:
+— Proactive
+— Team player
+— Move the test process to the next level, influence and train developers in the QA mindset
+— Think in solutions, not in problems
+
+**Would be a plus:**
+— FE Automation on JS (Cucumber + WebdriverIO)
+— ISTQB / TMap certification
+— C#, .NET Core, AWS, Docker
+
+**Responsibilities:**
+— Develop and maintain manual test cases in BDD format based on requirements Implement and maintain the automation frameworks as part of continuous integration and agile environment
+— During each sprint, ensure that all necessary tests meet the acceptance criteria, staying on top of all important issues and helping triage bugs and drive issues to resolution
+— Keeping everyone aware of the quality of the sprint work
+— Analyze the results of the automated test runs
+— Troubleshoot automated tests
+— Execute regression test for releases
+— Produce status reports related to the testing process, including test results and defect tracking/prioritization
+— Setup test data
+— Work with other quality team members on test automation strategies across the product stack; proactively participate in QA chapter meetings
+
+**About the project:**
+Development, roll-out, and support of country-based of Our Client’s Next Generation Digital Architecture. Currently, we are setting up the NG triangle which is the heart of the Client business process, runs through a triangle of domains called PPA, CPQ, and Fleet Ops. The customer experiences 4 major milestones here — requesting a proposal, signing a deal, creating a quote, and incepting the contract when their car arrives. The goal is to have individual scaleable solutions within the triangle that can work and be deployed independently. But since the 3 domains are so interconnected the triangle was formed in order to ensure that the 3 components work together to deliver an end to end business process to the LeasePlan. The QAs are responsible to make sure the NGDA solutions are developed with minimum risk by running test automation in integration testing, end to end testing, and regression testing from both frontend and backend.",Levi9,3y,QA Automation,upper,2020-07-01T00:00:00+03:00,en,8841b8e2-1c05-5e01-aa0a-53bff4e188da,QA
+Security Operations Engineer,"Infopulse is inviting talented professionals to join our project as a **Security Operations Engineer** to strengthen our Security Operations Centre (SOC) in Kyiv for our respectable client BICS.
+
+As member of that SOC you will perform the Security Operations of both BICS as well as TeleSign (a recently acquired BICS affiliate).
+
+**Areas of Responsibility**
+You manage security Incidents & Vulnerabilities using our SOC ticketing system:
+ensure an adequate problem description for each reported issue
+determine correct severity as well as identify and appoint severity of the event
+throughout the lifecycle of the problem ticket, you are responsible for the accurateness of each ticket
+you will actively follow-up and actively poll for status updates and progress until remediation / ticket closure
+Ensure notable security events are drafted in an agreed report template which is provided monthly to Senior Management
+Log and follow-up policy / risk exception and exemptions through their lifecycle
+Security certificates are being managed, you track expire and ensure timely renewal
+Logging and tracking of temporary access or privileges
+Maintaining a PenTesting calendar and initiation, coordination of the pentest activities. You maintain a record of consumed/available Pentesting mandays (& costs). As well as ensure PenTest reports are centralized and securely stored
+Initiate, follow-up and register evidence of Quarterly User Access reviews
+You will also be actively involved in the vulnerability scanning process, analysis and following-up with remediation actions
+You initiate and coordinate Risk Assessment following the BICS Risk Mgt Framework
+You will be in charge of setting up and Producing a quarterly Risk Management dashboard Report
+You explore our big data, analyse trends, identify and maintain meaningful KPI’s and dashboards
+You scan for compliance against our policies and standards, log deviations and strive for remediation
+You develop and fine-tune existing security processes and procedures
+You apply automation where required and/or meaningful
+Act as a first-line contact point for various security consultations
+
+**You will have (and want to seize) the opportunity to extend your knowledge, explore, learn and grow in:**
+
+Security Information and Event Management (SIEM) environment
+Participate in the integration of the SIEM tool with sources of security incidents – e.g. logs from servers and applications, IDS/IPS, network and security devices
+Setting up and operating Vulnerability Management system, Antivirus system, etc.
+Performing Compliance management
+Build new use cases and enhance already existing ones, create alerts and monitoring dashboards, build reporting and SOC’s KPI
+Threat hunting activities using all available tools (SIEM, IDS, EDR etc)
+Actively detect and identify security weaknesses and determine the required remediation plan
+Work on improvements and or automation of existing tooling. You will look into evaluation and selection of new tools and supporting assets
+Perform security incident analysis and recommend remediation steps
+Participate in the automation of the prioritization of incidents and the identification of false positives
+Grow professionally, improve your hard and soft skills with further career opportunities
+
+**Qualifications:**
+At least 3 year of professional experience with IT and Network Security products and services.
+Passion for IT security tools, products and services, Network and Server Administration technologies
+Knowledge and experience with administration and hardening of Unix/Linux and Microsoft operating systems
+Knowledge of IT and Information Security principles, techniques and technologies
+Practical knowledge of security systems on the market (eg. Firewall, DMZ, SSL/IPSec VPN, Proxy, Remote Access, PKI …)
+Sound knowledge of Networking protocols and technologies, e.g. TCP/IP, Firewalls, NGFW, Routers, etc.
+Application security and general information security knowledge (eg. XSS, buffer overflow, URL tampering, SQL Injection, DDoS, Botnets, …)
+Proficiency in written and spoken English
+Strong analytical and problem-solving skills
+Ability to manage multiple tasks and resources
+Good presentation and communication skills
+You are structured and keen to identify and implement improvements
+You have basic programming and/or scripting skills (automation)
+Flexible and open for fast changes, always willing to learn and improve
+
+**Will be an advantage:**
+Programming and scripting skills (Python, Bash, Powershell, Perl)
+Experience with collaboration tools / ticketing systems (RT, Jira)
+Familiarity with telco technologies / protocols
+Experience with Endpoint Detection and Response Solutions
+Experience with Vulnerability scanners like Nessus, MVM, Qualys, etc.
+Experience with IDS/IPS solutions (Security Onion, Snort, Cisco IPS, NGIPS)
+IT Security Certifications like CISSP, CISM, CISA, CEH, GCIH, GCIA, OSCP, etc
+Experience with SIEM and/or SOAR solutions University degree in Information Technology, ideally IT Security related
+
+Your job may include occasional business trips– mainly to Brussels Headquarter, but possibly also other affiliates/locations.",Infopulse,1y,Security,intermediate,2021-11-01T00:00:00+02:00,en,620d8a25-9086-5c32-962a-e0f342897888,Security
+"Unity developer for Zordix (PC, Xbox, PS, Nintendo3DS, and Nintendo Switch)","Close and direct communication with the customer, Friendly and professional support team in Ukraine, active office life with ski trips, movie nights, tacos parties and pancake breakfasts, personal and career development plans with Nordic signature, cozy and modern offices.
+
+Come and join us and make this a success!
+
+Our client, a Swedish based internationally known Game Studio, are looking for a developer. They are looking to build a team based in Ukraine.
+The company is a publicly traded company on the stock exchange and have over the years received awards and praise for the gaming titles. They have released games on PC, Xbox, PS, Nintendo3DS, and Nintendo Switch. They developed the following games: Hayfever, Overpass, Ponpu, Project ""Knight’s Oath"", ""THUNDER"" - TBA, SNOW MOTO RACING FREEDOM - RELEASED, AQUA MOTO RACING UTOPIA - RELEASED, Aqua moto racing 3d, Snow moto racing 3d, Firefighter, Lawn Mower kids, Valet Parking.
+
+Do you want to join a quickly expanding company with a great culture? Then apply!
+
+Start date: 4th of January 2021
+
+
+Необхідні навички
+3+ years of Unity
+One (1) or more credited game release(s) for either PC or console.
+Great English skills
+
+Буде плюсом
+Knowledge about car racing simulators
+Having Physics as an interest
+Good social skills",InventorSoft Nordics,3y,Unity,intermediate,2020-11-01T00:00:00+02:00,en,d1bc574d-705f-5a94-82c7-f3115fd92cf0,GameDev
+.NET developer,"This is the first platform with built-in support for a sales and operational rocesses, including cross-selling/up-selling through the presentation of personalized offers and the possibility of problem-free handling of many issues during a ingle video session, with the option of transferring the customer to specialists/experts in the requested areas.
+
+**Requirements:**
+
+• Deep knowledge of C# & .NET / .NET Core frameworks
+• Over 1 years of experience in creating cloud solutions in Azure technology in the field of automation and integration with cloud services
+• Good knowledge of Azure Stack, including: Service Bus, Event Hub, APP Services, Storage account, Azure CLI
+• Experience in administering cloud platforms (Docker) and their frameworks (Kubernetes)
+• Experience with modern software engineering technologies & practices: DevOps, automated testing, CI/CD, Infrastructure as Code, Platform as a Service
+• Experience with continuous integration processes (Azure pipelines, Azure Devops)
+• Experience in designing microservices architecture
+• Experience in creating REST services
+• Experience in implementing unit tests and integration tests
+• Familiarity with Agile development methodologies: prototyping, refining requirements, estimating, etc.
+• Ability to communicate fluently in English
+
+Nice to have:
+• Experience of using: Entity Framework, ReSharper, Git, JIRA
+
+**Responsibilities:**
+
+• Design, development and delivery new cloud-based product solutions (LiveBank)
+• Participation in high-level architecture and design activities for the product (LiveBank) which have international aspiration
+• Initiative to come up with your own solutions, ideas, and improvements
+• Active participation in all SCRUM events, e.g., the sprint planning session, and the end of sprint demonstrations, where the latest innovations are shared with the larger team
+• Peer-to-peer code reviews
+• Continuously learning new things and eagerly sharing knowledge with others",DICEUS,2y,.NET,upper,2021-08-01T00:00:00+03:00,en,057f3438-a30f-5c51-a6a4-997cf0129e53,Backend
+Junior / Middle Node JS Engineer,"**What You'll Be Doing:**
+You will be responsible for expanding the systems, integrating them in the ecosystem of the partners and developing new features, like the new driver app and the new clients loyalty system. You will see a real world impact of your work.
+
+About 70% of your work will be committed to new functionality. The systems are running stable and are state of the art. 
+
+Design and implementation of new functionalities
+Set-Up of new customers and projects
+3rd party integrations
+
+ 
+**What We'll Expect From You:**
+Knowledge in NodeJS, TypeScript (1.5+ Years);
+Experience with at least 1 NodeJS framework;
+Experience in creating Rest API; 
+Independent thinking and strong problem solving skills;
+Ability to come up with pragmatic and sustainable solutions;
+Knowledge of creating secure systems
+Microservices, Message- and Event-driven technologies
+Focus on the quality of the code (Unit tests, TDD, etc.)
+
+**Nice to have:**
+Experience in Frontend VueJS
+
+Fundamentally we care more about how sophisticated your knowledge is and how challenging your last projects were, then necessarily the exact minimum years of experience. 
+
+**What we offer:**
+Modern Office in Kiev
+Dynamic Team
+Remote Work
+Paid sick leave and vacations
+Long Term Engagement
+Experienced leadership
+Perfect team size of 15 ambitious developers",LOBBY X,2y,Node.js,intermediate,2022-01-01T00:00:00+02:00,en,4a1800eb-ceb6-5734-98b5-9d6037c83475,Backend
+Medior and Senior Java Developers,"**RESPONSIBILITIES**
+
+- Work closely with product management on NLU engine, application software engineers and partners to understand requirements and specify interfaces for new and existing software
+- Design and develop high-volume, low-latency applications for mission-critical systems geared for high-availability and performance
+- Contribute in all phases of the development lifecycle
+- Consistently produce well designed, testable and efficient code
+- Ensure designs are in compliance with specifications
+- Prepare and produce releases of software components
+- Support continuous improvement by investigating alternatives and technologies and presenting these for architectural review
+- Identify and analyze user requirements
+- Prioritize, assign and execute tasks throughout the software development life cycle
+- Review, test and debug team members’ code
+
+**Mandatory Requirements**
+
+- 3+ years of working experience
+- Deep knowledge of Java/Java EE application development
+- Very good written and oral communication skills in English.
+- Proven experience in writing APIs, Web Services & Microservices using Java 8+.
+- Object Oriented analysis and design using common design patterns.
+- Self-motivated and driven to create extraordinary things
+- Ability to work under pressure and on strict deadlines
+- Continuous innovation mindset
+
+**Optional Requirements**
+
+- Knowledge of Golang (Go) and/or Python
+- Experience with Git, Maven, Gradle
+- Experience with relational databases (RDBMS)
+- Nice to have DevOps, CI/CD experience
+- Experience with containers (docker, kubernetes)
+- Experience with secure-coding principles
+- AI and NLP technologies
+- Speech related technologies
+
+**Benefits**
+- working from the office or remotely
+- Mostly 8-hours working shifts
+- 2 days off per week guaranteed;
+- Attractive compensation package;
+- Building successful cutting-edge technology products that are making global impact in service industry
+- Compensation fixed in US Dollars
+- Loyalty bonus 90% of fixed compensation twice a year
+- Healthcare plan (medical insurance, sport compensation, etc)
+- Proficient and fun-to-work-with colleagues
+- Long-term employment with 24 working days vacation
+- Apple gear
+- With Omilia, you will be able to travel to Greece for team buildings at our amazing HQ offices!",Omilia CIS,3y,Java,upper,2022-03-01T00:00:00+02:00,en,023e56e2-fa34-56c8-9279-a1f8eb81feba,Backend
+Java Developer ForgeRock,"As part of a team of talented engineers you will help build cutting edge cloud software. Your work will help to stabilize power-grids, conserve energy, and find new ways to leverage a diverse set of energy assets. This work will benefit a growing set of communities across the globe. You will have the opportunity to build and scale a customized access management solution as part of a service-oriented architecture. You will be responsible for supporting a growing suite of applications across a large company building new capabilities for more resilience, stability, and security.
+Responsibilities:
+• Work closely with our Product Management team to understand business requirements and implement them using technologies that include Groovy/Java, Terraform, Neo4j, SQL databases, RESTful APIs, Docker on AWS infrastructure.
+• Work as part of an agile team including other development engineers, test engineers, and product managers. Coordinate with team members around the world, mainly US, Italy, and Spain.
+• In addition to functional code, write unit tests, peer review others’ code, troubleshoot, and produce documentation.
+• Work with Tech Leads and Architects to provide resilient and scalable architecture
+Qualifications:
+• BA/BS in Computer Science or equivalent work experience
+• 6+ years of software engineering work experience
+• 2+ years with one or more of the following Identity Provider, Active Directory, authentication/authorization, SSO (SAML 2.0, OAuth 2.0 + OpenID Connect), and LDAP experience
+• Experience with ForgeRock tools (OpenAM, OpenIDM, etc)
+• AWS and Linux experience, including Terraform, docker, ECS/Kubernetes
+• DevOps CI/CD experience, running highly available services at scale
+• Fluency in English
+• Strong oral and written communication skills
+• Experience with Agile and Scrum methodologies
+• A demonstrated desire to adopt and learn new technologies and processes",Flexyti,2y,Java,fluent,2023-06-01T00:00:00+03:00,en,d100028e-7d74-561c-91f2-1b42a1e5de91,Backend
+Middle Java (Core) Developer,"Необходимые навыки
+— At least 1.5+ years of commercial Java development
+— Excellent understanding of Java SE and multithreading
+— Knowledge of distributed architecture and caching mechanisms
+— Knowledge of JDBC API
+— Knowledge of middleware principles and asynchronous communication
+— Knowledge of relational database: Oracle, PostgreSQL
+— Knowledge of NoSQL database principles (e.g. MongoDB, Elasticsearch) would be appreciated
+— Knowledge of some core development tools used within the company: ANT, Git/SVN
+— English level — spoken at least Intermediate (you will be working with senior java developer, who is located in Paris)
+
+Будет плюсом
+— Knowledge of Web applications: J2EE, EJB, REST architecture, JSON
+
+Предлагаем
+— Office near Naukova (only office work)
+— Annual paid vacations (20 working days) and 10 days sick leave;
+— Medical insurance;
+— Fruit Mondays, Pizza Friday
+— Work from office
+
+Development IDE: Eclipse
+Unit testing: Junit, DBUnit
+
+Обязанности
+— You will be working on Java backend components
+— Show technical expertise and handle development/testing tasks
+— Involved with the review and submission of solutions designs
+— Employs industry standard best practices
+— Follow up functional testing with end users
+— Provides level three support
+
+О проекте
+We are an innovative automated trading technology provider, with an excellent track record: We are unique today to have dedicated the past 12 years a massive R&D to bring automated trading technologies to equities, derivatives and FX on the same platform. We are working on the next generation of data-driven intelligent trading using the data and machine learning techniques. We work with major players in Europe and Asia who trust us for this, with high volumes and high complexity, which we deliver primarily in hosted/SaaS environments.",Argument,1y,Java,intermediate,2021-02-01T00:00:00+02:00,en,9e71b283-ca2f-5126-9f30-6fe8cca07c5a,Backend
+Middle+ Node.js Developer,"**ABOUT PROJECT**
+The technology to leverage the world’s consumer transaction data. Our project is a fast-growing product  in the global Alternative Data space. Our team tracks and analyzes Digital Consumer Behavior to help the world's largest corporations and investors to better understand their market and competitors. We are experts in turning unstructured information into structured data and actionable insights.
+
+**REQUIREMENTS**
+— Strong knowledge of Node.js/Next.js (3+ years);
+— Knowledge AWS, GCP, Azure;
+— Practical experience with Kubernetes / Docker;
+— English B2+;
+
+**Will be a PLUS**
+— Understanding how Scrapping works;
+
+**WE OFFER**
+— Opportunity for career growth;
+— Team of professionals & continuous self-improvement;
+— Really friendly team with no hierarchy inside;
+— Paid sick leaves, 18 days paid vacation and medical insurance;
+— Education expenses & sports coverage, English classes, corporate events;
+— Competitive compensation.
+
+**TASKS**
+— Development of new functionality and features for the project;
+— Support and refinement of existing functionality on the project;
+— Cooperation with all team members;
+— Maintenance and support of technical documentation of the project;
+— Constant growth and self-improvement.
+
+** FLOW**
+ Small talk with Recruiter→ Interview with Tech Lead → Job Offer",WizardsDev,2y,Node.js,intermediate,2022-08-01T00:00:00+03:00,en,b9568ed0-7abf-5e4c-ae60-a261b4b401aa,Backend
+Manual QA Engineer,"We are a digital agency that thrives to lead digital transformation and help our clients to achieve ambitious goals. You are going to work with a team of talented, creative experts who love their projects and do their best to contribute to their development.
+
+**This role requires: **
+
+— 2+ years of Manual QA experience
+— Solid professional background in testing projects within a software delivery environment
+— Experience in non-functional tests such as Performance, Security, and Accessibility
+— Strong knowledge of software testing methodologies, tools, and processes
+
+**Your day-to-day responsibilities:
+**
+— Interaction with Project Manager and Development Team
+— Manual testing for all assigned projects
+— Regression testing
+— Writing and maintaining projects documentation
+
+**Why us?
+**
+Five Jars is more than an employer. It is a mindset, a mission, a community. We want to change the way our industry operates by being transparent, respectful, and innovative – and that doesn’t only count for our clients but also for our team. That is why we offer an environment where your ideas and dreams can grow and become reality and a place to call **home**.
+
+**We offer:
+**
+— 100% remote work
+— Fair compensation;
+— Benefits such as vacation, sick leave, a day off during official national holidays;
+— Flexible schedule (7 hrs per day / 1 hr for learning new things);
+— Regular Friday Open Microphones about different tech things from other team members;
+— Help with learning new things (courses, books, etc.);
+— Support in participating in conferences;
+— Warm and friendly working environment;
+— Team buildings and other sorts of online/offline team activities.",Five Jars,2y,QA,intermediate,2022-06-01T00:00:00+03:00,en,232faee2-c424-5c88-855c-6f4ac5eed717,QA
+Junior/Middle .NET engineer with Spanish (B2-C1),"The project is about measuring urban mobility using GPS devices and using satellite images to measure Out-Of-Home audiences in order to contribute to the effectiveness of our client's businesses.
+
+The objective of the project is to provide clients with fundamental information and knowledge about their markets in order to increase their profits and reduce their risks.
+
+Main tasks on the project are:
+- to work with big data calculations;
+- to validate the data according to templates;
+- to run services to produce the data;
+- stick with security standards.
+
+**Responsibilities:**
+
+Developing system components throughout the whole product lifecycle.
+Refactoring the core functionality of the product.
+Collaborating with other .NET developers to design, architect, implement and build a frontend project
+Being part of a professional team collaborating with back-end developers and stakeholders.
+Cooperating closely with product owners to bring state-of-the-art back-end experience of a product.
+Come up with your ideas for the product enhancement and productivity boosts.
+
+**Requirements:**
+
+1.5+ years of relevant industry work experience.
+Tech-stack and specific expertise needed: .NET framework
+Experience in working with the .NET framework.
+Experience in working with DB and dockers.
+Joining the current team
+**Spanish B2-C1**
+
+**We provide the following for our employees:**
+
+18 working days of paid vacation
+10 working days of sick leave annually (5 days paid at 100% and 5 days at - 75% rate of your average monthly salary)
+Medical insurance
+50% cost compensation for English courses
+Flexible work schedule
+Additional days off for special occasions, national holidays off
+A competitive and rewarding salary based on performance appraisals/knowledge evaluation
+Possibility to share and gain knowledge on regular tech talks
+Friendly and professional team
+Innovative projects with advanced technologies
+Remote work
+Accounting service",Binariks,1y,.NET,intermediate,2023-01-01T00:00:00+02:00,en,ed80fdbf-8a08-55bb-b2d5-9f73bb1c6d2f,Backend
+Senior iOS Developer,"Become an iOS Senior Developer on one of the global projects we’re developing right now! You will use cutting-edge technologies and AI techniques such as deep learning to deliver powerful discoveries to our 100 million users. This application is a global platform that unites millions of people around the world and preserves family stories.
+
+**Here’s the experience that will help you to do the job:**
+● 3+ years of object-oriented software development experience.
+● 3+ years building iOS applications based on Swift/Objective C.
+● 3+ years of mobile application development at the user interface and system levels.
+● Experience in solving complex iOS challenges.
+
+**What else:**
+● Ability to understand and debug large and complex code bases.
+● Experience with multithreaded programming.
+● Experience writing unit tests and testable code.
+● Knowledge of iOS SDK performance tools and optimization techniques.
+● Excellent problem-solving, critical thinking, and communication skills.
+
+**What you’ll get from working with us:**
+- 39-days off
+- Remote work from any location
+- Flexible work arrangements
+- Full financial and legal support for private entrepreneurs
+- Full reimbursement for certifications
+- Sport reimbursement program
+- Reimbursement for costs of English lessons
+- Team buildings and corporate activities
+- Special corporate currency and merch store
+
+**Also, we offer a Cyprus relocation program which includes:**
+- a simplified process for obtaining Temporary Residence
+- further assimilation of the worker in Cyprus
+- document processing assistance
+- work permits and accounting
+- covering 50% of apartment rental expenses
+- reimbursement for flight tickets
+- legal support: permanent residence, schools & kindergarten, other
+There you can have the time of your life while working in the office at the seaside. Along with a team of skillful specialists, you can achieve more and grow professionally.",Yalantis,3y,iOS,intermediate,2022-04-01T00:00:00+03:00,en,128f7c20-6188-5927-be5e-da4a7eed4cad,Mobile
+Middle Java developer,"**About project**
+Platform for local shopping that allows people to shop together with friends and family in local shops. Application wants to conquer German market. Application is already in production in Montenegro.
+
+**What you have to deal with**
+- Integration of payment services;
+- Developing new business features;
+- Rewriting legacy code;
+- Auto-tests for code;
+- Code review.
+
+**What we expect from you**
+Deep knowledge: Java, Kotlin;
+DB: mySQL, postgreSQL;
+Webservers: nginx;
+Experience with: RestAPIs, Websockets, GCloud, modern DevOps: Kubernetes, Docker.
+
+**Will be a plus**
+- Spring Boot;
+- JPA;
+- Hibernate;
+- Mysql;
+- RabbitMQ;
+- Maven;
+- Java 8-11 (different services on different java).
+
+**What we offer**
+- Full time and remote work;
+- Flexible working schedule;
+- Direct communication with customers;
+- Working in a professional team (all teammates of the Mid + level);
+- Ability to influence product and company development;
+- 2 stages of the interview;
+- FREEDOM.",Rocketech Software Development,3y,Java,upper,2022-07-01T00:00:00+03:00,en,7622f56a-78bc-5688-8c97-0f67c90c66d1,Backend
+Senior .Net Developer,"On behalf of our client from Ireland, Mobilunity is looking for a .Net Developer.
+
+Our client is the financial modelling software layer for Excel. It adds a model structuring layer on top of Excel to transform the productivity of professional modellers. The client makes it easier to build and read financial models. The company has particular expertise in model review, and in models for the energy sector.
+
+**Requirements:**
+• 4+ years of experience with .Net
+• Compilers experience
+• Strong knowledge of Excel object model (or similar tools like SpreadsheetGear)
+• Upper-intermediate level of English
+
+🐳 **In return, we offer:**
+• The friendliest community of like-minded IT-people
+• Open knowledge-sharing environment – exclusive access to a rich pool of colleagues willing to share their endless insights into the broadest variety of modern technologies
+• Mobilunity Medical Insurance program designed to attend our teams’ needs
+• Paid vacations and sick leaves, including 5 paid days per year that don’t require a sick note
+• Fair salary and 100% taxes coverage – don’t worry about possible taxes raise – we will get you covered
+• Perfect office location in the city-center (900m from Lukyanivska metro station with a green and spacious neighborhood) or remote mode engagement: you can choose a convenient one for you, with a possibility to fit together both
+• No open-spaces setup – separate rooms for every team’s comfort and multiple lounge and gaming zones on all of the 3 floors
+• English classes in 1-to-1 & group modes with elements of gamification
+• Neverending fun: sports events, tournaments, music band, multiple affinity groups
+
+🐳 **Come on board, and let's grow together!**🐳",Mobilunity,3y,.NET,upper,2023-01-01T00:00:00+02:00,en,abfd2fad-8c95-5f04-bc83-d1f323f1ce5b,Backend
+Security Engineer,"Требования:
+A technical or university level qualification, preferably in Computer Science.
+Equivalent combination of education and experience may be substituted.
+Excellent written and oral communication skills (especially in the English
+language)
+Experience in tools like Burpsuite, IDA, GDB, ApkTool, etc.
+A strong knowledge of:
+○ Application security (mobile, client, web)
+○ Triage, vulnerability assessment, and responsible disclosure/reporting
+○ Penetration testing lifecycle (reconnaissance, penetration, reporting)
+○ Reverse engineering & decompilation
+○ Serialization mechanics used within network protocols
+○ Binary, hexadecimal, and ASCII notations
+A working knowledge in:
+○ Cryptographic algorithms (encryption, hashing)
+○ API architectures and mechanisms
+○ Back-end architectures and common vendor libraries
+○ Obfuscation techniques
+○ Anti-cheat wrappers (BattlEye, EAC, etc.)
+○ Python development
+○ Linux, Unix, Windows systems
+A basic knowledge of:
+○ TCP/UDP network protocol
+○ C++/C/C#
+Experience in malware analysis, forensics, Unreal Engine and Unity
+development a plus
+
+Обязанности:
+● Reverse engineering of binaries for network proxying purposes
+● Bootstrap proxy setup to support interception of custom network protocols and
+packet crafting
+● Penetration testing for a broad range of applications (mobile, client, web,
+console)
+● In-depth reporting of discovered vulnerabilities (PoC, resolution, technical and
+non-technical description of vulnerability)
+● Risk assessment of discovered vulnerabilities (impact, probability)
+● Collaborating with other team members during penetration testing (interaction
+is key during pair hacking)
+● Actively seeking and working on feedback from clients and partners
+● Performing security operations, communicating and assisting from a remote
+location",IT-REX,3y,Security,upper,2020-07-01T00:00:00+03:00,en,4f4f577f-4df2-5dbf-9290-48117c3e36f9,Security
+Junior+/Middle .NET Developer,"UppLabs is a software development ‘flat company’ (https://upplabs.com/blog/building-flat-company-in-ukraine-how-to-be-an-it-business-owner/), a friendly team of professionals who value each team member’s opinion. We are represented in the US, Switzerland, Israel and Ukraine. And now we’re looking for .NET developer to empower project for one of our client - Limehome.
+Limehome is currently the second-largest hotel concept operator in DACH that is leading the digital revolution in the hotel industry. 
+
+**During your suite stay you'll:**
+- Build the tech operating system of the next generation hotel
+- Develop microservices that help to automate 90% of today's hotel operations and ensure they are up and running 24/7 to give our guests the pleasant experience they deserve
+- Connect our property management system to many different third parties, from booking engines up to door locking systems and make sure the information keeps flowing
+- Develop a booking engine and include payment services in a way that people just love the easy and convenient experience of booking their next vacation with us
+-And so much more, we're just getting started :)
+
+**Requirements:**
+- 3+ years of proven working experience with .NET
+- Experience with ASP.NET
+- Experience with Angular2+ will be a plus
+- English - at least Intermediate Level is a must
+
+**You should apply if you:**
+- Are matching with the requirements,
+- Are willing to use our technologies,
+- Are hungry to learn and flexible,
+- Have experience and enjoy working within a fast-paced company (start-up),
+- Enjoy working in an environment where colleagues thrive on being independent,
+- Want a high exposure to large amounts of technology and innovation.
+
+**We offer**:
+- Competitive salary,
+- Possibility to work remotely,
+- Friendly team and enjoyable working environment,
+- Flexible work schedule,
+- Compensation for sick lists and regular vacations,
+- State holidays,
+- Quarterly event,
+- English lessons.
+
+If you are interested please send your CV with salary expectations.",Upplabs,2y,.NET,intermediate,2020-08-01T00:00:00+03:00,en,e010e387-0284-59be-9baf-bd1aa0fa8a27,Backend
+Middle Front End Developer (VUE),"Startup from Ukraine with HQ at Silicon Valley is looking for a Middle Front End Developer (VUE) to fast developing own new product. SmartExpert is a global, fully remote, and fast-growing product company. We specialize in employees development and building artificial intelligence tools to automate to increase productivity and motivation. In 2020, we launched a new product to realize our mission of helping businesses effectively development their employees and deliver positive user experiences with next-gen AI tools. We are 15+ people, located in 6 countries and speaking 3+ languages. We are currently looking for a Front End developer to be responsible for developing of new functions for our US based products.
+
+Responsibilities: develop new functionality and enjoy the speed of implementing new changes and new features
+
+You’re a perfect candidate if you have:
+- Develop on VUE more than 3 years
+- Experience of working at products startup
+- Fast work it is not a problem for you
+- Attention to detail, accuracy, responsibility, and diligence
+- Think about finally result and user experience
+
+What does SmartExpert offer you?
+- Startup atmosphere
+- Fast-growing (very fast)
+- Product which change future in human development
+- An environment without bureaucracy, and a culture where your voice is highly valued
+- Ability to work from anywhere in the world (but be available according to Central Europe time zone)
+- Salary in $
+
+SmartExpert isn't for everyone. We appreciate talents, no matter who you are, where you come from, and which picture you choose for the meeting’s background. If you feel that it’s something compelling to you, we would like to hear from you. Don’t hesitate to join our journey!
+
+Our website — https://smartexpert.ai/
+New product — https://contentbuilder.ai/",SmartExpert,3y,JavaScript,,2023-03-01T00:00:00+02:00,en,1d1fb014-dd80-5249-a5b8-e65eb441a703,Frontend / JavaScript
+Junior Java Developer,"Requirements:
+- Java Core, Spring Boot, REST API;
+- JPA, MySQL;
+- Maven,
+- HTTP, lombok, jackson JSON
+- Intellij Idea.
+- JavaScript, CSS, HTML;
+- trello-java-wrapper, org.quartz-scheduler, tess4j, jsoup
+
+What we propose in addition to the salary:
+- Cool team.
+- Interesting project with honest user feedback.
+- Accounting and legal support.
+- Teambuilding and other joint activities.
+- Some other very pleasure bonuses.",LIma,no_exp,Java,,2023-08-01T00:00:00+03:00,en,de1f152d-af72-5b45-9d43-7ee74707c394,Backend
+DevOps Engineer,"**Location:** Kharkiv
+**Type of employment:** full time, office/remotely, 
+                                     flexible schedule
+
+**About project:
+**This project provides cutting edge services to the motor vehicle industry.
+These services include business to government solutions i.e. electronic vehicle registration platform for dealerships which automates their communication with government and allows dealership clients to get their vehicles and related documentation faster.
+Another set of services that is gaining traction now is business-to-customer model which includes insurance and registration renewal solutions. We are also automating our processes by bringing in OCR, image processing/recognition, neural networks, and different kinds of automatics.
+
+**Technological stack on the project:
+**ASP.NET MVC, ASP.NET MVC Core, PostgreSQL, MySql, NoSql,
+ADO.NET, AngularJS, KnockoutJS, Google Cloud, RabbitMQ, Docker,
+Kubernetes, OpenCV, Neural networks, SOAP/REST/GRPC
+
+**What will you do:
+**● Environment-wise daily tasks to maintain operations, monitoring, control, and security;
+● Building and supporting CI/CD(Jenkins, Teamcity, Cloud Build);
+● Building and supporting automatic deployment process;
+● Troubleshooting infrastructure as well as functionality issues
+● Support several projects in GCP
+● Support several developments environments
+● Designed cloud infrastructure that is secure, scalable, and highly available on GCP
+● Implementing, configuring, and maintaining GCP infrastructure defined as code(terraform, ansible)
+● Help developers to support 200+ microservices 
+
+**You`re our ideal candidate if have:
+**● 1+ year of DevOps experience
+● 1+ year of SysAdmin (Linux/Windows) experience
+● Experience with Infrastructure as code
+●Experience in software release processes with automated CI/CD pipeline(TeamCity/Jenkin/Cloud Build)
+● Strong troubleshooting and investigation skills
+● English level from Intermediate and higher
+
+**Will be plus:
+**● Terraform/Ansible
+● Scripting Bash/Powershell
+● GKE/Docker/Kubernetes
+● GCP products experience
+
+
+**What do we offer?
+**● Flexible working hours, 40-hour work week;
+● Medical insurance;
+● Compensation for sports activities;
+● English lessons with a teacher in the office;
+● Full meals + tea, coffee, fruits;
+● Cozy new office next to the subway;
+● Holidays and events from the company that you will never get bored with :)
+
+**Need more information? Let’s discuss it here:)**",Murano Software,2y,DevOps,intermediate,2022-02-01T00:00:00+02:00,en,d46c27b7-6a25-555b-bf00-f1272ae5a8eb,DevOps
+Junior software engineer (product focused),"- Initial front-end focus with opportunities to broaden your horizons into full-stack Javascript / Typescript development -
+
+**About our software engineering position (React / typescript)
+**
+Front-end engineers are an essential part of our software delivery operations. Working closely with designers, back-end engineers and product management, you implement the user interface and (front-end) business logic of various web applications.
+
+We’re keen on best-practice software delivery making the most of modern tools like React, ES6, and Redux, and possible PWAs.
+
+Passion for the web combined with a product oriented mindset and personal portfolio will make you blend right into our team. We love to learn from each other and share experiences, even about crazy side-projects.
+
+**Technologies and required skills
+**
+- You fundamentally grasp the concept of (REST) APIs and you can interface with them
+- JS/TS: in-depth understanding of ES5.1 + ES6
+- React: Context API, Hooks, HOC “pattern”, lifecycle methods v16.4+
+- Redux: redux-thunks, middlewares understanding
+- Other: CSS/SCSS, Webpack core concepts understanding
+- Awareness of cross-browser compatibility issues and client-side performance considerations
+- Solid reading and speaking skills in English
+
+**As a plus
+**
+- Styled-components or other CSS-in-JS approaches
+- Experience with Cypress or other end-to-end testing frameworks
+- Node.js (Express) back-end understanding
+
+**We offer
+**
+We offer a friendly, stable and inspirational working environment with a strong team ready to help out where needed. During our weekly Panenco Labs sessions we share experiences from the various products that we're building, across different industries.
+
+A fair compensation, office snacks and fun afterwork drinks are included of course!
+
+**Operational setup
+**
+- You become an integral part of a specific product team within our company
+- You'll work under close guidance from the product manager who will set out the operational and functional direction
+- Our front-end chapter lead will be your main point of contact for the product-setup and technical specifics across the portfolio
+
+**Responsibilities**
+
+- Synchronise with the product designers on specific screens and component behaviours
+- Work with back-end engineers to build features and ship product increments
+- Build efficient and reusable front-end systems and abstractions
+- Find and address performance and cross-browser compatibility issues
+- Participate in design and code reviews
+- Identify and communicate front-end best practices
+- Share your learnings and insights during our weekly Panenco Labs sessions",Panenco,no_exp,JavaScript,intermediate,2021-11-01T00:00:00+02:00,en,c9679b08-f709-5658-8e23-ca35815b96e2,Frontend / JavaScript
+DevOps Engineer,"All this, while working closely with the engineering and data science lab groups designing the right infrastructure solutions, automating, and scaling the development, release, deployment, and monitoring processes.
+
+**Responsibilities:**
+- Designing and building the DevOps aspects of multiregional, scaled, redundant hybrid cloud and cloud-native solutions including the release process from development to production.
+- Creating scalable cloud and hybrid CI/CD pipelines for various products.
+Aligning with industry and vendors’ best practices.
+- Working with a large product base consisting of multiple product lines and complex interdependencies.
+- End-to-end responsibility for various services, infrastructure, and automation. Collaborating with various Engineering departments and leaders to set the vision, design, and build high-quality products and DevOps methodologies.
+ 
+**Requirements:**
+- At least 2 years of hands-on experience in DevOps.
+- BSc in Computer Science or an equivalent degree.
+- Strong understanding of CI/CD processes and pipelines, including designing, versioning, artifacts management, tools selection, and implementation using tools such as Jenkins, Azure DevOps, Circle CI, GitLab, BitBucket, and Artifactory.
+- Advanced expertise with Linux and Windows Server OSs.
+- Experience with programming\scripting languages, such as Python.
+- Hands-on experience developing Docker containers, using Helm, and managing Kubernetes infrastructure.
+- Working with public cloud providers and services and leveraging them programmatically.
+- Working with monitoring tools.
+- Deep knowledge in TCP/IP, HTTP, and Web Protocols.
+- Security-oriented and production experience.
+- Advance experience working for SaaS product companies, understanding SaaS-based architecture, and common integrations.
+ 
+**Advantages:**
+- Experience with data-intensive solutions.
+- Experience with databases such as SQL, Mongo DB, and BigQuery. 
+- Experience with GCP environment lifecycle (CI/CD for infrastructure)
+Experience with Terraform would be a big advantage.
+- Experience with GCP services such as GCE, GKE, GCS, Pub/Sub, Dataflow, Composer, etc.
+- Experience with Datadog.
+- Experience with managing on-premises infrastructure and designing automation for such an environment.
+- Experience with .Net Framework and IIS web server.
+
+**Why should you choose us? Because we provide:**
+- Many friends in our Gemicle family;
+- Ability to work with high-loaded projects with millions of users;
+- Working in an international environment;
+- Competitive salary;
+- English classes;
+- Gym discount;
+- Flexible working hours;
+- 18 holidays + 2 days off;
+- Paid sick leaves;
+- Cozy office in the center of the city with fruits, cookies...
+- Regular team buildings and nice presents for holidays.
+
+Interested to learn more? Come to us for a coffee:)",Gemicle,2y,DevOps,intermediate,2022-02-01T00:00:00+02:00,en,818b34ef-cbb5-5dcc-9299-53f31fc33898,DevOps
+React Developer,"Qualifications
+● Most important thing - you’re passionate about everything that is related to
+front-end development.
+● Solid understanding of React Framework.
+● Solid understanding of JavaScript / TypeScript
+● Familiarity with modern ECMAScript specification
+● Experience in communicating with REST and GraphQL APIs
+● Aware of platform-specific quirks of layout management (CSS Flexbox skills)
+● Knowledge of HTML5, CSS3 with preprocessors and frameworks
+● Practical experience with tools such as Webpack, Yarn, NPM, DevTools
+● Experience with GIT
+● Able to plan and write a project from scratch and take full responsibility for it.
+● Good English (both written and spoken)
+● Experience with open source is a plus
+Daily Responsibilities
+● Building Single Page Applications with React Framework
+● Communicating with REST and GraphQL APIs
+● Working with server-side rendering (Next.js)
+● Ensuring pixel perfect translation from design and wireframes to code.
+
+● Writing testable code and ensuring the high quality of the solution.
+● Working together with Designers and QA to make sure the Frontend is state of the art.",Make it in Ukraine,2y,JavaScript,upper,2020-09-01T00:00:00+03:00,en,581c1a57-0f1c-5205-afd8-08064dff2cc4,Frontend / JavaScript
+Full-Stack Javascript Developer,"Skills:
+•2+ years experience;
+•Strong knowledge and experience with Node.js;
+•Knowledge of NestJS;
+•Experience with Typescript;
+•Experience with web applications fundamentals like HTML, JavaScript, CSS, REST, JSON;
+•Experience with socket.io;
+•Experience with AWS eco-system is a Plus.
+
+     Good analytical and debugging skills: 
+•Understanding of formal software development process methodology;
+•Good written English and presentation skills ;
+•Ability to raise issues constructively with a team and with engineering management;
+•Decision-making skills;
+•Negotiation skills (You won’t be always satisfied with initial BE decisions);
+•Knowledge of estimation techniques;
+•Comfortable with source version control software (Git);
+•Working experience in a game industry ;
+•Experience with Vue.
+
+     Responsibilities:
+•Facilitate technical discussions;
+•Design and development of highly scalable, reusable and testable code; 
+•Share knowledge and best practices with other team members;
+•Maintaining high standards for code quality, testing, and performance;
+•Participate in code reviews to give and receive constructive feedback;
+•Support and improve the development process;
+
+      We offer:
+• Location near metro station (Vasylkivska) or remote (till the end of the quarantine);
+• Open management without bureaucracy;
+• Salary reviews according to the results of performance appraisal;
+• 10 days paid sick leave and 18 working-days' vacation;
+• Days off on National / Bank Holidays;
+• Partial compensation of any professional courses or training’s;
+• Conferences, knowledge sharing activities, certification;
+• Availability of sabbatical;
+• Possibility to grow inside the friendly and professional team.",KEVURU GAMES,2y,Node.js,intermediate,2021-01-01T00:00:00+02:00,en,98f813e1-90cd-5a20-b76e-a1ed4770e39b,Backend
+Devops (M),"Your profile:
+— BS degree in Computer Science (or in a relevant field) or corresponding working experience;
+— A sense of ownership and drive;
+— A systematic critical-thinking approach combined with strong communication skills;
+— Enthusiasm and passion for designing, analyzing, and troubleshooting large-scale distributed systems;
+— Willing to work within a distributed team;
+— Solid knowledge of Linux, development processes, and automation tools;
+— Knowledge of cloud computing and experience working with AWS;
+— Experience working with dependency management tools; 
+— Experience using technologies in several of the following areas: microservices, storage, containerization, build systems, continuous integration, continuous delivery.",O2IT Recruitment,2y,DevOps,intermediate,2020-09-01T00:00:00+03:00,en,66a90ce7-232a-56c8-a703-ff370f4164ef,DevOps
+Fullstack Developer (Node.js + React),"**About project:**
+Project in the field of finance for one of the construction companies. Web application to facilitate and organize purchasing building materials on credit in the construction industry. It is a B2B payment solution that facilitates and secures trade credit transactions of building materials for contractors and suppliers with back-to-back payments.
+
+**Your area of responsibility:**
+- Development of backend (80%) and frontend (20%) applications;
+- Development plans, design and architecture of the system and application development;
+- Work with banking API, banking integration and KYC.
+
+**Skills and requirements:**
+- 3+ years of proficiency in Node.js stack (TypeScript, JavaScript);
+- Experience with modern frontend technologies (React);
+- Experience with database PostgreSQL.
+
+**Will be a plus:**
+- General fintech experience and bank integration;
+- Experience in different types of tests.
+
+**We offer:**
+- Working in a team of talented and passionate engineers;
+- Opportunity to work with the most trending technologies;
+- Long-term enjoyable cooperation;
+- Covid medical insurance;
+- English classes;
+- Payable vacation and sick days;
+- Competitive salary depending on your own talents;
+- Regular performance & career development reviews;
+- Cozy office and nice family-type atmosphere;
+- Team building events.",SevenPro,3y,JavaScript,intermediate,2022-04-01T00:00:00+03:00,en,4a1be7a7-8954-51b7-8ddd-29f1b0d317a4,Frontend / JavaScript
+Java developer,"**Requirements**
+
+- 3+ years of experience in Java backend development
+- Deep and practical knowledge of Java
+- Strong knowledge of SQL and database architecture
+- English language proficiency
+
+**Your Role**
+
+- Build and support our backend REST API 
+- Propose best-in-class solutions to challenging problems
+- Think about ways to improve the performance and overall architecture of our platform
+
+**Will be a plus**
+
+- Experience with Java frameworks such as Dropwizard
+- Experience with AWS
+- Familiarity with AI, NLP, and/or machine learning
+- Experience with performance tuning, query optimization and caching
+
+This is a full-time remote position.",Entromy,3y,Java,upper,2022-04-01T00:00:00+03:00,en,3f383752-dd4b-55e1-a57f-586ea1b1b1cf,Backend
+Junior JavaScript Developer,"Requirements:
+- At least 6 months of experience with JavaScript.
+- English intermediate - upper intermediate
+- Willing to study
+
+Will be a plus:
+- Understanding SOLID Principles
+- Relational databases
+- TypeScript
+
+We offer:
+Healthcare
+— Medical insurance at the company’s cost
+— Payment for sports/cultural activities
+— Consultation with a psychologist
+— Paid vacation
+— Paid sick leaves
+
+Career
+— Option on your choice: Remote or In-office work
+— Individual development plan
+— Mentorship programme
+— Regular performance review
+— Business trips to our partners
+— Yearly bonus for the development team
+
+Educational programme
+— English lessons with a native speaker
+— Soft skills training
+— Professional courses at the company cost
+
+Corporate culture
+— Team-building, social events
+— Corporate trips and travelling abroad
+— Free lunches
+— Presents for employees on their anniversary of working in the company
+— Birthday presents/New Year presents/presents for Company’s Birthday
+— Regular cultural events in and out of office
+— Marriage and childbirth encouragement",Synebo,no_exp,JavaScript,intermediate,2021-04-01T00:00:00+03:00,en,ce6e67e3-bdfd-5250-b1af-938767a6257e,Frontend / JavaScript
+Blockchain Developer (Node.js),"About the company:
+AnyTeam is a FinTech expert with more than 10 years of practice on the market. 
+We are a Ukrainian-based product company. 90% of our team is located in Kyiv.
+We are specializing in the field of high-performance financial systems, as well as we have expertise in payment systems development, aggregates, terminals and gateways. We are creators of our own products that are successfully being used in the financial sphere.
+
+We expect from the candidate ↓
+
+The main stack:
+- Node.js (3+ years) 
+- Type-Script, Nest.j 
+- Postgres (Sequеlize ORM)
+- Mongo, REST/RPC, RMQ
+
+Crypto skills (2+ year):
+- Web3 fundamentals
+- Experience with Ethereum, Bitcoin(and forks), Tron, Cardano, Stellar: consensus, network practices, libs, accounting models, smart-contracts interaction features of each of the blockchains (resources, transaction scheme, etc)
+
+Base cryptography skills:
+- Key-pairs generation mechanisms, HD wallets
+
+Will be a plus:
+- Development of payment gateways for crypto products (wallets or exchanges)
+- Interesting experience in working with crypto (DeFi, NFT, Mining).
+- Solidity
+- Open-source crypto projects
+
+Our benefits:
+- Medical insurance
+- Paid courses, conferences, training sessions, workshops etc.
+- English classes
+- Sport compensation
+- Motivated and goal-oriented team
+- Direct impact on the development of the product
+- Corporate laptops
+
+Are you interested?
+Please feel free to contact me if you need any further information.",EvoTalents,3y,Node.js,,2022-09-01T00:00:00+03:00,en,3051746b-9f40-5166-abe9-b8458d1d5819,Backend
+Associate Java Engineer #11437,"MAIN TASKS AND RESPONSIBILITIES:
+Feature development
+Contribute to automated tests (unit, feature, etc)
+Maintain CICD environment
+
+EDUCATION, SKILLS AND EXPERIENCE:
+MUST HAVE:
+Experience with development in Java. (2+ years)
+Knowledge of the Java stack - Spring, Apache libraries and common open source frameworks
+Experience with AWS cloud services
+Experience with Spring, REST frameworks (Jersey), SaaS platform API design, API Strategy
+Experience with microservices and frameworks (Spring Boot)
+Experience with CICD pipelines (CircleCI, Jenkins, github)
+Intermediate level of English",Lohika,2y,Java,upper,2021-11-01T00:00:00+02:00,en,91d250b8-f493-58d5-91de-664dfc6e3bf2,Backend
+DevOps Engineer,"Tasks:
+- Developing a game on different platforms (Android, iOS, WebGL);
+- Optimizing the game for the best performance on all supported devices;
+- Implementing new client-side features;
+- Improving existing code;
+- Integrating native plugins for 3rd party services.
+
+Requirements:
+- Strong knowledge of C#;
+- +4 years of experience in software development;
+- Native mobile development experience on Android & iOS (Java, Objective-C);
+- Experience with Unity;
+- Experience with OOP using design patterns.",Uadev,3y,DevOps,intermediate,2022-04-01T00:00:00+03:00,en,29696c86-ec57-5437-9b7f-32dbc195000f,DevOps
+Middle/Senior Front End Engineer (Angular),"**WE ARE**: StartupSoft connects top Ukrainian engineers with world-class startups from Silicon Valley and EU. Our developers work directly on the product as an integral part of the startup team.
+
+**PROJECT**: Grit is a software (set of tools) that uses ML/AI to identify in real-time how good is the engineering solution that a given engineer comes up with. It’s essentially a competitor to Github's Copilot but with more functionality. This product is a big step toward self-developing and self-maintaining software that will require little to no oversight by engineers.
+
+**STAGE**: live product. Founded in 2022.
+
+**STACK**: FE: Angular (Typescript); BE (CLI - Command Line Interface): Node (Typescript)
+
+**TEAM**: Current engineering team: CTO, technical CEO and up to 10 engineers.
+
+**REQUIREMENTS**:
+**Github with pet projects is must-have**.
+Must have at least 2 years of Angular experience;
+4 years of software engineering experience;
+TypeScript experience is essential;
+Execution-driven mindset: you love shipping;
+Comfortable working in low-structure environments and navigating unknown unknowns;
+Excellent communication, writing and presentation skills;
+Previous experience working on developer products or linters (even as a side project) is a plus;
+Open-source contributions are highly valued;
+Very good English level;
+Experience working on startups or product companies. Desire/ability to work in a dynamic startup;
+
+**RESPONSIBILITIES**:
+Identify and build patterns to improve open source and customer JavaScript code
+Contribute to our product roadmap by suggesting (and building) features to enhance our integration with the JavaScript ecosystem;
+Adding new built-in commands to our CLI.
+
+**YOU WILL GET**:
+Competitive financial reward and other social benefits;
+Possibility to work with minor supervision and low-bureaucracy;
+Flexible schedule and friendly working atmosphere;
+Tight-knit team with an inclusive and transparent culture.",StartupSoft,5y,JavaScript,upper,2023-07-01T00:00:00+03:00,en,f11d634a-7696-56e4-809a-0c5253c196be,Frontend / JavaScript
+Manual QA Engineer (Junior+/-Middle),"**Required skills**
+• 2+ years of experience working as QA Engineer; 
+• Knowledge of software development process, testing lifecycle understanding;
+• Experience with bug tracking system (JIRA);
+• Experience in creating and supporting testing documentation (test case, bug report, test plan);
+**• Knowledge of English at the level of reading and understanding technical documentation.**
+• Understanding of Agile methodology;
+• Good knowledge of browser Dev Tools;
+• Extremely detail oriented, investigator and troubleshooter;
+• Good communication skills, team working;
+**As a plus**
+• Automation testing skills;
+• Experience of working with Postman;
+• Experience with databases;
+• having a car.
+**We offer**
+• participation in the full cycle of product development (product company);
+• official employment;
+• minimum bureaucracy;
+• flexible working hours;
+• paid sick leave;
+• opportunity to attend paid seminars, workshops, trainings and conferences;
+• corporate events and trips.
+**Responsibilities**
+• Manual testing of web applications and mobile apps;
+• Perform regression testing;
+• Testing of new features for upcoming releases;
+• Verification of bug fixes;
+• QA documentation development and support;
+• Communicating with QA, Development, Support teams;
+• Quality control throughout the development cycle.",Toplyvo UA,2y,QA,,2020-07-01T00:00:00+03:00,en,1d3bca23-ffa9-5dee-b502-76fa428b138f,QA
+Front end developer,"Job Description
+
+We are looking for Front-end developer who is proficient with React.js. Your primary focus will be on developing user interface components and implementing them following well-known React.js workflows (such as Flux or Redux). You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important.
+
+Responsibilities
+Developing new user-facing features using React.js
+Building reusable components and front-end libraries for future use
+Translating designs and wireframes into high quality code
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers
+Optimize front end performance for high traffic sites
+
+Skills
+Strong proficiency in JReact.js, HTML/CSS.
+Experience with popular React.js workflows (such as Flux or Redux)
+Experience with data structure libraries (e.g., Immutable.js)
+Familiarity with RESTful APIs
+Familiarity with modern front-end build pipelines and tools
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+Ability to understand business requirements and translate them into technical requirements
+A knack for benchmarking and optimization
+Experience with high traffic type of sites",CMP,5y,JavaScript,intermediate,2023-03-01T00:00:00+02:00,en,a4ca92e0-301c-5d47-ba33-72b2fc621c98,Frontend / JavaScript
+Senior Back-end (Java) Engineer #10894,"Purpose of the job:
+Our client is one of the biggest fashion accessories retailers. Focused on design, confection, manufacturing, as well as distribution and retail. Multi-branded and fast-expanding with a remarkable presence globally. The main idea is to bring customers closer to the products they need. Currently, we are looking for Java Engineer who will find the best technical solutions for our customer.
+
+MAIN TASKS AND RESPONSIBILITIES:
+Research and evaluate technical options to implement business requirements
+Work in contact with team members and project stakeholders on customer’s site
+Write quality, maintainable code with extensive test coverage in a fast-paced professional software engineering environment
+Take part in requirements analysis
+Interact with customer and provide technical solutions
+Report to TL about current tasks status, technical, and other risks
+
+EDUCATION, SKILLS AND EXPERIENCE:
+MUST HAVE:
+4+ years of commercial Java development experience
+Java 11
+Spring
+Experience with Kafka, MQ
+Experience with any relational DBs (MariaDB, MySQL, Postgres, DB2)
+Intermediate or higher English level
+
+WOULD BE A PLUS:
+Understanding of Microservices Architecture
+Experience with Spring Boot
+Experience with OpenShift platform
+Experience with gRPC
+Experience with MongoDB
+Experience with binary communication protocols",Capgemini Engineering,3y,Java,intermediate,2022-01-01T00:00:00+02:00,en,05df91c0-da6e-5646-9661-2518f724061b,Backend
+Senior Automation Tester (Python) for a Media Conglomerate,"Test backend services
+Design test plans and cases, execute both manual and automation tests and report back to the team
+Review requirements and software design specifications and software implementation, give team QA’s feedback
+Create new automated test cases using Python/Robot Framework
+Enhance existing backend automation suit and create new automated test cases using Python
+Reporting defects and working with the team to resolve them
+Work in an Agile team, to provide QA feedback including test status, test progress, product quality, and process quality
+Partnership with Dev to building automation solution in a CI/CD pipeline in a fast pace release cycles, reduce human errors
+Requirements
+Solid skill of test methodologies, test planning, test cases design, identify software defects and debugging
+3+ years of experience test automation in Python
+Experience in manual testing
+Experience with test backend services
+Experience in backend automation testing
+Experience working in Agile team (Kanban/Scrum)
+Experience with CI/CD and tool (Jenkins)
+Experience with AWS, FTP and Elasticsearch
+Experience with Relational DB and Non-Relational DB
+Good written and verbal communication skills
+Bachelor’s degree in Computer Science, Software Engineering, or similar field",Epam,3y,QA Automation,intermediate,2022-02-01T00:00:00+02:00,en,8cd8b570-7f93-550e-95fc-0b8b7cb1fdac,QA
+Middle JavaScript Developer for Ciklum Digital,"Project description:
+
+Ciklum will build the collaborative sportswear design platform for TOP-5 company of the sportswear market. Scalable solution that will be used by famous worldwide sportswear designers to create and bring to market new sports fashion collections. Part of the larger Product Lifecycle Management ecosystem the platform delivered within the current project will become a market differentiator and key comparative advantage for multi-billion business. Project will use proven and edge technologies and concepts, such as SAFe, Behaviour-Driven Development, DevOps, Event-Driven architecture.
+
+Responsibilities:
+- Be proactive in communication with team members and client
+- Contribute ideas through your knowledge of evolving front-end technologies
+- Delivery. Create and maintain modern interfaces according to unit standards
+- Code Quality. Follow and improve code quality standards
+- Analyze and Estimate. Perform technical assessment of UI mockups/wireframes to ensure the possibility of their implementation within reasonable time
+
+Requirements:
+You can name examples of use in different contexts. Are guided by best-practices and specifications of such skills:
+
+- HTML/CSS. Preprocessors, Methodologies
+- JavaScript. Core, Performance
+- React. Components, State management, Performance
+- Package management, Module bundling
+- Experience with CI/CD set up, Docker
+- Software testing. Approaches, testing types
+- Git
+- Intermediate English
+
+Desirable:
+You should have an idea of the subject and its parts. Can explain. Has experience of use of such skills:
+
+- Micro-FE approach
+- Monorepo approach
+- Quality tools
+- Cloud computing platforms (e.g. AWS, Google Cloud Platform, Microsoft Azure)
+- Agile, task tracking tools, knowledge management tools
+- Familiar with UX concepts such as Information Architecture
+
+Personal skills:
+- Has sufficient communication skills for effective dialogue with customers and colleagues
+- Collaborates in a team effectively
+- Is able to plan, schedule and monitor own work within short time horizons
+- Demonstrates a rational and organized approach to work. 
+- Understands and uses appropriate methods, tools and applications. Identifies and negotiates own development opportunities. 
+- Works under routine direction, without frequent reference to others.
+
+What's in it for you:
+- Career growth opportunities
+- Realization of your innovative ideas in building new Ciklum Solutions and Services
+- Friendly collaborative teams and enjoyable working environment
+- Professional skills development and training programs
+- Variety of knowledge sharing, training and self-development opportunities
+- State of the art, cool, centrally located offices with warm atmosphere which creates really good working conditions Gdansk or Wroclaw
+- Work from home/100% remote
+- Private medical healthcare fully covered by Ciklum with a possibility to cover family members
+- Fully covered life insurance – 100 000 PLN
+- Fully covered drug insurance – up to 2 000 PLN/year
+- Multisport card 100% covered by Ciklum – Benefit Systems, Plus package
+- Parking space 50% covered by Ciklum",Ciklum,3y,JavaScript,upper,2022-03-01T00:00:00+02:00,en,e7a71fb2-01c7-59d7-abdf-720718abf2c1,Frontend / JavaScript
+Middle Java Developer,"RESPONSIBILITIES:
+
+Service provision in accordance with the agreed standards and specifications of the client(framework agreement, process model, if necessary, further specifications)
+Quality of the developed software codeServices
+Programming/implementation / customizing of technical components in applications on the basis of the technologies used, including the corresponding interfaces, modules and corresponding databases in compliance with the standards of the client (e.g. use of standardized development environments and programming guidelines)
+Correcting errors from the test phases in the applications/components
+Documentation of the technical components
+Creation of system documentation
+Creation of delivery packages for the relevant applications
+Setup of development environments incl. continuous-integration
+Performing code reviews, component tests, module tests, module group tests
+Preparation of decision papers on technical topics
+Presentations on technically complex topics
+Reporting risks and problems to the technical architects and project management 
+
+REQUIREMENTS:
+
+3+ years of experience with Java, Java EE, JUnit, JavaScript, JSON, REST                                                           
+Knowledge and experience in the area of AWS (Amazon Cloud)              
+Knowledge and experience in the area of REST services Apache Kafka, SpringBoot                                      
+Knowledge and experience in GIT, Jenkins, Docker, Kubernetes          
+Knowledge and experience in JUnit, TestNG, SonarQube, HTML        
+Apache VTL (Velocity Template Language), SVG (scalable vector graphics)    
+Experience in an agile project environment, preferably SCRUM  
+
+WE OFFER:
+
+8 hours working day with flexible working hours
+The possibility of remote work optional, up to 20%
+20 working days of paid vacation compensation 
+Corporate doctor services
+Partial gym pass compensation
+Different sports activities in office (badminton, tennis, darts, gym)
+Free English classes in JSP office 
+Fully equipped the office with car and bicycle parking 
+Snacks in the office",JetSoftPro,2y,Java,upper,2020-06-01T00:00:00+03:00,en,5b497bab-1d56-5e0e-b817-18ce7d6703ce,Backend
+Automotive Software Engineer,"We are an IT company. In search of proactive and communicable colleagues for the realization of all our big plans. We like to solve complex problems by focusing on the result and increasing the skills of our employees.
+If you like to solve different tasks and you want to grow as a developer, join us.
+
+Currently, we are looking for a well-versed Automotive Software Engineer that will work with our new project in the sphere of automotive. Our client is from Germany, so you’ll have the opportunity to communicate with a multicultural squad. You'll find out more details in the interview because our project is under NDA.
+
+**Required skill set:**
+Strong knowledge and experience in C and C++
+Solid commercial experience in designing and building IVI system and software architecture
+Experience in embedded software development
+Ethernet protocol understanding
+GDB understanding
+Lauterbach: analyzer, debugger 
+Cyber security understanding
+Good understanding of Linux operating system
+Scripting: make, linux bash, powershell
+
+**What company offers:**
+Professional growth and good experience by working on different projects;
+Develop and implement new features;
+Make responsive layouts according to design;
+Vacations/Sick leaves availability;
+Working time: 40 hours per week;
+Cookies, coffee, tea for your happiness.",impltech,3y,C++,upper,2021-02-01T00:00:00+02:00,en,33918f6f-1adb-588c-88b0-acad1d1e8c33,Backend
+DevOps Engineer for Data Catalog Solution,"**What you can expect:**
+•	You ensure the availability of our Data Catalog Solution for users in Austria and our 15 international units
+•	You shape and operate the product in an agile setup
+•	You continuously improve the Data Catalog
+•	You solve IT infrastructure issues, ensure IT security measures are fulfilled and solve technical issues
+•	You optimize technical workflows for cost effective cloud usage
+•	You design, implement, test and deploy metadata bridges and connect new metadata data sources from head office and our international units
+•	You act as a trusted partner for our international units (align requirements, detect synergies and remove contradictions)
+•	You provide excellent support to users
+
+**What you bring to the table:**
+•	3+ years professional experience in developing and operating software solutions. 
+•	2+ years professional experience (hands-on) in AWS environments (AWSLINUX, EC2, Lambda, Terraform)
+•	2+ years professional programming skills, Python experience (ideally Django) and experienced in scripting RESTful AP
+•	2+ years professional experience (hands-on) with various Database technologies or Data Lake
+•	1+ years professional experience working in a product-driven environment
+•	You demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management
+•	You are a versatile team player that enjoys collaboration but also solves problems on its own
+•	You have a structured working approach and high problem-solving skills
+•	You are familiar with agile working methods
+•	Very good command of English (mandatory)
+
+**What you might like about us?**
+• Motivated team in one of the leading banking groups in Austria and Central and Eastern Europe
+• Knowledge sharing in our Group wide IT community including 14 Raiffeisen Banks
+• Competitive Salary twice a month (based on EUR NBU rate)
+• English courses
+• Long-term official employment, sustainable and stable working environment
+• Paid sick leave and vacation (31 days per year)
+• Medical insurance
+• Access to professional development programs (IT academy, ISTQB certification etc.)
+• Comfortable work conditions (open space office)
+• Possibility of remote work
+
+**Our selection process includes:**
+• CV pre-screening and short call with Olga or Alina
+• Virtual interview with Division Lead and technical experts from the project (1.5 hours)
+• Background security check running in parallel
+• Prompt feedback after every stage and a short summary of next steps
+
+If you are interested in this opportunity, please apply now.",UDC/Raiffeisen Bank International,2y,DevOps,upper,2022-01-01T00:00:00+02:00,en,a2717b96-aece-51c6-be98-d0620c35ba8e,DevOps
+Middle WordPress Developer,"**Our teammate needs to meet the next requirements:**
+● at least 1-year experience with WordPress
+● strong knowledge of front-end development (HTML, CSS, JQuery, JavaScript)
+● good knowledge of PHP, SQL
+● understanding of WP template structure, WP ecosystem
+● experience in creating WordPress themes from scratch
+● experience in WordPress plugin development
+● knowledge of ACF, WooCommerce, Contact Form 7, WPML plugins
+● at least pre-intermediate level of English
+● ability to work independently, and as a team member.
+
+**Nice to have:**
+● experience with Vue.js + WordPress development
+
+**What you will do:**
+● estimate, develop and maintain WordPress-based projects in accordance with provided design mockups and business requirements
+● develop Custom Fields, WordPress Themes, WordPress Plugins
+● produce a clean and understandable code
+● participate in communication with our international clients in English whenever required, both in written or verbal forms.
+
+**What do we offer:**
+
+● competitive salary, regular salary review
+● corporate English classes at the office (1,5 hours twice per week)
+● 7- hours working day
+● paid vacation of 12 working days
+● relocation support to Ivano-Frankivsk (if needed)
+● we provide iMAC/MAC equipment or Windows/Linux according to your request
+● game zone at the office, team-buildings, parties and corporate events in mountains.
+
+**Interview steps:**
+1. CV review
+2. Interview with HR/Recruiter
+3. Technical Interview
+4. Making the final decision and give you feedback.",Northell,1y,JavaScript,intermediate,2021-03-01T00:00:00+02:00,en,88bf265e-2911-5638-88ab-a6e3c3a0a408,Frontend / JavaScript
+"Middle+/Senior .NET developer (.NET core, product)","**About company:**
+   Our customer is a German software development company specializing in fintech, open banking, banking technologies, and SME IT development.
+
+   The company’s offices are located in Germany and Great Britain, and R&D centers are located in Ukraine.
+
+   The company does not have complex hierarchical structures. Here a cozy, open atmosphere is cultivated, as well as ease of communication between all the employees: from fellow developers to management.
+
+**About project:**
+    It is a community platform where coders learn, collaborate and compete via our gamified leagues, competitions and hackathons.
+
+   We develop solutions for passing code challenges, developers profiles based on their work profiles.
+
+   This product is currently used by such companies as Coca-Cola, Cisco, Playstation and Harvard University. We will tell you more at the interview.
+
+**What knowledge and experience we expect from our candidate:**
+- Strong .NET development skills
+- Experience in designing and implementing RESTful web services
+- Experience in software release process with automated CI/CD pipeline
+- Strong troubleshooting and investigation skills
+- OOP, SOLID, Design Patterns;
+- Knowledge of algorithms and data structures;
+- English level from intermediate and higher.
+
+**Will be a plus:**
+- Experience with AWS
+- Practical experience with MongoDB, PostgreSQL
+- Experience with MassTransit, RabbitMQ
+
+**In addition to interesting tasks, we also offer:**
+- Work as a PE (the company has an accountant who deals with these questions), tax compensation
+- 18 working days of paid vacation, 5 days of sick leave
+- Cozy office in the city center
+- A fully equipped workplace in the office
+- Professional growth
+- Access to internal English courses
+- Participation in conferences and educational events, with compensation from 50% to 100% of the cost
+- Social corporate activities and events",CODEX recruiting agency,3y,.NET,intermediate,2022-09-01T00:00:00+03:00,en,efe35aeb-1675-5ac8-ae1b-b66ba1d3ff2e,Backend
+Trainee QA,"**Required Skills:**
+
+- Knowledge of software quality assurance;
+- Knowledge of software QA methodologies, tools, and processes;
+- Knowledge of black box and gray box testing;
+- Basic knowledge of SQL; 
+- Knowledge of browser dev tools.
+
+**Aditional Skills:**
+
+- Ability to work flexible hours and be in touch 24/7 is a big advantage;
+- Good English;
+- Ability to adapt to changing environment in a positive manner; 
+- Willingness to obtain new skills and take extra responsibilities.
+
+**Responsibilities:**
+
+- Existing product support and testing; 
+- Participation in new product development.
+
+**We offer:**
+
+- 3 months is a probationary period that is not paid. If this is successful, the salary will be appointed according to your work results;
+- Full-time employment;
+- Working schedule from 9 AM to 6 PM (Kyiv time) but it can be flexible during the probationary period;
+- Friendly colleagues;
+- Totally remote job;
+- 20 paid time off hours for each full month worked which is 30 PTO days per year, which you can use whenever you want.",promdex,no_exp,QA,intermediate,2021-12-01T00:00:00+02:00,en,833407c9-e16f-5911-8e88-6a74b158629b,QA
+Junior Manual QA engineer,"Experience / Skills:
+
+Must have:
+1,5 + years as Quality Assurance Engineer
+Strong understanding of QA processes and methodologies
+Experience in manual web testing
+Understanding of software development life cycle
+Experience working with test documentation (test plans, test cases etc.
+Goal-oriented and attentive to details
+Willing to learn new skills and technologies
+Upper-intermediate English is a Must :)
+
+We offer:
+Great team spirit
+Modern technologies and management methods
+Career opportunities
+Flexible working schedule, paid vacations and sick leaves
+Business trips
+Medical insurance
+Regular parties
+Great office location near subway Maidan Nezalezhnosti and Zoloti Vorota
+
+Responsibilities:
+Establishing requirements
+Test plan creation
+Test execution
+Test case documentation / reporting
+Regression testing",NCube,1y,QA,upper,2020-11-01T00:00:00+02:00,en,6d539b0b-f2de-5a46-809f-c0d3da2ca51d,QA
+Python Developer,"O'Dwyer Software is a UK software development business. We are currently expanding into Ukraine and are looking for a highly skilled developer to take control of our next project.
+
+You'll be working on a mix of customer projects and our own products, tech stacks often include:
+
+- Python 3+
+- Django & Flask frameworks
+- MySQL, Postgres, ElasticSearch & Redis
+- AWS, Google Cloud, Azure
+- Celery
+- pytest for testing
+
+Requirements:
+
+- English language skills.
+- You have at least a few years of experience in Python/Django/Flask (we're flexible on this if you can show some previous projects).
+- Experience with hosted source control systems (Github, Gitlab)
+- You see testing as important.
+- You see value in a simple readable implementation.
+
+Bonus:
+
+-  Experience building deployment pipelines (CircleCI, TravisCI, Jenkins)
+
+Work conditions:
+
+- Competitive salary.
+- Flexible working hours, no overtime.
+- Our office is in the Gulliver building, central Kyiv. (Remote working is also possible)
+- B2B contract.",O'Dwyer Software,2y,Python,intermediate,2021-07-01T00:00:00+03:00,en,c901baac-e412-5d2c-97dd-b64ce06c73d3,Backend
+Trainee/Junior QA manual (only for the Cherkassy office),"**REQUIREMENTS:** 
+At least an Intermediate level of English both writing and spoken
+Good level of theoretical knowledge in QA
+Understanding of the testing process, QA basics, and tools
+Practical experience in testing at least on QA courses will be a plus 
+Understanding of testing techniques and types of testing documentation
+Understanding of software development lifecycle
+Basic knowledge of CSS, HTML, SQL will be a plus
+Higher technical education would be a plus
+Being a motivated and detail-oriented team-player
+
+**RESPONSIBILITIES:**
+Manual testing of different types of software
+Creating and updating testing documentation 
+Creating of bug reports
+Participating in meetings with customers and taking part in product development processes.
+
+**WE OFFER:**
+Projects that allow growing fast professionally
+Onboarding and mentoring process for new employees
+Friendly atmosphere and well-qualified professional team
+Cozy office
+Flexible work schedule
+
+Working at the Cherkasy office alongside the open-minded and highly motivated team",Qarea,no_exp,QA,intermediate,2021-07-01T00:00:00+03:00,en,d4613f9e-4c36-5815-8244-067568485d5a,QA
