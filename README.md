@@ -10,6 +10,7 @@ The system ranks IT job vacancies for a given CV with Sentence-BERT, compares it
 - `data/samples/` - small previews of the processed data
 - `data/docs/` - data README and codebook
 - `notebooks/` - data processing notebooks
+- `figures/` - figures used in the thesis
 
 ## Data
 
@@ -26,5 +27,7 @@ data/raw/djinni_jobs/train-00000-of-00001.parquet
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
-jupyter notebook notebooks/01_data_selection.ipynb
+jupyter notebook
 ```
+
+Run notebooks in order: `01_data_selection.ipynb`, then `02_data_cleaning.ipynb`.

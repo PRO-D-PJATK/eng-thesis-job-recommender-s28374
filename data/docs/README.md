@@ -14,7 +14,9 @@ Paper: N. Drushchak, M. Romanyshyn, "Introducing the Djinni Recruitment Dataset:
 - `data/raw/` - original Parquet files and dataset cards from Hugging Face. Not changed.
 - `data/processed/candidates_it_v1.csv` - 132,220 CVs with IT roles only.
 - `data/processed/jobs_it_v1.csv` - random sample of 20,000 IT job postings.
-- `data/samples/` - 50 rows of each processed file.
+- `data/processed/candidates_it_v2.csv` - 126,734 cleaned CVs with an extra `CV_bm25` column.
+- `data/processed/jobs_it_v2.csv` - 19,306 cleaned job postings with an extra `Long Description_bm25` column.
+- `data/samples/` - 50 rows of each cleaned file.
 - `data/docs/codebook.md` - description of all columns.
 
-The processed files are created by `notebooks/01_data_selection.ipynb` (`random_state = 5267`).
+The `v1` files are created by `notebooks/01_data_selection.ipynb`, the `v2` files by `notebooks/02_data_cleaning.ipynb` (`random_state = 5267`).
