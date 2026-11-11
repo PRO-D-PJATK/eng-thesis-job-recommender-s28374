@@ -1,1059 +1,1052 @@
-Position,Moreinfo,Looking For,Highlights,Primary Keyword,English Level,Experience Years,CV,CV_lang,id,role_family
-QA Engineer,"I have a few projects: 
-1. Rozetka functional testing
-Web application testing
-Creating Test Cases
-Regression
-2. Monobank functional testing
-.Mobile testing
-.Test documentation creation
-.Sending feedback about the product
-improvement",,Finished GoIT QA engineer courses.,QA,upper,0.0,"Finished GoIT QA engineer courses.
-I have a few projects: 
-1. Rozetka functional testing
-Web application testing
-Creating Test Cases
-Regression
-2. Monobank functional testing
-.Mobile testing
-.Test documentation creation
-.Sending feedback about the product
-improvement
-",en,f74b70f3-53d8-5b82-9a2d-66464484aba4,QA
-Node.js developer,"Backend Developer- October 2021 to present Flex Finance- Lagos, Nigeria 
- Developedvirtual and physical card services that facilitates online payment processing thereby growing the customer base by over 50% after successful deployment to production, Increased total transaction volume and value by 100x after the first 3month of product launch
-  Developedandmanagedserverless applications using Amazon lambda functions, optimized backend processes thereby improving the stability of the entire application
-  Implementedmessage queuing systems for processing external transfer of funds hence reducing delay and wait time while making transfers from 3 minutes to less than 10 seconds.
-  Implementedautomatic deployments using github actions and workflows thereby causing seamless deployments to production environment without any downtime on the application
-  Functioned as a team lead in developing new features
-  Performedcodereviews and best practices
+Position,Moreinfo,Looking For,Highlights,Primary Keyword,English Level,Experience Years,CV,CV_lang,id,role_family,CV_bm25
+Middle Java developer,"I worked on many interesting projects. A chatbot (Spring+JPA+AWS+Docker+Mikroservice+Kafka etc.), mostly there were projects on Camuda BPMN with a stack (Spring+JDBC+Hibernate+Wildfly+Docker+, etc DB connectors).",,,Java,pre,1.5,"I worked on many interesting projects. A chatbot (Spring+JPA+AWS+Docker+Mikroservice+Kafka etc.), mostly there were projects on Camuda BPMN with a stack (Spring+JDBC+Hibernate+Wildfly+Docker+, etc DB connectors).",en,917429f2-b596-52a2-9e8d-23c445b03536,Backend,worked interesting projects chatbot spring+jpa+aws+docker+mikroservice+kafka projects camuda bpmn stack spring+jdbc+hibernate+wildfly+docker+ db connectors
+Manual QA Engineer,"Work experience:
+E-commerce technology:
+• Magento 1,2
+• WordPress
+• Shopware 5,6
+• Owox
 
- Backend Developer- April 2022 to January 2023 BetaQuick- Maryland, United States
-  DevelopedTaxcalculator algorithms to calculate tax rates for business and merchants in the United states which automated sales tax calculation, payments and filing within minutes, this helped lift the load from business owners having to calculate sales tax themselves which can take hours to compute.
-  ManagedAWSinfrastructure such as API gateway, EC2, lambda functions, and postgres databases, ensuring other developers having the appropriate roles to access certain functions on the AWSconsole  Wroteunittesting on backend codes and frontend codes using mocha, chai and jasmine frameworks thereby ensuring very minimal errors on the entire application 
- Integrated sonar cloud for code quality and security checks 
+Skills:
+• Knowledge of the software life cycle and implementation of the testing process
+• Design Test Techniques
+• Requirements analysis and compilation of test documentation (test plan, test case, checklist, bug report)
+• Complying with all types of manual testing
+• Desktop, web, mobile and progressive web app testing
+• Black and grey box testing
+• Estimation of project implementation time
+• Evaluating the effectiveness of e-commerce applications and recommendations for improving them
+• Estimation of project implementation time
+• Gathering of user requirements and converting them to functional requirements
+• Ability to work with flexible and inflexible project implementation methodology
+Additionally:
+• SQL
+• Time tracking systems (Teamwork, Jira, Trello)
+• HTML 5, CSS 3, JS, Ajax
+• Feedler, Wireshark, Charles Proxy
+• API REST, Graphql (Postmen, Swagger, SoapUI)
+• Selenium IDE, JMetre
+• Google Analytics",,"From 2019 to the present, I have experience in all types of manual testing of online stores, as well as in API and database testing. I have experience in testing native, web, mobile and PWA applications.
+I am able to work independently on a project of any complexity. I have experience in training customer representatives to work with the above platforms.",QA,intermediate,4.0,"From 2019 to the present, I have experience in all types of manual testing of online stores, as well as in API and database testing. I have experience in testing native, web, mobile and PWA applications.
+I am able to work independently on a project of any complexity. I have experience in training customer representatives to work with the above platforms.
+Work experience:
+E-commerce technology:
+• Magento 1,2
+• WordPress
+• Shopware 5,6
+• Owox
 
+Skills:
+• Knowledge of the software life cycle and implementation of the testing process
+• Design Test Techniques
+• Requirements analysis and compilation of test documentation (test plan, test case, checklist, bug report)
+• Complying with all types of manual testing
+• Desktop, web, mobile and progressive web app testing
+• Black and grey box testing
+• Estimation of project implementation time
+• Evaluating the effectiveness of e-commerce applications and recommendations for improving them
+• Estimation of project implementation time
+• Gathering of user requirements and converting them to functional requirements
+• Ability to work with flexible and inflexible project implementation methodology
+Additionally:
+• SQL
+• Time tracking systems (Teamwork, Jira, Trello)
+• HTML 5, CSS 3, JS, Ajax
+• Feedler, Wireshark, Charles Proxy
+• API REST, Graphql (Postmen, Swagger, SoapUI)
+• Selenium IDE, JMetre
+• Google Analytics",en,4ea563d1-9744-5f4d-b321-4ae4b7b23345,QA,2019 present experience types manual testing online stores api database testing experience testing native web mobile pwa applications able work independently project complexity experience training customer representatives work platforms work experience e-commerce technology magento 1 2 wordpress shopware 5 6 owox skills knowledge software life cycle implementation testing process design test techniques requirements analysis compilation test documentation test plan test case checklist bug report complying types manual testing desktop web mobile progressive web app testing black grey box testing estimation project implementation time evaluating effectiveness e-commerce applications recommendations improving estimation project implementation time gathering user requirements converting functional requirements ability work flexible inflexible project implementation methodology additionally sql time tracking systems teamwork jira trello html 5 css 3 js ajax feedler wireshark charles proxy api rest graphql postmen swagger soapui selenium ide jmetre google analytics
+Software Engineer,"Radity, Zurich, Switzerland 2022 April – present
+Remote Software Developer
+My achievements: Working on several commercial mobile application development projects.
+Technologies Used: Flutter, Riverpod, Hive, Firebase, Git, REST API
 
-Backend Developer (Contract)- December 2021 to April 2022 Robocore Systems- California, United States 
- Built anddeployed crypto management web application which enables users to manage crypto assets
-Successfully integrated Plaid API to connect users US bank accounts and manage transactions thereby allowing users monitor and manage their expenses from all accounts on a single dashboard
-  Optimized connection to database by reducing the time taken to query the database thereby reducing the cost of database query",,,Node.js,fluent,5.0,"
-Backend Developer- October 2021 to present Flex Finance- Lagos, Nigeria 
- Developedvirtual and physical card services that facilitates online payment processing thereby growing the customer base by over 50% after successful deployment to production, Increased total transaction volume and value by 100x after the first 3month of product launch
-  Developedandmanagedserverless applications using Amazon lambda functions, optimized backend processes thereby improving the stability of the entire application
-  Implementedmessage queuing systems for processing external transfer of funds hence reducing delay and wait time while making transfers from 3 minutes to less than 10 seconds.
-  Implementedautomatic deployments using github actions and workflows thereby causing seamless deployments to production environment without any downtime on the application
-  Functioned as a team lead in developing new features
-  Performedcodereviews and best practices
+Doktora Gorun, Ankara, Turkey 2020 July – present
+Co-Founder and Software Developer
+My achievements: Developed and published two cross-platform mobile applications for the company
+Technologies Used: Flutter, Git, Firebase, Agora Video Calling, Vue.js
 
- Backend Developer- April 2022 to January 2023 BetaQuick- Maryland, United States
-  DevelopedTaxcalculator algorithms to calculate tax rates for business and merchants in the United states which automated sales tax calculation, payments and filing within minutes, this helped lift the load from business owners having to calculate sales tax themselves which can take hours to compute.
-  ManagedAWSinfrastructure such as API gateway, EC2, lambda functions, and postgres databases, ensuring other developers having the appropriate roles to access certain functions on the AWSconsole  Wroteunittesting on backend codes and frontend codes using mocha, chai and jasmine frameworks thereby ensuring very minimal errors on the entire application 
- Integrated sonar cloud for code quality and security checks 
+Manim Finance Technologies, Istanbul, Turkey 2021 October – 2022 January
+Remote Part-time Software Developer
+My achievements: Developed the enterprise cross-platform mobile application for the company
+Technologies Used: Flutter, Git
 
+Commencis, Istanbul, Turkey 2021 July – 2021 September
+Software Engineering Intern
+My achievements: Worked on onboarding and internship project with React
+Utilized Ant Design as UI Component Library, Local Storage & Session Storage
+Technologies Used: React, HTML, TypeScript, CSS, Git, Gerrit
 
-Backend Developer (Contract)- December 2021 to April 2022 Robocore Systems- California, United States 
- Built anddeployed crypto management web application which enables users to manage crypto assets
-Successfully integrated Plaid API to connect users US bank accounts and manage transactions thereby allowing users monitor and manage their expenses from all accounts on a single dashboard
-  Optimized connection to database by reducing the time taken to query the database thereby reducing the cost of database query
-",en,bac33533-cf06-5a46-b57f-d8c8d57e5edd,Backend
-QA Engineer,"Experience:
-• 5+ years (QA Engineer); 
-• Creation/maintenance of test documentation
-• functional, regression, integration testing;
-• Requirements analysis
-• Testing tools:	HP Application Lifecycle Management, Sauce Labs, Zephyr, qTest
-• Strong knowledge of testing methodologies
-• HTML, CSS 
-• MS SQL 
-• Software development methodologies under experience: Agile (Scrum, Kanban), Waterfall
-• presentation of work to the team;
-• defects reporting
-• Organizational/planning skills 
-• Strong Analytical skills",,,QA,upper,7.0,"
+Radity, Zurich, Switzerland 2020 February – 2021 January Remote Part-time Software Developer
+My achievements: Worked on several cross-platform mobile application development projects
+Integrated Google Maps, Firebase Crashlytics, Instabug, and Sentry to some projects
+Implemented WebRTC as Video Call, and Chat using Firebase Firestore in one of the projects
+Technologies Used: Flutter, GraphQL, Git, Firebase, WebRTC, REST API",,"Graduated from high school with a gold medal and honors high school diploma
+Honorable mention in ACM ICPC Regional Contest, 2016, Georgia
+Silver medal in National Olympiad in Informatics, 2016, Azerbaijan
+Silver medal in National Olympiad in Informatics, 2015, Azerbaijan
+Bronze medal in National Olympiad in Informatics, 2014, Azerbaijan",Flutter,fluent,4.0,"Graduated from high school with a gold medal and honors high school diploma
+Honorable mention in ACM ICPC Regional Contest, 2016, Georgia
+Silver medal in National Olympiad in Informatics, 2016, Azerbaijan
+Silver medal in National Olympiad in Informatics, 2015, Azerbaijan
+Bronze medal in National Olympiad in Informatics, 2014, Azerbaijan
+Radity, Zurich, Switzerland 2022 April – present
+Remote Software Developer
+My achievements: Working on several commercial mobile application development projects.
+Technologies Used: Flutter, Riverpod, Hive, Firebase, Git, REST API
+
+Doktora Gorun, Ankara, Turkey 2020 July – present
+Co-Founder and Software Developer
+My achievements: Developed and published two cross-platform mobile applications for the company
+Technologies Used: Flutter, Git, Firebase, Agora Video Calling, Vue.js
+
+Manim Finance Technologies, Istanbul, Turkey 2021 October – 2022 January
+Remote Part-time Software Developer
+My achievements: Developed the enterprise cross-platform mobile application for the company
+Technologies Used: Flutter, Git
+
+Commencis, Istanbul, Turkey 2021 July – 2021 September
+Software Engineering Intern
+My achievements: Worked on onboarding and internship project with React
+Utilized Ant Design as UI Component Library, Local Storage & Session Storage
+Technologies Used: React, HTML, TypeScript, CSS, Git, Gerrit
+
+Radity, Zurich, Switzerland 2020 February – 2021 January Remote Part-time Software Developer
+My achievements: Worked on several cross-platform mobile application development projects
+Integrated Google Maps, Firebase Crashlytics, Instabug, and Sentry to some projects
+Implemented WebRTC as Video Call, and Chat using Firebase Firestore in one of the projects
+Technologies Used: Flutter, GraphQL, Git, Firebase, WebRTC, REST API",en,591958f6-18f1-5c6f-af6c-0ac684da30a5,Mobile,graduated high school gold medal honors high school diploma honorable mention acm icpc regional contest 2016 georgia silver medal national olympiad informatics 2016 azerbaijan silver medal national olympiad informatics 2015 azerbaijan bronze medal national olympiad informatics 2014 azerbaijan radity zurich switzerland 2022 april present remote software developer achievements working commercial mobile application development projects technologies used flutter riverpod hive firebase git rest api doktora gorun ankara turkey 2020 july present co-founder software developer achievements developed published cross-platform mobile applications company technologies used flutter git firebase agora video calling vue.js manim finance technologies istanbul turkey 2021 october 2022 january remote part-time software developer achievements developed enterprise cross-platform mobile application company technologies used flutter git commencis istanbul turkey 2021 july 2021 september software engineering intern achievements worked onboarding internship project react utilized ant design ui component library local storage session storage technologies used react html typescript css git gerrit radity zurich switzerland 2020 february 2021 january remote part-time software developer achievements worked cross-platform mobile application development projects integrated google maps firebase crashlytics instabug sentry projects implemented webrtc video chat using firebase firestore projects technologies used flutter graphql git firebase webrtc rest api
+Junior QA Engineer,"Pet-projects
+* Website GoIT [Requirement Analysis, Test
+Planning, Creation of test documentation]
+The site of an educational company that implements training courses. Role: QA Engineer.
+My main task was to ensure product quality, conduct various testing activities and types of documentation,
+such as: test cases, bug reports and test plans.
+* Project ""Kapusta"" [Trello,Functional testin,Test Rail, Bag
+Reports, Postman]
+The project solves the problem of keeping record of
+your personal finances. Role: Scrum Master.
+* Coffee Machine [Java 8, SQL, Database MySQL, H2,
+GitHub]. Role: Developer.
+Development of software for a coffee machine.","I am a QA engineer am looking for a full-time in
+a company that creates new products that make people's lives easier. Participate in the creation of software products that help people in their daily tasks and businesses in large projects, making their processes more productive. It is high-quality products that will help to achieve the desired goals.
+I have sound knowledge of manual testing, API testing, Jira, Postman.
+I also have practical experience in Java programming. I am a fast learner, responsible, teamwork and ready for
+challenging tasks.","I have some achievement in study development:
+# Tested 5 sites and took part in a financial product testing project.
+#I learned to work in a team and achieve set goals.
+#Developed organizational skills as a Scrum Master.",QA,pre,0.5,"I have some achievement in study development:
+# Tested 5 sites and took part in a financial product testing project.
+#I learned to work in a team and achieve set goals.
+#Developed organizational skills as a Scrum Master.
+Pet-projects
+* Website GoIT [Requirement Analysis, Test
+Planning, Creation of test documentation]
+The site of an educational company that implements training courses. Role: QA Engineer.
+My main task was to ensure product quality, conduct various testing activities and types of documentation,
+such as: test cases, bug reports and test plans.
+* Project ""Kapusta"" [Trello,Functional testin,Test Rail, Bag
+Reports, Postman]
+The project solves the problem of keeping record of
+your personal finances. Role: Scrum Master.
+* Coffee Machine [Java 8, SQL, Database MySQL, H2,
+GitHub]. Role: Developer.
+Development of software for a coffee machine.
+I am a QA engineer am looking for a full-time in
+a company that creates new products that make people's lives easier. Participate in the creation of software products that help people in their daily tasks and businesses in large projects, making their processes more productive. It is high-quality products that will help to achieve the desired goals.
+I have sound knowledge of manual testing, API testing, Jira, Postman.
+I also have practical experience in Java programming. I am a fast learner, responsible, teamwork and ready for
+challenging tasks.",en,b7f971c7-28be-5583-b1c3-b2fc9217a2b5,QA,achievement study development tested 5 sites took financial product testing project learned work team achieve set goals developed organizational skills scrum master pet-projects website goit requirement analysis test planning creation test documentation site educational company implements training courses role qa engineer main task ensure product quality conduct various testing activities types documentation test cases bug reports test plans project kapusta trello functional testin test rail bag reports postman project solves problem keeping record personal finances role scrum master coffee machine java 8 sql database mysql h2 github role developer development software coffee machine qa engineer looking full-time company creates new products make people s lives easier participate creation software products help people daily tasks businesses large projects making processes productive high-quality products help achieve desired goals sound knowledge manual testing api testing jira postman practical experience java programming fast learner responsible teamwork ready challenging tasks
+Junior QA,"I have started my career path as a school English language teacher and private tutor at the same time. I have more than 2 years of experience in teaching, supporting and interaction with learners from 6 to 18 years, their parents and class teachers. Besides I was obtaining my Masters degree. This experience made me highly organized, stress resistant, initiative and flexible.
+Recently I have attended and successfully completed Software Testing Basics course at Prometheus. Unfortunately I haven't been experienced as a QA engineer, but I'm ready to develop my knowledge and skills during the working process and after hours.","I am looking for a full-time or part-time position in the industry in which I can put into practice my knowledge and experience and gain new one, ultimately benefiting the operations of the organisation that I will be work for. Due to my lack of work experience, I am ready to work in a team that will help me to develop necessary skills and knowledge.","I'm just changing my kind of activity, so I don't have any significant achievements yet. However, I'm ready to get new knowledge and develop myself.",QA,upper,0.0,"I'm just changing my kind of activity, so I don't have any significant achievements yet. However, I'm ready to get new knowledge and develop myself.
+I have started my career path as a school English language teacher and private tutor at the same time. I have more than 2 years of experience in teaching, supporting and interaction with learners from 6 to 18 years, their parents and class teachers. Besides I was obtaining my Masters degree. This experience made me highly organized, stress resistant, initiative and flexible.
+Recently I have attended and successfully completed Software Testing Basics course at Prometheus. Unfortunately I haven't been experienced as a QA engineer, but I'm ready to develop my knowledge and skills during the working process and after hours.
+I am looking for a full-time or part-time position in the industry in which I can put into practice my knowledge and experience and gain new one, ultimately benefiting the operations of the organisation that I will be work for. Due to my lack of work experience, I am ready to work in a team that will help me to develop necessary skills and knowledge.",en,5398118e-bba6-52d2-86fc-4ab581b88427,QA,m just changing kind activity don t significant achievements m ready new knowledge develop started career path school english language teacher private tutor time 2 years experience teaching supporting interaction learners 6 18 years parents class teachers obtaining masters degree experience highly organized stress resistant initiative flexible recently attended successfully completed software testing basics course prometheus unfortunately haven t experienced qa engineer m ready develop knowledge skills working process hours looking full-time part-time position industry practice knowledge experience gain new ultimately benefiting operations organisation work lack work experience ready work team help develop necessary skills knowledge
+Senior Frontent Developer ( React ),"Last 3 projects:
+synchronos - Senior Frontend Developer
+- Time tracker product for managing workers, tasks, company
+- Supporting exiting project, creating new services- Time tracker product for managing workers, tasks, company - Supporting exiting project, creating new services
+Skills: JavaScript · TypeScript · React.js · styled-components · Apollo GraphQL · HTML · Cascading Style Sheets (CSS) · RESTful WebServices
+
+Sphera - Senior Frontend Developer
+- Ecommercial product for helping to manage oil companies
+- Supported exiting project, creating new services- Ecommercial product for helping to manage oil companies - Supported exiting project, creating new services
+Skills: JavaScript · TypeScript · React.js · Redux.js · styled-components · Cypress · React Hooks · Redux Thunk · Azure DevOps · Material ui · HTML · Cascading Style Sheets (CSS) · RESTful WebServices
+
+The State Customs Committee of the Republic of Azerbaijan - Senior Software Development Engineer
+- The government website ( Azerbaijan State Customs Committee )
+- Created e.customs.gov.az project from scratch which has more than 5 million users
+- Added a lot of services ( Commercial, payment wizards etc )- The government website ( Azerbaijan State Customs Committee ) - Created e.customs.gov.az project from scratch which has more than 5 million users - Added a lot of services ( Commercial, payment wizards etc )...see more
+Skills: JavaScript · TypeScript · React.js · Redux.js · styled-components · Emotion · Cypress · Material ui · HTML · Cascading Style Sheets (CSS) · RESTful WebServices · Jest · Sass · Saga · JSS · SignalR",,,JavaScript,upper,4.0,"Last 3 projects:
+synchronos - Senior Frontend Developer
+- Time tracker product for managing workers, tasks, company
+- Supporting exiting project, creating new services- Time tracker product for managing workers, tasks, company - Supporting exiting project, creating new services
+Skills: JavaScript · TypeScript · React.js · styled-components · Apollo GraphQL · HTML · Cascading Style Sheets (CSS) · RESTful WebServices
+
+Sphera - Senior Frontend Developer
+- Ecommercial product for helping to manage oil companies
+- Supported exiting project, creating new services- Ecommercial product for helping to manage oil companies - Supported exiting project, creating new services
+Skills: JavaScript · TypeScript · React.js · Redux.js · styled-components · Cypress · React Hooks · Redux Thunk · Azure DevOps · Material ui · HTML · Cascading Style Sheets (CSS) · RESTful WebServices
+
+The State Customs Committee of the Republic of Azerbaijan - Senior Software Development Engineer
+- The government website ( Azerbaijan State Customs Committee )
+- Created e.customs.gov.az project from scratch which has more than 5 million users
+- Added a lot of services ( Commercial, payment wizards etc )- The government website ( Azerbaijan State Customs Committee ) - Created e.customs.gov.az project from scratch which has more than 5 million users - Added a lot of services ( Commercial, payment wizards etc )...see more
+Skills: JavaScript · TypeScript · React.js · Redux.js · styled-components · Emotion · Cypress · Material ui · HTML · Cascading Style Sheets (CSS) · RESTful WebServices · Jest · Sass · Saga · JSS · SignalR",en,bd4efe4d-dd2a-585b-b1a2-d275d8fe510e,Frontend / JavaScript,3 projects synchronos senior frontend developer time tracker product managing workers tasks company supporting exiting project creating new services time tracker product managing workers tasks company supporting exiting project creating new services skills javascript typescript react.js styled-components apollo graphql html cascading style sheets css restful webservices sphera senior frontend developer ecommercial product helping manage oil companies supported exiting project creating new services ecommercial product helping manage oil companies supported exiting project creating new services skills javascript typescript react.js redux.js styled-components cypress react hooks redux thunk azure devops material ui html cascading style sheets css restful webservices state customs committee republic azerbaijan senior software development engineer government website azerbaijan state customs committee created e.customs.gov.az project scratch 5 million users added lot services commercial payment wizards government website azerbaijan state customs committee created e.customs.gov.az project scratch 5 million users added lot services commercial payment wizards .see skills javascript typescript react.js redux.js styled-components emotion cypress material ui html cascading style sheets css restful webservices jest sass saga jss signalr
+Senior QA Engineer,"Senior QA, QA Lead, 15+ projects: Desktop, Web, Mobile, API , DB testing in healthcare/travel/finance domains.
+Creating test documentation, planning, estimating, collaboration with QA Automation team.
+Mentoring of trainees/junior QAs for 5+ years.
+Developer of training course for the colleagues
+
+Testing Environments and Tools:
+• MS Visual Studio, Android Studio, Eclipse
+• Postman, Insomnia, Swagger UI
+• Charles Proxy, Fiddler
+• WinMerge
+• XMind
+Databases:
+MS SQL, MySQL, Redis, Cassandra, DB2
+Bug Tracking Tools
+Jira, TestRail, Mantis, Trello, Azure DevOps
+Operating Systems:
+MS Windows, Android, iOS",Don't want to work with ETL and Assets,,QA,upper,9.0,"Senior QA, QA Lead, 15+ projects: Desktop, Web, Mobile, API , DB testing in healthcare/travel/finance domains.
+Creating test documentation, planning, estimating, collaboration with QA Automation team.
+Mentoring of trainees/junior QAs for 5+ years.
+Developer of training course for the colleagues
+
+Testing Environments and Tools:
+• MS Visual Studio, Android Studio, Eclipse
+• Postman, Insomnia, Swagger UI
+• Charles Proxy, Fiddler
+• WinMerge
+• XMind
+Databases:
+MS SQL, MySQL, Redis, Cassandra, DB2
+Bug Tracking Tools
+Jira, TestRail, Mantis, Trello, Azure DevOps
+Operating Systems:
+MS Windows, Android, iOS
+Don't want to work with ETL and Assets",en,ad15ebfb-9ba9-5ccd-9843-8bb700724ccd,QA,senior qa qa lead 15+ projects desktop web mobile api db testing healthcare travel finance domains creating test documentation planning estimating collaboration qa automation team mentoring trainees junior qas 5+ years developer training course colleagues testing environments tools ms visual studio android studio eclipse postman insomnia swagger ui charles proxy fiddler winmerge xmind databases ms sql mysql redis cassandra db2 bug tracking tools jira testrail mantis trello azure devops operating systems ms windows android ios don t want work etl assets
+Front-end developer,"[LINK] ( previous name [LINK] ). The project in which I am involved is to migrate the site from Vue.js to React. This is what we do). Technology at work: Next.js, React.js, TypeScript and use Storybook. My tasks include writing new components, refactoring already written ones, testing, and sometimes just laying out rich content in pure HTML and CSS.",,,JavaScript,intermediate,1.5,"[LINK] ( previous name [LINK] ). The project in which I am involved is to migrate the site from Vue.js to React. This is what we do). Technology at work: Next.js, React.js, TypeScript and use Storybook. My tasks include writing new components, refactoring already written ones, testing, and sometimes just laying out rich content in pure HTML and CSS.",en,719f1d79-d3b8-5663-bb88-9664b4070f30,Frontend / JavaScript,previous project involved migrate site vue.js react technology work next.js react.js typescript use storybook tasks include writing new components refactoring written ones testing just laying rich content pure html css
+Junior QA Engineer,"Steady projects:
+Functional and GUI testing accounting web program
+
+Freelance:
+Project name: [LINK]
+
+Project description: Online store, one of the world's largest online destinations for the home.
+
+Responsibilities:
+Manual software testing with test cases, functional.
+Analyzing software, creating approved bug reports
+
+Technologies:
+HTML, Google chrome dev tools (logs)
+
+Project name: [LINK]
+
+Project description: Online store of men's, women's and children's clothing.
+
+Responsibilities:
+Manual software testing, ad hoc, functional.
+Analyzing software, creating approved bug reports
+
+Technologies:
+HTML, Google chrome dev tools (logs)",I expect from this work: new knowledge and useful experience for mastering the beautiful world of IT,,QA,pre,0.0,"Steady projects:
+Functional and GUI testing accounting web program
+
+Freelance:
+Project name: [LINK]
+
+Project description: Online store, one of the world's largest online destinations for the home.
+
+Responsibilities:
+Manual software testing with test cases, functional.
+Analyzing software, creating approved bug reports
+
+Technologies:
+HTML, Google chrome dev tools (logs)
+
+Project name: [LINK]
+
+Project description: Online store of men's, women's and children's clothing.
+
+Responsibilities:
+Manual software testing, ad hoc, functional.
+Analyzing software, creating approved bug reports
+
+Technologies:
+HTML, Google chrome dev tools (logs)
+I expect from this work: new knowledge and useful experience for mastering the beautiful world of IT",en,ef03e76f-673d-574e-ac03-7e9510d0e1dd,QA,steady projects functional gui testing accounting web program freelance project project description online store world s largest online destinations home responsibilities manual software testing test cases functional analyzing software creating approved bug reports technologies html google chrome dev tools logs project project description online store men s women s children s clothing responsibilities manual software testing ad hoc functional analyzing software creating approved bug reports technologies html google chrome dev tools logs expect work new knowledge useful experience mastering beautiful world
+Розробник Flutter,More than a year of commercial Android/IOS application development experience. Robotic with different teams. Currently doing cross-platform development based on Flutter.,To be part of a team of like-minded people. Opportunity for professional development. Timely payment.,"Dart, Flutter, Firebase, Rest API, Git, Jira Software, Figma, Android, IOS, Bitbucket",Flutter,intermediate,1.5,"Dart, Flutter, Firebase, Rest API, Git, Jira Software, Figma, Android, IOS, Bitbucket
+More than a year of commercial Android/IOS application development experience. Robotic with different teams. Currently doing cross-platform development based on Flutter.
+To be part of a team of like-minded people. Opportunity for professional development. Timely payment.",en,9f29c490-0085-5a1a-8bad-7aafd476f5fa,Mobile,dart flutter firebase rest api git jira software figma android ios bitbucket year commercial android ios application development experience robotic different teams currently doing cross-platform development based flutter team like-minded people opportunity professional development timely payment
+Front-end developer,"I’m Junior Front-End Developer (Full Stack).
+Participated as a developer in projects:
+- Movie search site ( Filmoteka ) with application: HTML, SASS, JS, Parcel, REST API, AJAX ;
+Role: developer, development of a modal window with functionality.
+- landing commercial site with the function of product selection and sale (IceCream). Used: HTML, SASS, JS, Parcel, REST API, AJAX;
+Role: developer, development of a separate section, preparation and optimization of images for the entire site.
+- A website of WebStudio company (WebStudio). Used: HTML, SASS, JS.
+Role: developer, my first individual project","I am looking for a full-time job (office or remote).
+Interested in the work of a Front-end developer.
+It is interesting to further develop and master new technologies. I want to become a team member and take part in creating interesting projects",I am currently working on my own pet project.,JavaScript,intermediate,1.0,"I am currently working on my own pet project.
+I’m Junior Front-End Developer (Full Stack).
+Participated as a developer in projects:
+- Movie search site ( Filmoteka ) with application: HTML, SASS, JS, Parcel, REST API, AJAX ;
+Role: developer, development of a modal window with functionality.
+- landing commercial site with the function of product selection and sale (IceCream). Used: HTML, SASS, JS, Parcel, REST API, AJAX;
+Role: developer, development of a separate section, preparation and optimization of images for the entire site.
+- A website of WebStudio company (WebStudio). Used: HTML, SASS, JS.
+Role: developer, my first individual project
+I am looking for a full-time job (office or remote).
+Interested in the work of a Front-end developer.
+It is interesting to further develop and master new technologies. I want to become a team member and take part in creating interesting projects",en,85313c7e-17e9-5f4e-b9b2-32eb031f9f48,Frontend / JavaScript,currently working pet project m junior front-end developer stack participated developer projects movie search site filmoteka application html sass js parcel rest api ajax role developer development modal window functionality landing commercial site function product selection sale icecream used html sass js parcel rest api ajax role developer development separate section preparation optimization images entire site website webstudio company webstudio used html sass js role developer individual project looking full-time job office remote interested work front-end developer interesting develop master new technologies want team member creating interesting projects
+.NET Developer,"Tech stack:
+Basic level:
+- html, css, js, bootstrap, angular, wpf
+Advanced level:
+- .net framework, .net core
+- asp net web-api, mvc
+- rest-api
+- pdf, xml, json
+- sql, entity framework
+- azure services (key vault, service bus, blob storage, file share, application insights, functions)","Preferable back-end, don't want to work on front-end part most of the time.
+Also don't wont to work on old legacy projects.",,.NET,upper,2.0,"Tech stack:
+Basic level:
+- html, css, js, bootstrap, angular, wpf
+Advanced level:
+- .net framework, .net core
+- asp net web-api, mvc
+- rest-api
+- pdf, xml, json
+- sql, entity framework
+- azure services (key vault, service bus, blob storage, file share, application insights, functions)
+Preferable back-end, don't want to work on front-end part most of the time.
+Also don't wont to work on old legacy projects.",en,c0758e6c-ab1a-592a-a3b9-25ab03cc4bbb,Backend,tech stack basic level html css js bootstrap angular wpf advanced level .net framework .net core asp net web-api mvc rest-api pdf xml json sql entity framework azure services key vault service bus blob storage file share application insights functions preferable back-end don t want work front-end time don t wont work old legacy projects
+Python/Django Developer,"Hello! I'm a full-stack software engineer with 6+ years of experience and deep expertise in backend development. Passionate about software development processes and technologies. Mainly focused on the development of custom web applications.
+
+My tech stack:
+
+- Backend: Django + DRF, FastAPI; PostgreSQL, SQLite, ElasticSeach; Celery, Dramatiq + Redis, RabbitMQ.
+- Frontend: HTML5, CSS, VueJS, NuxtJS.
+- DevOps: GitlabCI, Github Actions, Docker, K8s, AWS, Ansible, Terraform.",I'm looking for a full-time remote position as Python/Django backend developer or full-stack Python + VueJS developer.,,Python,upper,7.0,"Hello! I'm a full-stack software engineer with 6+ years of experience and deep expertise in backend development. Passionate about software development processes and technologies. Mainly focused on the development of custom web applications.
+
+My tech stack:
+
+- Backend: Django + DRF, FastAPI; PostgreSQL, SQLite, ElasticSeach; Celery, Dramatiq + Redis, RabbitMQ.
+- Frontend: HTML5, CSS, VueJS, NuxtJS.
+- DevOps: GitlabCI, Github Actions, Docker, K8s, AWS, Ansible, Terraform.
+I'm looking for a full-time remote position as Python/Django backend developer or full-stack Python + VueJS developer.",en,c0992ec4-5e33-5626-aa4f-a9ca30d52920,Backend,hello m full-stack software engineer 6+ years experience deep expertise backend development passionate software development processes technologies mainly focused development custom web applications tech stack backend django drf fastapi postgresql sqlite elasticseach celery dramatiq redis rabbitmq frontend html5 css vuejs nuxtjs devops gitlabci github actions docker k8s aws ansible terraform m looking full-time remote position python django backend developer full-stack python vuejs developer
+Senior iOS Developer,"- 8+ years of experience in iOS development.
+- 10+ successfully delivered projects: telecom, e-commerce, social networks, 2D games.
+- Strong experience in software architecture and development lifecycle.",I'm looking for a remote position only.,"more than 5 applications on the AppStore personally from the beginning to publication
+
+participation in large projects",iOS,intermediate,9.0,"more than 5 applications on the AppStore personally from the beginning to publication
+
+participation in large projects
+- 8+ years of experience in iOS development.
+- 10+ successfully delivered projects: telecom, e-commerce, social networks, 2D games.
+- Strong experience in software architecture and development lifecycle.
+I'm looking for a remote position only.",en,7a37ad1f-20d2-5018-b315-b1366c307f24,Mobile,5 applications appstore personally beginning publication participation large projects 8+ years experience ios development 10+ successfully delivered projects telecom e-commerce social networks 2d games strong experience software architecture development lifecycle m looking remote position
+Front-End Developer,"I developed some tutorial projects on React, now I have 1,5 year of commercial experience on Angular and 0,5 years on Vue 3. Preferable framework is Angular with Material UI library and/or AG Grid. Also I implemented Angular reactive forms.",Now I haven't permanent job and looking for a part-time job preferably on Angular.,"I can implement components, reactive forms, services, pipes etc. on Angular with Material UI.",JavaScript,intermediate,1.5,"I can implement components, reactive forms, services, pipes etc. on Angular with Material UI.
+I developed some tutorial projects on React, now I have 1,5 year of commercial experience on Angular and 0,5 years on Vue 3. Preferable framework is Angular with Material UI library and/or AG Grid. Also I implemented Angular reactive forms.
+Now I haven't permanent job and looking for a part-time job preferably on Angular.",en,378bba00-4fbe-52f3-920f-9988a34f2855,Frontend / JavaScript,implement components reactive forms services pipes angular material ui developed tutorial projects react 1 5 year commercial experience angular 0 5 years vue 3 preferable framework angular material ui library ag grid implemented angular reactive forms haven t permanent job looking part-time job preferably angular
+Data Analyst/Data Scientist,"Experienced and deticated Data Analyst with 2 years of experience indentifying efficiencies and problem area while communicating needs for project.
+Adept at reseiving and monitoring data from multiple data streams, including SQL and Excel data sources.
+Ability to synthesize quentitative information and interact effectively with colleagues.
+Proven track record of generation summary documents for sales team and marketing department for daily, weekly and monthly reporting.",,,Data Analyst,intermediate,2.0,"Experienced and deticated Data Analyst with 2 years of experience indentifying efficiencies and problem area while communicating needs for project.
+Adept at reseiving and monitoring data from multiple data streams, including SQL and Excel data sources.
+Ability to synthesize quentitative information and interact effectively with colleagues.
+Proven track record of generation summary documents for sales team and marketing department for daily, weekly and monthly reporting.",en,803f14e4-5b5d-5c69-bad1-75e7d55e7d96,Data / ML,experienced deticated data analyst 2 years experience indentifying efficiencies problem area communicating needs project adept reseiving monitoring data multiple data streams including sql excel data sources ability synthesize quentitative information interact effectively colleagues proven track record generation summary documents sales team marketing department daily weekly monthly reporting
+Senior .Net Developer,"Guide team development efforts toward successful project delivery
+Provide technical leadership to teammates through coaching and mentorship
+Maintain high standards of software quality within the team by establishing good practices and
+habits
+Identify and encourage areas for growth and improvement within the team
+Provide training, help, and support to other team members
+Collaborate with other software developers, business analysts, and software architects to plan,
+design, develop, test, and maintain web- and desktop-based business applications
+Develop functional and sustainable web applications with clean codes
+Assist in the collection and documentation of user requirements, development of user stories,
+estimates, and work plans
+Prepare reports, manuals, and other documentation on the status, operation, and maintenance
+of software
+Design, develop, and unit test applications in accordance with established standards
+Participate in peer reviews of solution designs
+Package and support deployment of releases
+Work with teammates in the migration of legacy applications to the latest technologies
+Develop, refine, and tune integrations between applications
+Analyze and resolve technical and application problems
+Assess opportunities for application and process improvement and prepare documentation of
+rationale to share with team members and other affected parties
+Adhere to high-quality development principles while delivering solutions on time and on-budget
+Provide third-level support to business users
+Research and evaluate a variety of software products",,,.NET,fluent,6.0,"Guide team development efforts toward successful project delivery
+Provide technical leadership to teammates through coaching and mentorship
+Maintain high standards of software quality within the team by establishing good practices and
+habits
+Identify and encourage areas for growth and improvement within the team
+Provide training, help, and support to other team members
+Collaborate with other software developers, business analysts, and software architects to plan,
+design, develop, test, and maintain web- and desktop-based business applications
+Develop functional and sustainable web applications with clean codes
+Assist in the collection and documentation of user requirements, development of user stories,
+estimates, and work plans
+Prepare reports, manuals, and other documentation on the status, operation, and maintenance
+of software
+Design, develop, and unit test applications in accordance with established standards
+Participate in peer reviews of solution designs
+Package and support deployment of releases
+Work with teammates in the migration of legacy applications to the latest technologies
+Develop, refine, and tune integrations between applications
+Analyze and resolve technical and application problems
+Assess opportunities for application and process improvement and prepare documentation of
+rationale to share with team members and other affected parties
+Adhere to high-quality development principles while delivering solutions on time and on-budget
+Provide third-level support to business users
+Research and evaluate a variety of software products",en,e264b698-ae9b-590c-adac-8f4addcedd6f,Backend,guide team development efforts successful project delivery provide technical leadership teammates coaching mentorship maintain high standards software quality team establishing good practices habits identify encourage areas growth improvement team provide training help support team members collaborate software developers business analysts software architects plan design develop test maintain web desktop-based business applications develop functional sustainable web applications clean codes assist collection documentation user requirements development user stories estimates work plans prepare reports manuals documentation status operation maintenance software design develop unit test applications accordance established standards participate peer reviews solution designs package support deployment releases work teammates migration legacy applications latest technologies develop refine tune integrations applications analyze resolve technical application problems assess opportunities application process improvement prepare documentation rationale share team members affected parties adhere high-quality development principles delivering solutions time on-budget provide third-level support business users research evaluate variety software products
+React/ReactNative developer,"React/ReactNative-developer with experience in different foreign projects in sphere of education, dating,
+delivery, inspections, etc. I'm soft skilled person, attentive, disciplined and hard-working. I have experience
+to work in team, and work by myself. Also i have great experience in research, review & fix in already
+created projects.","Friendly atmosphere in team. Interesting projects, or project if product company. Competitive salary. Ability to grow with support from company.",React/React-native projects. Project leading. Code review.,JavaScript,upper,3.0,"React/React-native projects. Project leading. Code review.
+React/ReactNative-developer with experience in different foreign projects in sphere of education, dating,
+delivery, inspections, etc. I'm soft skilled person, attentive, disciplined and hard-working. I have experience
+to work in team, and work by myself. Also i have great experience in research, review & fix in already
+created projects.
+Friendly atmosphere in team. Interesting projects, or project if product company. Competitive salary. Ability to grow with support from company.",en,4d292f83-da24-5ea3-886f-df0410f31530,Frontend / JavaScript,react react-native projects project leading code review react reactnative-developer experience different foreign projects sphere education dating delivery inspections m soft skilled person attentive disciplined hard-working experience work team work great experience research review fix created projects friendly atmosphere team interesting projects project product company competitive salary ability grow support company
+Frontend Developer,"Front-end developer
+Remotely | October 2021 - June 2022
+Responsibilities:
+Development of new functions / Correct existing errors / Finding new bugs / Layout website design
+Technologies:
+React, React hooks, Vue, Vue router / JS, HTML, SCSS, Gsap, jQuery, Rest API, GitLab / Git, Figma",,,JavaScript,upper,1.0,"Front-end developer
+Remotely | October 2021 - June 2022
+Responsibilities:
+Development of new functions / Correct existing errors / Finding new bugs / Layout website design
+Technologies:
+React, React hooks, Vue, Vue router / JS, HTML, SCSS, Gsap, jQuery, Rest API, GitLab / Git, Figma",en,b18b8099-a344-5df3-9e2a-f5b00d6f0073,Frontend / JavaScript,front-end developer remotely october 2021 june 2022 responsibilities development new functions correct existing errors finding new bugs layout website design technologies react react hooks vue vue router js html scss gsap jquery rest api gitlab git figma
+Lead/Senior Hardware Engineer,"· Overall 18 years of work experience,
+· Expertise in FPGA/CPLD (VHDL), simulation,
+· Hardware design (digital, analog),
+· PCB design (Altium, OrCAD, PADS),
+· Embedded C (STM, Microchip),
+· C++ (MFC framework),
+· SoC prototyping (Synopsys Virtualizer).",,,C++,intermediate,11.0,"· Overall 18 years of work experience,
+· Expertise in FPGA/CPLD (VHDL), simulation,
+· Hardware design (digital, analog),
+· PCB design (Altium, OrCAD, PADS),
+· Embedded C (STM, Microchip),
+· C++ (MFC framework),
+· SoC prototyping (Synopsys Virtualizer).",en,d9e07307-7484-5892-aa8e-af8665a533c1,Backend,overall 18 years work experience expertise fpga cpld vhdl simulation hardware design digital analog pcb design altium orcad pads embedded c stm microchip c++ mfc framework soc prototyping synopsys virtualizer
+Android Developer,"I'm android developer with proficiency in Java & Kotlin. Mobile technologies improve people’s lives in many different aspects nowadays and I enjoy to create things that help other people to make their life better and more comfortable.
+My experience:
+- development of android applications with responsive UI according to material design guidelines;
+- designing the architecture of mobile apps;
+- writing android applications from scratch;
+- prototyping UI, implementing android layouts for various screens and devices;
+- improving app performance;
+- refactoring and optimizing code, supporting mobile applications;
+- writing support documentation;
+- testing: writing unit tests and instrumented tests for android applications;","Good team, interesting projects, professional growth, adequate management without tons of bureaucracy. Ideally - long term project.","5+ years of experience with Mobile Development and building user-facing applications on Android.
+Strong knowledge of Android SDK and different versions of Android.
+Strong knowledge of Google’s Android UI design principles, patterns, best practices, and interface guidelines.
+Experience working with offline storage, threading, and performance tuning.
+5+ years of experience with RESTful APIs that connects Android applications to back-end services.
+Experience with optimizing mobile apps, in Java and Kotlin.
+5+ years of successful and applicable hands-on experience in software or infrastructure development domain and principles, including design patterns and code structure.
+Proficient understanding of code versioning tools, such as Git, GitHub
+Ability to understand business requirements and translate them into technical requirements.
+5+ years of experience with Kotlin, Kotlin flow, Kotlin Coroutines
+5+ years of experience with design patterns, coding conventions, modularization
+2+ year of experience coding in Java and 3+ Kotlin.
+Ability to interact well in a team environment.",Android,pre,5.0,"5+ years of experience with Mobile Development and building user-facing applications on Android.
+Strong knowledge of Android SDK and different versions of Android.
+Strong knowledge of Google’s Android UI design principles, patterns, best practices, and interface guidelines.
+Experience working with offline storage, threading, and performance tuning.
+5+ years of experience with RESTful APIs that connects Android applications to back-end services.
+Experience with optimizing mobile apps, in Java and Kotlin.
+5+ years of successful and applicable hands-on experience in software or infrastructure development domain and principles, including design patterns and code structure.
+Proficient understanding of code versioning tools, such as Git, GitHub
+Ability to understand business requirements and translate them into technical requirements.
+5+ years of experience with Kotlin, Kotlin flow, Kotlin Coroutines
+5+ years of experience with design patterns, coding conventions, modularization
+2+ year of experience coding in Java and 3+ Kotlin.
+Ability to interact well in a team environment.
+I'm android developer with proficiency in Java & Kotlin. Mobile technologies improve people’s lives in many different aspects nowadays and I enjoy to create things that help other people to make their life better and more comfortable.
+My experience:
+- development of android applications with responsive UI according to material design guidelines;
+- designing the architecture of mobile apps;
+- writing android applications from scratch;
+- prototyping UI, implementing android layouts for various screens and devices;
+- improving app performance;
+- refactoring and optimizing code, supporting mobile applications;
+- writing support documentation;
+- testing: writing unit tests and instrumented tests for android applications;
+Good team, interesting projects, professional growth, adequate management without tons of bureaucracy. Ideally - long term project.",en,a3e01947-12c5-50de-a129-a99779cfc1d2,Mobile,5+ years experience mobile development building user-facing applications android strong knowledge android sdk different versions android strong knowledge google s android ui design principles patterns best practices interface guidelines experience working offline storage threading performance tuning 5+ years experience restful apis connects android applications back-end services experience optimizing mobile apps java kotlin 5+ years successful applicable hands-on experience software infrastructure development domain principles including design patterns code structure proficient understanding code versioning tools git github ability understand business requirements translate technical requirements 5+ years experience kotlin kotlin flow kotlin coroutines 5+ years experience design patterns coding conventions modularization 2+ year experience coding java 3+ kotlin ability interact team environment m android developer proficiency java kotlin mobile technologies improve people s lives different aspects nowadays enjoy create things help people make life better comfortable experience development android applications responsive ui according material design guidelines designing architecture mobile apps writing android applications scratch prototyping ui implementing android layouts various screens devices improving app performance refactoring optimizing code supporting mobile applications writing support documentation testing writing unit tests instrumented tests android applications good team interesting projects professional growth adequate management tons bureaucracy ideally long term project
+Middle Front-End Developer,"Front-end developer with 3+ years of experience.
+Have exp. with Vue, React and vanila JS
+
+Main projects:
+Platform for automating trading on cryptocurrency exchanges
+stack: Vue-3, Vuex, CSS, PostgreSQL
+
+CRM in fintech (clients, loans, cards, etc)
+stack: Vue, Typescript, graphQL, single-spa (micro-frontend)","- Modern technology stack
+- No screen tracker
+- Friendly team","-Significantly accelerated customer service and reduced training time for
+new employees.
+-Improved maintainability and scalability of the CRM system",JavaScript,upper,3.0,"-Significantly accelerated customer service and reduced training time for
+new employees.
+-Improved maintainability and scalability of the CRM system
+Front-end developer with 3+ years of experience.
+Have exp. with Vue, React and vanila JS
+
+Main projects:
+Platform for automating trading on cryptocurrency exchanges
+stack: Vue-3, Vuex, CSS, PostgreSQL
+
+CRM in fintech (clients, loans, cards, etc)
+stack: Vue, Typescript, graphQL, single-spa (micro-frontend)
+- Modern technology stack
+- No screen tracker
+- Friendly team",en,c7bef6ef-cad4-5c20-af09-0f8c0deb010a,Frontend / JavaScript,significantly accelerated customer service reduced training time new employees improved maintainability scalability crm front-end developer 3+ years experience exp vue react vanila js main projects platform automating trading cryptocurrency exchanges stack vue-3 vuex css postgresql crm fintech clients loans cards stack vue typescript graphql single-spa micro-frontend modern technology stack screen tracker friendly team
+Senior Java Developer,15 years in Odyssey Logistics corporation. Front end / full stack development.,"I would prefer a large company with a stable business and a predictable future.
+I have extensive experience working with JavaScript (JQuery, ExtJS), but I would prefer to work more with Java and SQL.",Experience in full stack development of huge corporate application for company with numerous subsidiaries and thousands client companies. Creating a convenient and flexible application suitable for the needs of different types of business with the ability to fine-tune to specific needs.,Java,upper,11.0,"Experience in full stack development of huge corporate application for company with numerous subsidiaries and thousands client companies. Creating a convenient and flexible application suitable for the needs of different types of business with the ability to fine-tune to specific needs.
+15 years in Odyssey Logistics corporation. Front end / full stack development.
+I would prefer a large company with a stable business and a predictable future.
+I have extensive experience working with JavaScript (JQuery, ExtJS), but I would prefer to work more with Java and SQL.",en,00845757-4b95-5487-a660-f0d15addbca8,Backend,experience stack development huge corporate application company numerous subsidiaries thousands client companies creating convenient flexible application suitable needs different types business ability fine-tune specific needs 15 years odyssey logistics corporation end stack development prefer large company stable business predictable future extensive experience working javascript jquery extjs prefer work java sql
+Junior JavaScript developer (Node.js & ReactJS),"Student and Software Engineer with 1.5 year of commercial expertise in web development. Experienced in numerous programming languages including JavaScript and TypeScript. Also I have experience in working with Node.js and are developing in this direction.
+
 Experience:
-• 5+ years (QA Engineer); 
-• Creation/maintenance of test documentation
-• functional, regression, integration testing;
-• Requirements analysis
-• Testing tools:	HP Application Lifecycle Management, Sauce Labs, Zephyr, qTest
-• Strong knowledge of testing methodologies
-• HTML, CSS 
-• MS SQL 
-• Software development methodologies under experience: Agile (Scrum, Kanban), Waterfall
-• presentation of work to the team;
-• defects reporting
-• Organizational/planning skills 
-• Strong Analytical skills
-",en,3c675f3c-7c99-5fe0-b369-d452c82965d0,QA
-Сетевой инженер Network and Security Engineer,"Inter Continental Exchange (ICE) 05/2021 – to date
-On contract engineer
-• Providing implementation and support to complex network solutions in a Global Service Distributed Environment and DC   management, corporate and branch offices
+1. Creation of a website and a Windows application for videoconferencing and voice calls between patients and doctors.
 
-Coral, Ladbrokes part of GVC (Entain)       11/2013 – 05/2021
-Network and Security Analyst/ SOC/ NOC
-. Experienced in Datacenter relocation, Cloud (Azure, Google, AWS, etc...)
-. Support the network infrastructure implementation and provide operations support 
-  to Managed Service Solutions as part of the Client Application Support Team in the UK, Europe 
-. Collaborated on a range on projects that deliver new applications and services to clients and senior decision-makers 
-.Experienced with the NAT, route redistribution, policy routing, HSRP, VRRP traffic policing/rate 
-  limiting, network load balancing, access control lists, route maps
-. Implementation and troubleshooting experience with VPN's and Remote Access Solutions
-. Cisco Unified CM(System version: 8.6.2.23045-1) and CCME VoIP Administration, Polycom.
-. Create, Renew and apply SSL certificates on network devices
-. Solarwind, Grafana, Splunk, Kibana, Cacti, Netflow, Nagios, Tufin monitoring tools
-. Global DNS support.
-. Experienced with Cisco ASA Firewalls (5585) and Cisco Nexus switches (4000 Chassis, 5548, spine 9332PQ, leaf 9372PX-E, 93120TX), Juniper (SRX340, SA-6500, EX), Arista.
-. Cisco IOS Software, ASR1000 Software (PPC_LINUX_IOSD-IPBASEK9-M), Cisco ASR 1001-X Router,  Cisco ISE.
-.Pulse Secure, AnyConnect VPN.
-. Checkpoint firewalls (R76, R77, R80)
-. Fortigate/ Fortinet firewalls (FortiGate-200D)
-. F5 load balancers BIG-IP 3900 v.11.6, 12.0 and 13.0.
-. Experienced with administration VmWare NSX-V and NSX-T, vSphere
-. Wireless Cisco,  Aruba, Meraki.
-. Meraki solutions.
-. Bluecoat, Websense proxies.
-. Ipanema WAN optimization.
-. Skybox firewall management.
-. ServiceNow and Jira Confluence.",,"Experienced Network Engineer with skills in Cisco Networks and Internet networking (LAN/WAN) environments. A fully qualified Cisco Certified Network Professional, with effective interpersonal skills, possessing considerable knowledge and techniques required to design, implement, support and troubleshoot major International Network systems / devices at a technical and supervisory level.",Security,upper,10.0,"Experienced Network Engineer with skills in Cisco Networks and Internet networking (LAN/WAN) environments. A fully qualified Cisco Certified Network Professional, with effective interpersonal skills, possessing considerable knowledge and techniques required to design, implement, support and troubleshoot major International Network systems / devices at a technical and supervisory level.
-Inter Continental Exchange (ICE) 05/2021 – to date
-On contract engineer
-• Providing implementation and support to complex network solutions in a Global Service Distributed Environment and DC   management, corporate and branch offices
+Key Responsibilities:
+- development of the new functionality and maintenance of existing functionality
+- performing testing and bugs fixing
+- performing code refactoring and code reviewing
+Technologies:
+HTML(5), CSS(3), JavaScript, TypeScript, React, Redux, Electron, Node.js
 
-Coral, Ladbrokes part of GVC (Entain)       11/2013 – 05/2021
-Network and Security Analyst/ SOC/ NOC
-. Experienced in Datacenter relocation, Cloud (Azure, Google, AWS, etc...)
-. Support the network infrastructure implementation and provide operations support 
-  to Managed Service Solutions as part of the Client Application Support Team in the UK, Europe 
-. Collaborated on a range on projects that deliver new applications and services to clients and senior decision-makers 
-.Experienced with the NAT, route redistribution, policy routing, HSRP, VRRP traffic policing/rate 
-  limiting, network load balancing, access control lists, route maps
-. Implementation and troubleshooting experience with VPN's and Remote Access Solutions
-. Cisco Unified CM(System version: 8.6.2.23045-1) and CCME VoIP Administration, Polycom.
-. Create, Renew and apply SSL certificates on network devices
-. Solarwind, Grafana, Splunk, Kibana, Cacti, Netflow, Nagios, Tufin monitoring tools
-. Global DNS support.
-. Experienced with Cisco ASA Firewalls (5585) and Cisco Nexus switches (4000 Chassis, 5548, spine 9332PQ, leaf 9372PX-E, 93120TX), Juniper (SRX340, SA-6500, EX), Arista.
-. Cisco IOS Software, ASR1000 Software (PPC_LINUX_IOSD-IPBASEK9-M), Cisco ASR 1001-X Router,  Cisco ISE.
-.Pulse Secure, AnyConnect VPN.
-. Checkpoint firewalls (R76, R77, R80)
-. Fortigate/ Fortinet firewalls (FortiGate-200D)
-. F5 load balancers BIG-IP 3900 v.11.6, 12.0 and 13.0.
-. Experienced with administration VmWare NSX-V and NSX-T, vSphere
-. Wireless Cisco,  Aruba, Meraki.
-. Meraki solutions.
-. Bluecoat, Websense proxies.
-. Ipanema WAN optimization.
-. Skybox firewall management.
-. ServiceNow and Jira Confluence.
-",en,1c4d5891-67e0-5bec-a2af-f0a73731df84,Security
-Go Developer (part-time),"Enthusiastic and highly motivated Senior Software Engineer with 8+ years of professional experience designing and developing projects to required specifications, focusing on scalability, reliability, quality, and sustainability. Deep knowledge and hands-on experience in leading projects, software development, architecture and system process automation. I know how to build (and what is more important - maintain) applications that work, manage development teams and ensure effective processes.",,"Development of payment providers aggregation service, which allows customers to get the most stable and valuable payment solution in real-time.
-- Take part in architecture, planning, and implementation.
-- Integrated more than 20 payment providers.
-- Implemented a highly customizing routing system for finding the best payment method in real-time using rules defined by the manager in the admin panel.
-- Implemented application performance and business monitoring.
-- Optimized used cloud resources and reduced monthly costs up to 15%.
-- Leading a dev team of 4 people.",Golang,upper,9.0,"Development of payment providers aggregation service, which allows customers to get the most stable and valuable payment solution in real-time.
-- Take part in architecture, planning, and implementation.
-- Integrated more than 20 payment providers.
-- Implemented a highly customizing routing system for finding the best payment method in real-time using rules defined by the manager in the admin panel.
-- Implemented application performance and business monitoring.
-- Optimized used cloud resources and reduced monthly costs up to 15%.
-- Leading a dev team of 4 people.
-Enthusiastic and highly motivated Senior Software Engineer with 8+ years of professional experience designing and developing projects to required specifications, focusing on scalability, reliability, quality, and sustainability. Deep knowledge and hands-on experience in leading projects, software development, architecture and system process automation. I know how to build (and what is more important - maintain) applications that work, manage development teams and ensure effective processes.
-",en,e1f3dc94-d480-5efe-9234-d34257850240,Backend
-Junior Python Developer,"I used to work as a freelancer. Mainly, I was developing Telegram bots to obtain statistics(for example Telegram bot, wich receive names and types of tobacoo products from users. Bot analyze data and Admin receives statistics). Second my most popular work as a freelancer was to develop simple web products using Django. It was the most popular types of orders that I received, not even close to the total number of orders.",,,Python,upper,1.0,"
-I used to work as a freelancer. Mainly, I was developing Telegram bots to obtain statistics(for example Telegram bot, wich receive names and types of tobacoo products from users. Bot analyze data and Admin receives statistics). Second my most popular work as a freelancer was to develop simple web products using Django. It was the most popular types of orders that I received, not even close to the total number of orders.
-",en,47f08a57-8d88-5556-bba0-2f82b35190be,Backend
-QA Automation Engineer,"SilkTest (4Test and C# - Desktop automation);
-Selenium;
-SVN, Git, Jenkins;",Working with web projects with the api/front side automation,,QA Automation,intermediate,6.0,"
-SilkTest (4Test and C# - Desktop automation);
-Selenium;
-SVN, Git, Jenkins;
-Working with web projects with the api/front side automation",en,5dc0c3ff-cb43-5f38-b466-103b926b60eb,QA
-.NET Developer,"WPF apps, MVVM, sound API (win API), coingecko API, UNIT tests, course work based on WPF and mySQL, UI design.
-Currently working on two my own projects - sound presets app and automatic screen to text",,"associate's degree (123 speciality), getting an degree at KHAI (121 speciality)",.NET,intermediate,0.0,"associate's degree (123 speciality), getting an degree at KHAI (121 speciality)
-WPF apps, MVVM, sound API (win API), coingecko API, UNIT tests, course work based on WPF and mySQL, UI design.
-Currently working on two my own projects - sound presets app and automatic screen to text
-",en,2b79fbe4-5f09-5d61-8c31-be06417856a1,Backend
-Java Trainee,"Project: graduation project ""Shop"". 
-Role: Full Stack Developer
-Short Description: Allows users to view a list of available products, make purchases and order online.
+2. The project helps Latino families with the knowledge and resources to successfully complete higher education while providing scholarships and support services to as many exceptional Hispanic American students as possible.
+
+Key Responsibilities:
+- development of the new functionality and maintenance of existing functionality
+- performing testing and bugs fixing
+- performing code refactoring and code reviewing
+- performing developing automated scripts for UI testing
+Technologies:
+HTML(5), CSS(3), JavaScript, TypeScript, React, Redux, Cypress",,,JavaScript,upper,1.5,"Student and Software Engineer with 1.5 year of commercial expertise in web development. Experienced in numerous programming languages including JavaScript and TypeScript. Also I have experience in working with Node.js and are developing in this direction.
+
+Experience:
+1. Creation of a website and a Windows application for videoconferencing and voice calls between patients and doctors.
+
+Key Responsibilities:
+- development of the new functionality and maintenance of existing functionality
+- performing testing and bugs fixing
+- performing code refactoring and code reviewing
+Technologies:
+HTML(5), CSS(3), JavaScript, TypeScript, React, Redux, Electron, Node.js
+
+2. The project helps Latino families with the knowledge and resources to successfully complete higher education while providing scholarships and support services to as many exceptional Hispanic American students as possible.
+
+Key Responsibilities:
+- development of the new functionality and maintenance of existing functionality
+- performing testing and bugs fixing
+- performing code refactoring and code reviewing
+- performing developing automated scripts for UI testing
+Technologies:
+HTML(5), CSS(3), JavaScript, TypeScript, React, Redux, Cypress",en,7b67ea38-0984-5b0c-b421-c2602a4b727b,Frontend / JavaScript,student software engineer 1.5 year commercial expertise web development experienced numerous programming languages including javascript typescript experience working node.js developing direction experience 1 creation website windows application videoconferencing voice calls patients doctors key responsibilities development new functionality maintenance existing functionality performing testing bugs fixing performing code refactoring code reviewing technologies html 5 css 3 javascript typescript react redux electron node.js 2 project helps latino families knowledge resources successfully complete higher education providing scholarships support services exceptional hispanic american students possible key responsibilities development new functionality maintenance existing functionality performing testing bugs fixing performing code refactoring code reviewing performing developing automated scripts ui testing technologies html 5 css 3 javascript typescript react redux cypress
+Unity3D Developers (Teams),"An experienced Unity 3D engineer with an extensive background in C#, JavaScript, and Android. The main development tools are SourceTree, Unity Editor, Visual Studio, MonoDevelop, Android SDK Tools.
+
+C#, Unity3D, JavaScript, SQL, UNET, Vuforia, Wikitube, ARKit, Mono, Visual Studio,",,UNITY CERTIFIED EXPERT.,Unity,upper,5.0,"UNITY CERTIFIED EXPERT.
+An experienced Unity 3D engineer with an extensive background in C#, JavaScript, and Android. The main development tools are SourceTree, Unity Editor, Visual Studio, MonoDevelop, Android SDK Tools.
+
+C#, Unity3D, JavaScript, SQL, UNET, Vuforia, Wikitube, ARKit, Mono, Visual Studio,",en,fe568dab-21e1-5e53-a467-8d9d780b5dcc,GameDev,unity certified expert experienced unity 3d engineer extensive background c# javascript android main development tools sourcetree unity editor visual studio monodevelop android sdk tools c# unity3d javascript sql unet vuforia wikitube arkit mono visual studio
+Front-end developer (React),"Hi, I'm a front-end developer. Every day I learn something new and enjoy what I do.
+
+I develop applications using the modern React ecosystem and various interface tools.
+I also have a little experience as a team leader and mentor.
+My goal is to find a strong team to improve my professional skills.",My goal is to find a strong team to improve my professional skills,"Developed new projects and supported existing ones using technologies such as React.js, Next.js, strapi. I have experience in the role of a mentor.
+
+1. Health SlimMom (Team project)
+Technology stack : JavaScript, HTML5, CSS3, React, React Router Dom, Redux, Redux Toolkit, Redux Persist, Formik, Yup, React Transition Group, Moment, React Loader Spiner, styled-components, Webpack, Hooks.
+
+2.OLX Shop (Team project)
+Technology stack : vanilla JavaScript, HTML5, CSS3, SASS, JSON WebToken, AXIOS, Handlebars, Siema, Slick, Swagger, Webpack.
+
+3.HellEN (Team project)
+Technology stack : HTML5, CSS3, SASS,Parcel, mobile first strategy, FlexBox.
+
+4.Phonebook (Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS, React, React Router Dom, Redux, Redux Toolkit, Redux Persist, JSON WebToken, Code splitting, styled-components, React Transition Group, React Loader Spiner, Webpack, Firebase, Hooks.
+
+5.Movies (Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS, React, React Router Dom, Code splitting, styled-components,, React Loader Spiner, Webpack, REST API.
+
+6. Image finder ( Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS, React, styled-components, React Loader Spiner, react-infinite-scroll-component, Webpack, REST API.
+
+7.WebStudio (Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS.",JavaScript,pre,2.0,"Developed new projects and supported existing ones using technologies such as React.js, Next.js, strapi. I have experience in the role of a mentor.
+
+1. Health SlimMom (Team project)
+Technology stack : JavaScript, HTML5, CSS3, React, React Router Dom, Redux, Redux Toolkit, Redux Persist, Formik, Yup, React Transition Group, Moment, React Loader Spiner, styled-components, Webpack, Hooks.
+
+2.OLX Shop (Team project)
+Technology stack : vanilla JavaScript, HTML5, CSS3, SASS, JSON WebToken, AXIOS, Handlebars, Siema, Slick, Swagger, Webpack.
+
+3.HellEN (Team project)
+Technology stack : HTML5, CSS3, SASS,Parcel, mobile first strategy, FlexBox.
+
+4.Phonebook (Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS, React, React Router Dom, Redux, Redux Toolkit, Redux Persist, JSON WebToken, Code splitting, styled-components, React Transition Group, React Loader Spiner, Webpack, Firebase, Hooks.
+
+5.Movies (Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS, React, React Router Dom, Code splitting, styled-components,, React Loader Spiner, Webpack, REST API.
+
+6. Image finder ( Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS, React, styled-components, React Loader Spiner, react-infinite-scroll-component, Webpack, REST API.
+
+7.WebStudio (Own project)
+Technology stack : JavaScript, HTML5, CSS3, SASS.
+Hi, I'm a front-end developer. Every day I learn something new and enjoy what I do.
+
+I develop applications using the modern React ecosystem and various interface tools.
+I also have a little experience as a team leader and mentor.
+My goal is to find a strong team to improve my professional skills.
+My goal is to find a strong team to improve my professional skills",en,129627a9-648d-5951-9e24-9b200dd49835,Frontend / JavaScript,developed new projects supported existing ones using technologies react.js next.js strapi experience role mentor 1 health slimmom team project technology stack javascript html5 css3 react react router dom redux redux toolkit redux persist formik yup react transition group moment react loader spiner styled-components webpack hooks 2.olx shop team project technology stack vanilla javascript html5 css3 sass json webtoken axios handlebars siema slick swagger webpack 3.hellen team project technology stack html5 css3 sass parcel mobile strategy flexbox 4.phonebook project technology stack javascript html5 css3 sass react react router dom redux redux toolkit redux persist json webtoken code splitting styled-components react transition group react loader spiner webpack firebase hooks 5.movies project technology stack javascript html5 css3 sass react react router dom code splitting styled-components react loader spiner webpack rest api 6 image finder project technology stack javascript html5 css3 sass react styled-components react loader spiner react-infinite-scroll-component webpack rest api 7.webstudio project technology stack javascript html5 css3 sass hi m front-end developer day learn new enjoy develop applications using modern react ecosystem various interface tools little experience team leader mentor goal strong team improve professional skills goal strong team improve professional skills
+Python/Django Developer,"PM and developer of service from idea to implementation (frontend and backend, searching and hiring contractors (design, layout, dev) working with Github and Trello, layout in moqups.com , Python dev -Django ( Python, Django Rest Framework, Django ORM, SQL, Pandas, Channels, Celery, MySQL, HTML, JS).
+Flask, Spark, Keras, Sklearn, Tensorflow, Selenium, PyTest, Docker, Git, SAP ABAP programming languages, C++, basic Linux
+Raspberry and Arduino programming.",,,Python,intermediate,3.0,"PM and developer of service from idea to implementation (frontend and backend, searching and hiring contractors (design, layout, dev) working with Github and Trello, layout in moqups.com , Python dev -Django ( Python, Django Rest Framework, Django ORM, SQL, Pandas, Channels, Celery, MySQL, HTML, JS).
+Flask, Spark, Keras, Sklearn, Tensorflow, Selenium, PyTest, Docker, Git, SAP ABAP programming languages, C++, basic Linux
+Raspberry and Arduino programming.",en,b21f820a-1f13-5b16-806c-fb24d2bbd26c,Backend,pm developer service idea implementation frontend backend searching hiring contractors design layout dev working github trello layout moqups.com python dev django python django rest framework django orm sql pandas channels celery mysql html js flask spark keras sklearn tensorflow selenium pytest docker git sap abap programming languages c++ basic linux raspberry arduino programming
+Manual QA Engineer,"A Quality Assurance Engineer with three years of experience. I have been working as a single QA with 3-5 developers for 2 years. Our team has been working on one long-term project. It's a Ukrainian web-based marketplace. Our team has been working with scrum methodology. We always discuss our goals and tasks for the sprint at innit and daily meetings.
+My qualifications and responsibilities:
+created test plans for new product development;
+accurately monitored and recorded results in test documentation;
+worked with developers to track backlog items;
+investigated and reproduced problems, documented findings;
+bug logged and tracked through JIRA;
+assisted developers with issue analysis;
+worked with functional QA & Development teams to troubleshoot and improve identified performance bottlenecks;
+worked with MySQL Server;
+familiar with Postman, RabbitMQ, ElasticSearch, Kibana, Graylog;
+worked with different OSs: Android, iOS, MS Windows, Mac OS, Linux.",,,QA,upper,3.0,"A Quality Assurance Engineer with three years of experience. I have been working as a single QA with 3-5 developers for 2 years. Our team has been working on one long-term project. It's a Ukrainian web-based marketplace. Our team has been working with scrum methodology. We always discuss our goals and tasks for the sprint at innit and daily meetings.
+My qualifications and responsibilities:
+created test plans for new product development;
+accurately monitored and recorded results in test documentation;
+worked with developers to track backlog items;
+investigated and reproduced problems, documented findings;
+bug logged and tracked through JIRA;
+assisted developers with issue analysis;
+worked with functional QA & Development teams to troubleshoot and improve identified performance bottlenecks;
+worked with MySQL Server;
+familiar with Postman, RabbitMQ, ElasticSearch, Kibana, Graylog;
+worked with different OSs: Android, iOS, MS Windows, Mac OS, Linux.",en,40ca776c-8ec5-5241-adee-c98129316269,QA,quality assurance engineer years experience working single qa 3-5 developers 2 years team working long-term project s ukrainian web-based marketplace team working scrum methodology discuss goals tasks sprint innit daily meetings qualifications responsibilities created test plans new product development accurately monitored recorded results test documentation worked developers track backlog items investigated reproduced problems documented findings bug logged tracked jira assisted developers issue analysis worked functional qa development teams troubleshoot improve identified performance bottlenecks worked mysql server familiar postman rabbitmq elasticsearch kibana graylog worked different oss android ios ms windows mac os linux
+QA Engineer,"I am a Software Test Engineer I in KYOCERA Document Solutions Development Philippines, Inc.
+I;
+-Plan and conduct testing of Kyocera's product software systems and components.
+- Supports in planning and executing test preparation phase.
+- Analyzes, reviews and assesses test bases user requirements, specifications and models for testability.
+- Creates test specifications from the test basis.
+- Prepares and acquires/create test data.
+- Install and configure test environment setup.
+- Effectively executes test execution phase and produce quality outcome.
+- Implements tests on all test levels, executes and logs the tests, evaluates the results and documents the deviations from expected results as defects.
+- Supports in executing configuration management’s task scope.
+- Supports in executing progress monitoring and control process’ task scope.
+- Supports in executing test completion phase’s task scope.
+- Conducts meeting for test results and releases.
+- Leads a team; Disseminate workloads to test engineers for test execution.
+- Proficient in using JIRA to file bugs and defects.
+- Experienced WHQL and CITRIX Certification.
+
+I was a Software QA Tester NCR Cebu Development Center Inc. for 2 years and 7 months
+I;
+- Plan and Conduct testing of NCR's product software systems, subsystems, and components.
+- Apply test (AGILE) methodology, processes, procedures, standards and tools used by team.
+- Exhibit a good understanding of Software Development and Quality Assurance best practices.
+- Performs solid concepts of test design and methodologies which includes -
+Manual Testing; Black Box / White Box testing; Test plan and Resources Planning;
+- Test project scheduling; Software Release.
+- Performs proper validation procedures such as - Integration Testing, System Testing; User Acceptance Testing; Installation Testing;
+Performance Testing.
+- Creates and maintains Test Strategy and Test Specifications documents.
+- Performs reliability, functional, performance, stress, and regression testing of NCR software applications, firmware, and hardware devices.
+- Monitors and updates software or firmware JIRA (bug tracker tool) issues status and verifies software or firmware JIRA solutions/fixes and follows through on issues.
+- Records, maintain, and archive test results.
+- Ensures timely submissions of project deliverables.
+- Install and configure test environment including hardware and software components.",,,QA,fluent,3.0,"I am a Software Test Engineer I in KYOCERA Document Solutions Development Philippines, Inc.
+I;
+-Plan and conduct testing of Kyocera's product software systems and components.
+- Supports in planning and executing test preparation phase.
+- Analyzes, reviews and assesses test bases user requirements, specifications and models for testability.
+- Creates test specifications from the test basis.
+- Prepares and acquires/create test data.
+- Install and configure test environment setup.
+- Effectively executes test execution phase and produce quality outcome.
+- Implements tests on all test levels, executes and logs the tests, evaluates the results and documents the deviations from expected results as defects.
+- Supports in executing configuration management’s task scope.
+- Supports in executing progress monitoring and control process’ task scope.
+- Supports in executing test completion phase’s task scope.
+- Conducts meeting for test results and releases.
+- Leads a team; Disseminate workloads to test engineers for test execution.
+- Proficient in using JIRA to file bugs and defects.
+- Experienced WHQL and CITRIX Certification.
+
+I was a Software QA Tester NCR Cebu Development Center Inc. for 2 years and 7 months
+I;
+- Plan and Conduct testing of NCR's product software systems, subsystems, and components.
+- Apply test (AGILE) methodology, processes, procedures, standards and tools used by team.
+- Exhibit a good understanding of Software Development and Quality Assurance best practices.
+- Performs solid concepts of test design and methodologies which includes -
+Manual Testing; Black Box / White Box testing; Test plan and Resources Planning;
+- Test project scheduling; Software Release.
+- Performs proper validation procedures such as - Integration Testing, System Testing; User Acceptance Testing; Installation Testing;
+Performance Testing.
+- Creates and maintains Test Strategy and Test Specifications documents.
+- Performs reliability, functional, performance, stress, and regression testing of NCR software applications, firmware, and hardware devices.
+- Monitors and updates software or firmware JIRA (bug tracker tool) issues status and verifies software or firmware JIRA solutions/fixes and follows through on issues.
+- Records, maintain, and archive test results.
+- Ensures timely submissions of project deliverables.
+- Install and configure test environment including hardware and software components.",en,f760d875-9a5e-5113-86b1-ece8d7f24f1b,QA,software test engineer kyocera document solutions development philippines plan conduct testing kyocera s product software systems components supports planning executing test preparation phase analyzes reviews assesses test bases user requirements specifications models testability creates test specifications test basis prepares acquires create test data install configure test environment setup effectively executes test execution phase produce quality outcome implements tests test levels executes logs tests evaluates results documents deviations expected results defects supports executing configuration management s task scope supports executing progress monitoring control process task scope supports executing test completion phase s task scope conducts meeting test results releases leads team disseminate workloads test engineers test execution proficient using jira file bugs defects experienced whql citrix certification software qa tester ncr cebu development center 2 years 7 months plan conduct testing ncr s product software systems subsystems components apply test agile methodology processes procedures standards tools used team exhibit good understanding software development quality assurance best practices performs solid concepts test design methodologies includes manual testing black box white box testing test plan resources planning test project scheduling software release performs proper validation procedures integration testing testing user acceptance testing installation testing performance testing creates maintains test strategy test specifications documents performs reliability functional performance stress regression testing ncr software applications firmware hardware devices monitors updates software firmware jira bug tracker tool issues status verifies software firmware jira solutions fixes follows issues records maintain archive test results ensures timely submissions project deliverables install configure test environment including hardware software components
+QA Engineer,"Manual QA Engineer nearly 2,5 years of experience in the field of software testing. Good at QA methodologies and different tools. Has experience in web and mobile testing and understands the project life-cycle and QA processes. A person of high attentiveness and sociability who has team working skills. A very responsible and punctual employee.","I do not want to work with the tracking system (screenshots, activity recording)",,QA,intermediate,2.5,"Manual QA Engineer nearly 2,5 years of experience in the field of software testing. Good at QA methodologies and different tools. Has experience in web and mobile testing and understands the project life-cycle and QA processes. A person of high attentiveness and sociability who has team working skills. A very responsible and punctual employee.
+I do not want to work with the tracking system (screenshots, activity recording)",en,d94fb862-524c-5a2d-8f57-b2e0fac38731,QA,manual qa engineer nearly 2 5 years experience field software testing good qa methodologies different tools experience web mobile testing understands project life-cycle qa processes person high attentiveness sociability team working skills responsible punctual employee want work tracking screenshots activity recording
+Full Stack JavaScript Developer,"I am a full stack JavaScript developer, I have 4+ years experience developing modern, responsive and scalable web and mobile applications, across my years of development i have completed several frontend, backend and mobile development tasks, including and ecofriendly application that interfaces with smart metering systems for solar energy provision. I am aplomb and i deliver on time. I am always open to feed back and corrections, and I'm a great team player.",,,JavaScript,fluent,4.0,"I am a full stack JavaScript developer, I have 4+ years experience developing modern, responsive and scalable web and mobile applications, across my years of development i have completed several frontend, backend and mobile development tasks, including and ecofriendly application that interfaces with smart metering systems for solar energy provision. I am aplomb and i deliver on time. I am always open to feed back and corrections, and I'm a great team player.",en,f761a10b-cd3c-59f4-ac37-9c3c13dfce41,Frontend / JavaScript,stack javascript developer 4+ years experience developing modern responsive scalable web mobile applications years development completed frontend backend mobile development tasks including ecofriendly application interfaces smart metering systems solar energy provision aplomb deliver time open feed corrections m great team player
+Markup Developer,2019 - markup developer in design studio.,"Professional development, atmosphere of support and team cohesion","Summary:
+- HTML - 8 months,
+- CSS - 8 months,
+- jQuery - 8 months.
+Instruments:
+- Sublime Text 3,
+- Visual Studio Code,
+- Adobe Photoshop,
+- Bootstrap 4.
+Skills:
+- HTML5, CSS3;
+- SCSS/SASS;
+- cutting site design layouts;
+- cross-browser, flexbox, adaptive;
+- CSS Grid;
+- jQuery, sprites;
+- Bootstrap 4;
+- Adobe Photoshop, Illustrator;
+- Figma;
+- FileZilla;
+- GIT;
+- JavaScript basics (keep studying);
+- English level Pre-Intermediate (keep studying).",JavaScript,pre,0.5,"Summary:
+- HTML - 8 months,
+- CSS - 8 months,
+- jQuery - 8 months.
+Instruments:
+- Sublime Text 3,
+- Visual Studio Code,
+- Adobe Photoshop,
+- Bootstrap 4.
+Skills:
+- HTML5, CSS3;
+- SCSS/SASS;
+- cutting site design layouts;
+- cross-browser, flexbox, adaptive;
+- CSS Grid;
+- jQuery, sprites;
+- Bootstrap 4;
+- Adobe Photoshop, Illustrator;
+- Figma;
+- FileZilla;
+- GIT;
+- JavaScript basics (keep studying);
+- English level Pre-Intermediate (keep studying).
+2019 - markup developer in design studio.
+Professional development, atmosphere of support and team cohesion",en,73e6f8a8-b492-58d5-8035-6371f5fc0349,Frontend / JavaScript,summary html 8 months css 8 months jquery 8 months instruments sublime text 3 visual studio code adobe photoshop bootstrap 4 skills html5 css3 scss sass cutting site design layouts cross-browser flexbox adaptive css grid jquery sprites bootstrap 4 adobe photoshop illustrator figma filezilla git javascript basics studying english level pre-intermediate studying 2019 markup developer design studio professional development atmosphere support team cohesion
+Middle Java developer,3.5 years of experience in software development. Knowledge of agile development process. Good teammate skills. Looking for an opportunity to develop work skills on the new interesting projects in a team of specialists.,,,Java,upper,4.0,3.5 years of experience in software development. Knowledge of agile development process. Good teammate skills. Looking for an opportunity to develop work skills on the new interesting projects in a team of specialists.,en,120725a1-4697-510e-8308-8dbaa0aa9719,Backend,3.5 years experience software development knowledge agile development process good teammate skills looking opportunity develop work skills new interesting projects team specialists
+Junior PHP Developer,"I have no work experience yet, but I'm on a confident way to get it. I have a higher education in the specialty ""Applied Mathematics"", Oles Honchar Dnipro National University.
+I gained the bulk of my knowledge through self-study on platforms such as: W3 Schools, Codecademy, SoloLearn.",,,PHP,pre,0.0,"I have no work experience yet, but I'm on a confident way to get it. I have a higher education in the specialty ""Applied Mathematics"", Oles Honchar Dnipro National University.
+I gained the bulk of my knowledge through self-study on platforms such as: W3 Schools, Codecademy, SoloLearn.",en,d918a9b7-b856-5cce-a591-84b760e4a3d9,Backend,work experience m confident way higher education specialty applied mathematics oles honchar dnipro national university gained bulk knowledge self-study platforms w3 schools codecademy sololearn
+Senior Technical Trainer (Salesforce/Salesforce Commerce Cloud),"2016 - 2017: Salesforce Commerce Cloud Backend Developer
+
+- Implemented new functionalities and extended the existing ones
+- Fixed bugs that could appear
+- Wrote the technical documentation
+
+2017-2021: SFCC Technical Trainer / Senior SFCC Technical Trainer
+
+- Prepare and conduct OSF Academies and Internships (Frontend, Salesforce Administrator, Salesforce CRM)
+- Deliver a variety of pieces of training to the client
+- Prepare and organize training activities for (Salesforce Commerce Cloud: FE, BE, QA, PM, BA) specialists
+- Prepare and organize training activities for (Salesforce Marketing Cloud and Administrators)
+- Assess training needs and certification requirements
+- Create and ensure the quality and consistency of training courses/pieces of the training
+- Prepare and organize live/recorded webinars
+- Create video tutorials
+- Continuously update the training content
+- Tracking the progress of the students on a daily basis
+- Managing and coordinating the team of the technical trainers
+
+2021-2023: SFCC Project Manager:
+
+- Managing teams of up to 8 members using Waterfall/Agile methodology
+- Work with French-speaking clients/stakeholders
+- Analysis of the project progress, when necessary, adapt scope, timelines, and costs to
+ensure that the project team adheres to project requirements
+- Coordination of the external and internal resources, making sure that the project remains within scope, schedule, and defined budgets, in collaboration with project staff from various functional departments
+- Establishment and maintenance of the relationships with appropriate stakeholders,
+providing day-to-day contact on project status and changes
+- Integration of the Salesforce Commerce Cloud
+
+2023 - Current: Senior SFCC Technical Trainer:
+
+- Managing and coordinating the team of the technical trainers
+- Technical Trainer's responsibilities",,,Node.js,fluent,5.0,"2016 - 2017: Salesforce Commerce Cloud Backend Developer
+
+- Implemented new functionalities and extended the existing ones
+- Fixed bugs that could appear
+- Wrote the technical documentation
+
+2017-2021: SFCC Technical Trainer / Senior SFCC Technical Trainer
+
+- Prepare and conduct OSF Academies and Internships (Frontend, Salesforce Administrator, Salesforce CRM)
+- Deliver a variety of pieces of training to the client
+- Prepare and organize training activities for (Salesforce Commerce Cloud: FE, BE, QA, PM, BA) specialists
+- Prepare and organize training activities for (Salesforce Marketing Cloud and Administrators)
+- Assess training needs and certification requirements
+- Create and ensure the quality and consistency of training courses/pieces of the training
+- Prepare and organize live/recorded webinars
+- Create video tutorials
+- Continuously update the training content
+- Tracking the progress of the students on a daily basis
+- Managing and coordinating the team of the technical trainers
+
+2021-2023: SFCC Project Manager:
+
+- Managing teams of up to 8 members using Waterfall/Agile methodology
+- Work with French-speaking clients/stakeholders
+- Analysis of the project progress, when necessary, adapt scope, timelines, and costs to
+ensure that the project team adheres to project requirements
+- Coordination of the external and internal resources, making sure that the project remains within scope, schedule, and defined budgets, in collaboration with project staff from various functional departments
+- Establishment and maintenance of the relationships with appropriate stakeholders,
+providing day-to-day contact on project status and changes
+- Integration of the Salesforce Commerce Cloud
+
+2023 - Current: Senior SFCC Technical Trainer:
+
+- Managing and coordinating the team of the technical trainers
+- Technical Trainer's responsibilities",en,fc8ff923-797a-5a2d-be72-73d7be9dd245,Backend,2016 2017 salesforce commerce cloud backend developer implemented new functionalities extended existing ones fixed bugs appear wrote technical documentation 2017-2021 sfcc technical trainer senior sfcc technical trainer prepare conduct osf academies internships frontend salesforce administrator salesforce crm deliver variety pieces training client prepare organize training activities salesforce commerce cloud fe qa pm ba specialists prepare organize training activities salesforce marketing cloud administrators assess training needs certification requirements create ensure quality consistency training courses pieces training prepare organize live recorded webinars create video tutorials continuously update training content tracking progress students daily basis managing coordinating team technical trainers 2021-2023 sfcc project manager managing teams 8 members using waterfall agile methodology work french-speaking clients stakeholders analysis project progress necessary adapt scope timelines costs ensure project team adheres project requirements coordination external internal resources making sure project remains scope schedule defined budgets collaboration project staff various functional departments establishment maintenance relationships appropriate stakeholders providing day-to-day contact project status changes integration salesforce commerce cloud 2023 current senior sfcc technical trainer managing coordinating team technical trainers technical trainer s responsibilities
+Middle Frontend Developer,"I develop SPA from scratch, as well as support and refactor existing projects (React.js).
+I make landing pages and work with pure JS.
+Sometimes I write backend (stack: MySQL, Node.js, Express.js).","I want to use new and relevant technologies on interesting projects, grew up as a full stack developer.",,JavaScript,intermediate,5.0,"I develop SPA from scratch, as well as support and refactor existing projects (React.js).
+I make landing pages and work with pure JS.
+Sometimes I write backend (stack: MySQL, Node.js, Express.js).
+I want to use new and relevant technologies on interesting projects, grew up as a full stack developer.",en,b8fbfaed-8fd3-5f4e-9533-1d27a3fc200f,Frontend / JavaScript,develop spa scratch support refactor existing projects react.js make landing pages work pure js write backend stack mysql node.js express.js want use new relevant technologies interesting projects grew stack developer
+Backend Developer,"Java Core (Java 8+)
+GoLang
+Spring
+Hibernate
+Kafka
+Frontend Basics
+Groovy/Kotlin Basics
+AWS
+Docker
+Kubernetes
+Microservices
+CI/CD
+Git
+Spring Boot
+RDBMS (PostgreSQL, MySQL)
+Maven, Gradle
+Servlets, JSP,
+SQL, JDBC, JPA
+Client-server architecture",I am open for all new opportunities.,"Managed software development process across the team
+Discovered a critical security issue in the system
+Technical webinars leading
+Mentoring newcomers
+Collaborating with stakeholders
+Technology stack switch
+Implementation of new CI, logs, and metrics tools
+Participating in new services architecture design process",Java,upper,3.0,"Managed software development process across the team
+Discovered a critical security issue in the system
+Technical webinars leading
+Mentoring newcomers
+Collaborating with stakeholders
+Technology stack switch
+Implementation of new CI, logs, and metrics tools
+Participating in new services architecture design process
+Java Core (Java 8+)
+GoLang
+Spring
+Hibernate
+Kafka
+Frontend Basics
+Groovy/Kotlin Basics
+AWS
+Docker
+Kubernetes
+Microservices
+CI/CD
+Git
+Spring Boot
+RDBMS (PostgreSQL, MySQL)
+Maven, Gradle
+Servlets, JSP,
+SQL, JDBC, JPA
+Client-server architecture
+I am open for all new opportunities.",en,5cdb2dc1-7948-5364-9062-e87c06d90971,Backend,managed software development process team discovered critical security issue technical webinars leading mentoring newcomers collaborating stakeholders technology stack switch implementation new ci logs metrics tools participating new services architecture design process java core java 8+ golang spring hibernate kafka frontend basics groovy kotlin basics aws docker kubernetes microservices ci cd git spring boot rdbms postgresql mysql maven gradle servlets jsp sql jdbc jpa client-server architecture open new opportunities
+Trainee,"Passed a course at the CISCO Academy;
+Passed a Python 3 training course on CodeCademy.
+Wrote an application based on the Markov chain for generating lyrics from songs read by the program.",,,Python,upper,0.0,"Passed a course at the CISCO Academy;
+Passed a Python 3 training course on CodeCademy.
+Wrote an application based on the Markov chain for generating lyrics from songs read by the program.",en,1a63359f-b767-523c-9b9e-369cf5592bd3,Backend,passed course cisco academy passed python 3 training course codecademy wrote application based markov chain generating lyrics songs read program
+"Trainee/Junior Java Developer, Trainee QA engeneer","Pro poker player
+Oct 2009 - present time (7 years 6 months)
 Responsibilities:
-- Creating 5 separate web pages
-- Creation database, ORM
-- Creating CRUD-operations for all entities
-- Provide for Buyers ability to use ""Cart"" and list of ""Favorite Products"":
-- Implement autogeneration of the entire project database.
-- Provide Page breakdown, Filtering and Sorting,
-- Swagger configuration
-- Add and save files, pictures
-- Code development and bug fixing","I am looking for a friendly team who share with me high standards in work and business communication. I get inspiration in solving difficult tasks, effective communication, close cooperation, celebrating a common victory.",Wrote a web project and posted it on HEROKU.,Java,intermediate,0.5,"Wrote a web project and posted it on HEROKU.
-Project: graduation project ""Shop"". 
-Role: Full Stack Developer
-Short Description: Allows users to view a list of available products, make purchases and order online.
+• calculating different types of custom ranges;
+• studying of the psychology of players behavior;
+• calculating optimal bet lines, depending on probability theory and combinatorics;
+• using software to process hand history databases.","I have a strong desire to learn QA technologies, but unfortunately have no expierence. Also very interested in Java and PHP languages.",,Java,pre,0.0,"Pro poker player
+Oct 2009 - present time (7 years 6 months)
 Responsibilities:
-- Creating 5 separate web pages
-- Creation database, ORM
-- Creating CRUD-operations for all entities
-- Provide for Buyers ability to use ""Cart"" and list of ""Favorite Products"":
-- Implement autogeneration of the entire project database.
-- Provide Page breakdown, Filtering and Sorting,
-- Swagger configuration
-- Add and save files, pictures
-- Code development and bug fixing
-I am looking for a friendly team who share with me high standards in work and business communication. I get inspiration in solving difficult tasks, effective communication, close cooperation, celebrating a common victory.",en,ccf58c93-8b4f-554a-99be-a28441d64231,Backend
-Java Test Automation Engineer,"I have 2 years of Test Automation experience and around 5 years as a manual technical QA engineer (data validation, Linux cmd tools, ETLs, logs), and hundreds of hours of self-education on top of that.
-
-Past Projects were mostly in the Financial domain (Investment banking).
-
-- Data processing platform - transactions, master data, reference data. Custom ETL written in Java, Informatica, DWH build on Oracle
-- Regulatory reporting solution for OTC market
-- Messaging-based solution (PubSub model, Solace, Java)
-- Data extraction platform
-- Data pipeline","Looking for an 6-8-month long project starting in November. 
-Technical stack: Java 9+, backend (APIs, databases), business logic, data validation, AWS, Kubernetes, SQL. Ideally, data processing projects. Interested in SDET-like positions.
-Other: fully remote, requiring extensive communication in English.
-No gaming, gambling, and frontend positions, please.",I do quality work. I always make sure the results of my work are reliable. I always try to understand the technologies I work with.,QA Automation,fluent,3.0,"I do quality work. I always make sure the results of my work are reliable. I always try to understand the technologies I work with.
-I have 2 years of Test Automation experience and around 5 years as a manual technical QA engineer (data validation, Linux cmd tools, ETLs, logs), and hundreds of hours of self-education on top of that.
-
-Past Projects were mostly in the Financial domain (Investment banking).
-
-- Data processing platform - transactions, master data, reference data. Custom ETL written in Java, Informatica, DWH build on Oracle
-- Regulatory reporting solution for OTC market
-- Messaging-based solution (PubSub model, Solace, Java)
-- Data extraction platform
-- Data pipeline
-Looking for an 6-8-month long project starting in November. 
-Technical stack: Java 9+, backend (APIs, databases), business logic, data validation, AWS, Kubernetes, SQL. Ideally, data processing projects. Interested in SDET-like positions.
-Other: fully remote, requiring extensive communication in English.
-No gaming, gambling, and frontend positions, please.",en,e727f309-a8fc-5418-abcb-894b4b3744bf,QA
-Junior Frontend developer/ Junior Full-Stack developer,"Hi, let me introduce myself. I'am a Frontend developer. I have knowledges in HTML / CSS / JavaScript / React. During the coding course in GoIT I performed 2 successful team projects as a teamlead and several own works.","My aim is to work for one of the world's lider companies in IT industry applieng my knowleges and skils. And of course, learn and develop more and more in the field of IT by studying other programming languages.","I performed 2 successful team projects as a teamlead: 
-
-- Filmoteka (The website for searching movies with adaptive layout. As a team leader I created the project on github, checked for build errors and helped the team with coding problems the had. Technology stack: HTML, SASS, JS, REST API, AJAX, Parcel).
-
-- FoodSta (A website with a responsive layout.
-Technology stack: HTML, SASS, JS, Parcel.
-My responsibilities were to create the project on github, to check and help the team with coding errors).
-
-And have the own work: 
-- Web Studio (Individual project WebStudio with responsive layout. Technology stack: HTML, CSS, GitHub, BEM methodology, SASS preprocessor).",JavaScript,upper,0.0,"I performed 2 successful team projects as a teamlead: 
-
-- Filmoteka (The website for searching movies with adaptive layout. As a team leader I created the project on github, checked for build errors and helped the team with coding problems the had. Technology stack: HTML, SASS, JS, REST API, AJAX, Parcel).
-
-- FoodSta (A website with a responsive layout.
-Technology stack: HTML, SASS, JS, Parcel.
-My responsibilities were to create the project on github, to check and help the team with coding errors).
-
-And have the own work: 
-- Web Studio (Individual project WebStudio with responsive layout. Technology stack: HTML, CSS, GitHub, BEM methodology, SASS preprocessor).
-Hi, let me introduce myself. I'am a Frontend developer. I have knowledges in HTML / CSS / JavaScript / React. During the coding course in GoIT I performed 2 successful team projects as a teamlead and several own works.
-My aim is to work for one of the world's lider companies in IT industry applieng my knowleges and skils. And of course, learn and develop more and more in the field of IT by studying other programming languages.",en,6ee7e755-20a6-58a3-838d-af25ea37cfd6,Frontend / JavaScript
-Full Stack Web Developer (React + Node.js),"From 09.2021 to March 2023(1+ year)
-Non-Commercial Freelance Experience
-
-March 2023 - Now
-Upwork Freelance Experience
-
-I used to develop an Employee dashboard, CRM system, Landing page, Online services and Control Panel administration.
-
-My stack includes: HTML5, CSS3, JavaScript, TypeScript, React, Redux Toolkit, RTK Query, Vue3, Express.js, Node.js, Nest.js, MongoDB, JWT, VueX, VueCLI, VueRouter, npm, git, figma, psd, and REST API","From work I expect to work on interesting project , strong team and good management","Throughout time I worked at Upwork, I learned a lot of technologies, such as Nest.js, TypeScript, Redux Toolkit, Express.js, Mongoose, Multer, JWT, and NodeMailer.",JavaScript,intermediate,0.5,"Throughout time I worked at Upwork, I learned a lot of technologies, such as Nest.js, TypeScript, Redux Toolkit, Express.js, Mongoose, Multer, JWT, and NodeMailer.
-From 09.2021 to March 2023(1+ year)
-Non-Commercial Freelance Experience
-
-March 2023 - Now
-Upwork Freelance Experience
-
-I used to develop an Employee dashboard, CRM system, Landing page, Online services and Control Panel administration.
-
-My stack includes: HTML5, CSS3, JavaScript, TypeScript, React, Redux Toolkit, RTK Query, Vue3, Express.js, Node.js, Nest.js, MongoDB, JWT, VueX, VueCLI, VueRouter, npm, git, figma, psd, and REST API
-From work I expect to work on interesting project , strong team and good management",en,a25ca818-4428-5278-accd-820039b8e933,Frontend / JavaScript
-Senior iOS Developer,"• 7 years of experience in iOS business application development;
-• Rich experience in Swift, Objective-C;
-• Solid background in OOP/OOA/OOD, SOLID principle;
-• Experience in XCode programming, iOS SDK;
-• Solid expertise in design and development of mobile solutions (iPhone, iPad);
-• Designing business applications for iOS platforms;
-• Experienced in the development of web and network-related applications; 	
-• Experience with Agile Scrum methodologies;
-• Solid experience with unit and UI tests;
-• Expertise highlights:
-   - Architectures: MVC, MVP, VIP, VIPER patterns and familiar with MVVM;
-   - Unit testing with the XCTest, familiar with TDD approach;
-   - Analytic Frameworks: Crashlytics, Google Analytics, Segment;
-   - Services: TestFlight, Firebase, APNS, HomeKit;
-   - Third-party libraries: GoogleMaps, AFNetworking, Alamofire;
-   - DI frameworks: Swinject;
-   - Automation frameworks: Fastlane;
-   - Social Networks and APIs: Facebook, Twitter, Instagram, WeChat, Weibo;
-   - Experience with SwiftUI and Combine;
-   - Experience with React Native.","I preffer to work as part of a team, to be able to learn and increase skills exchanging experience with teammates. However, I have experience and able to work alone and develop project during all lifecycle.
-Hope to have a long cooperation in a company with flexible working hours and good social package.","* Experience in teamwork with 100+ developers
-* Experience in multitarget development
-* Experience in Unit and UI Testing, snapshot testing
-* Experience in React Native
-* Experience in SwiftUI and Combine",iOS,upper,7.0,"* Experience in teamwork with 100+ developers
-* Experience in multitarget development
-* Experience in Unit and UI Testing, snapshot testing
-* Experience in React Native
-* Experience in SwiftUI and Combine
-• 7 years of experience in iOS business application development;
-• Rich experience in Swift, Objective-C;
-• Solid background in OOP/OOA/OOD, SOLID principle;
-• Experience in XCode programming, iOS SDK;
-• Solid expertise in design and development of mobile solutions (iPhone, iPad);
-• Designing business applications for iOS platforms;
-• Experienced in the development of web and network-related applications; 	
-• Experience with Agile Scrum methodologies;
-• Solid experience with unit and UI tests;
-• Expertise highlights:
-   - Architectures: MVC, MVP, VIP, VIPER patterns and familiar with MVVM;
-   - Unit testing with the XCTest, familiar with TDD approach;
-   - Analytic Frameworks: Crashlytics, Google Analytics, Segment;
-   - Services: TestFlight, Firebase, APNS, HomeKit;
-   - Third-party libraries: GoogleMaps, AFNetworking, Alamofire;
-   - DI frameworks: Swinject;
-   - Automation frameworks: Fastlane;
-   - Social Networks and APIs: Facebook, Twitter, Instagram, WeChat, Weibo;
-   - Experience with SwiftUI and Combine;
-   - Experience with React Native.
-I preffer to work as part of a team, to be able to learn and increase skills exchanging experience with teammates. However, I have experience and able to work alone and develop project during all lifecycle.
-Hope to have a long cooperation in a company with flexible working hours and good social package.",en,3df4708a-24bc-501c-88d0-b01a03dd0a3d,Mobile
-Frontend Developer,"I have worked on Frontend developer position at Astound Commerce almost 2 years. My responsibility was: develop new website, implement new feature to website, implement 3rd party integration, code refactoring, code review, task estimation. Collaboration with backend developers, UI/UX designers, PM. I have worked with Scrum and Kanban methodologies.",,,JavaScript,intermediate,2.5,"
-I have worked on Frontend developer position at Astound Commerce almost 2 years. My responsibility was: develop new website, implement new feature to website, implement 3rd party integration, code refactoring, code review, task estimation. Collaboration with backend developers, UI/UX designers, PM. I have worked with Scrum and Kanban methodologies.
-",en,0db65813-50e7-5c3b-9eea-cd1864311f31,Frontend / JavaScript
-Android Developer,"- OOP principles, MVP, design patterns.
-- Java Core, Android SDK
-- OkHttp, Retrofit, RxJava, Dagger2, Glide, GSON.
-- Unit testing: JUnit, Espresso, Mockito.
-- Basic knowledge of C++, Kotlin, SQL, HTML/CSS.
-- Google Services (GCM, Analytics, Maps, In-app billing).
-- GIT.
-- REST: JSON, XML.
-- Material Design Guidelines.
-- Designing for phones/tablets.
-- IDE: Android Studio, IntelliJ IDEA, Visual Studio.",Professional team. Passionate people. Complex tasks.,"https://play.google.com/store/apps/details?id=com.invised.aimp.rc
-https://play.google.com/store/apps/details?id=ua.com.dupontpioneer
-https://play.google.com/store/apps/details?id=ua.com.adama.lab
-https://play.google.com/store/apps/details?id=com.aiia.powerbeep",Android,intermediate,2.0,"https://play.google.com/store/apps/details?id=com.invised.aimp.rc
-https://play.google.com/store/apps/details?id=ua.com.dupontpioneer
-https://play.google.com/store/apps/details?id=ua.com.adama.lab
-https://play.google.com/store/apps/details?id=com.aiia.powerbeep
-- OOP principles, MVP, design patterns.
-- Java Core, Android SDK
-- OkHttp, Retrofit, RxJava, Dagger2, Glide, GSON.
-- Unit testing: JUnit, Espresso, Mockito.
-- Basic knowledge of C++, Kotlin, SQL, HTML/CSS.
-- Google Services (GCM, Analytics, Maps, In-app billing).
-- GIT.
-- REST: JSON, XML.
-- Material Design Guidelines.
-- Designing for phones/tablets.
-- IDE: Android Studio, IntelliJ IDEA, Visual Studio.
-Professional team. Passionate people. Complex tasks.",en,f281f736-215e-55ad-b2f9-4267cc09477a,Mobile
-Front-end Developer,"Junior front-end developer.
-Was working by Scrum, Kanban frameworks.
-Standard junior front-end tasks: like fixing e-comm
-websites, clearing them from CSS/JS artifacts. Creating new
-e-comm websites from scratch.",Will be perfect if with you I could level up and rise my skills in React.js. The main reason am looking for a job is to drive up my skills and become a Senior front-end engineer with you.,"Strong learner and passionate in result achieving.
-If you need a person to educate for a reasonable price - am the right one. Will learn and help in Vue.js.",JavaScript,pre,1.0,"Strong learner and passionate in result achieving.
-If you need a person to educate for a reasonable price - am the right one. Will learn and help in Vue.js.
-Junior front-end developer.
-Was working by Scrum, Kanban frameworks.
-Standard junior front-end tasks: like fixing e-comm
-websites, clearing them from CSS/JS artifacts. Creating new
-e-comm websites from scratch.
-Will be perfect if with you I could level up and rise my skills in React.js. The main reason am looking for a job is to drive up my skills and become a Senior front-end engineer with you.",en,0329a553-2f65-52cc-935d-b41807d3804f,Frontend / JavaScript
-Python Developer,"Company:
-Focus Digital Syndicate: December 2022 - May 2023
-IT startup specializing in product development and outsourcing services.
-
-Tasks:
-Development of back end applications using Python and the Django framework.
-REST API development for a mobile application. Working with PostgeSQL database.
-Telegram bot development for messenger using Aiogram and Openai API.
-Setting up CI/CD pipelines for repositories in GitLab.
-Experience with Celery, Redis and Docker
-
-Experience in freelance projects. Development of API, bots and services for small businesses.",,,Python,intermediate,1.0,"
-Company:
-Focus Digital Syndicate: December 2022 - May 2023
-IT startup specializing in product development and outsourcing services.
-
-Tasks:
-Development of back end applications using Python and the Django framework.
-REST API development for a mobile application. Working with PostgeSQL database.
-Telegram bot development for messenger using Aiogram and Openai API.
-Setting up CI/CD pipelines for repositories in GitLab.
-Experience with Celery, Redis and Docker
-
-Experience in freelance projects. Development of API, bots and services for small businesses.
-",en,29b03e20-7bbd-5e31-81ee-b7ae78c61f69,Backend
-Front End Developer,"Got skills in programming in React.
-Mastered the skills of working with HTML, SCSS, JavaScript, Node.js, Typescript. I like it very much. I am a very communicative, punctual and purposeful person. I like working in a team and solving common problems.",,I finished courses in Front End Development at the SkillUp school,JavaScript,basic,0.0,"I finished courses in Front End Development at the SkillUp school
-Got skills in programming in React.
-Mastered the skills of working with HTML, SCSS, JavaScript, Node.js, Typescript. I like it very much. I am a very communicative, punctual and purposeful person. I like working in a team and solving common problems.
-",en,3a6ae1bc-0b94-506c-b4ab-be6178a8ded2,Frontend / JavaScript
-Frontend Developer (Angular),"3 years of experience in frontend/angular
-4 years of experience in HTML/CSS",,,JavaScript,upper,4.0,"
-3 years of experience in frontend/angular
-4 years of experience in HTML/CSS
-",en,0b78b0a7-1e6e-51c4-8752-2e46dfb4a82a,Frontend / JavaScript
-Java Developer,"- I was working in three of the five biggest IT-companies in Ukraine.
-- Have expertise in e-commerce, banking and medicine domains
-- Have experience in the development of products with both monolith and microservice architecture
-
-Language: English B1+
-
-Stack: Java 8, Spring (IOC, MVC, Data, Boot, Cloud), JPA/Hibernate, MySql, JUnit/Mockito, REST, Tomcat, Maven, Gradle.
-
-Familiar with: Html/CSS, JavaScript, Angular, Linux, AWS.","- only remote (if necessary, meetings with team and business trips)
-- growing project
-- challenging tasks
-- cutting edge technologies",,Java,intermediate,3.0,"
-- I was working in three of the five biggest IT-companies in Ukraine.
-- Have expertise in e-commerce, banking and medicine domains
-- Have experience in the development of products with both monolith and microservice architecture
-
-Language: English B1+
-
-Stack: Java 8, Spring (IOC, MVC, Data, Boot, Cloud), JPA/Hibernate, MySql, JUnit/Mockito, REST, Tomcat, Maven, Gradle.
-
-Familiar with: Html/CSS, JavaScript, Angular, Linux, AWS.
-- only remote (if necessary, meetings with team and business trips)
-- growing project
-- challenging tasks
-- cutting edge technologies",en,2f7203c5-02b3-508f-b4dd-5ec8034e8e6f,Backend
-React Developer,"Dear Hiring Manager,
-
-I am an experienced front-end developer with expertise in React, Tailwind, Node.js, TypeScript,MongoDB, JavaScript, HTML and CSS. I have implemented web applications for various industries, integrating APIs for complex data management. My experience also extends to developing interactive websites using modern technologies like React.js, Tailwind and Node.js.
-
-I have a 3year + experience working professionally with steamledge and during my stay I was the lead front-end developer for a school management software project and I manage a team of 3 front-end developers. I am very conversant with the version control system git, and other product management tool like clickup, jira , Monday.com and I am comfortable working in a team.",,,JavaScript,fluent,3.0,"
-Dear Hiring Manager,
-
-I am an experienced front-end developer with expertise in React, Tailwind, Node.js, TypeScript,MongoDB, JavaScript, HTML and CSS. I have implemented web applications for various industries, integrating APIs for complex data management. My experience also extends to developing interactive websites using modern technologies like React.js, Tailwind and Node.js.
-
-I have a 3year + experience working professionally with steamledge and during my stay I was the lead front-end developer for a school management software project and I manage a team of 3 front-end developers. I am very conversant with the version control system git, and other product management tool like clickup, jira , Monday.com and I am comfortable working in a team.
-",en,674bc8f8-a8ea-5146-86b5-c3160107df09,Frontend / JavaScript
-Backend Developer,"Skilled Full Stack Javascript software engineer with 3+ years of hands-on experience with primary focus in Node.js. 
-
-Participated in design, implementation and maintenance of high-performance and scalable applications.
-Designed, developed, and maintained core services for gifts distribution and real-time notification system.
-Built REST API interface for backend communication with mobile and web applications.
-Refactored existing legacy codebase to improve readability, reusability and maintainability.
-Collaborated closely with other development teams to meet project objectives and timelines.
-Participated in requirements analysis and task coordination.
-Kept project documentation up-to-date by constantly reviewing and adding recent changes.",No legacy,"Created a report system, which is sends regular updates to chat based on system statistics.
-Refactored and optimized statistic gathering system.
-Designed and developed gesture control game system.",Node.js,upper,3.0,"Created a report system, which is sends regular updates to chat based on system statistics.
-Refactored and optimized statistic gathering system.
-Designed and developed gesture control game system.
-Skilled Full Stack Javascript software engineer with 3+ years of hands-on experience with primary focus in Node.js. 
-
-Participated in design, implementation and maintenance of high-performance and scalable applications.
-Designed, developed, and maintained core services for gifts distribution and real-time notification system.
-Built REST API interface for backend communication with mobile and web applications.
-Refactored existing legacy codebase to improve readability, reusability and maintainability.
-Collaborated closely with other development teams to meet project objectives and timelines.
-Participated in requirements analysis and task coordination.
-Kept project documentation up-to-date by constantly reviewing and adding recent changes.
-No legacy",en,148b00db-c854-5289-a8e0-07df4980cb4e,Backend
-Node.js developer,"Experienced Javascript Developer with a demonstrated history of working in the marketing and advertising industry. Skilled in Node.js, Nest.js, Typescript, PostgreSQL, AWS, ElasticSearch, GraphQL...
-Strong engineering professional with a Bachelor's degree focused in Computer - integrated technological processes and products from the National University of Food Technologies.
-From May 2020 work on my own project Digital Office Testing System. 
-I am permanently learning new technologies to improve my skills and become a better developer in this rapidly changing industry.
-
-Work Experience. ( last 3 work ):
-
-Web Software Engineer at Digital Office Testing System. (05.2020 – Present)
-The project is an online platform for staff testing and data analytics for companies.
-Tech stack: frontend - Vue.js, backend - Node.js, PostgreSQL, Redis, and more.
-
-Node.js Developer at LA Developers Inc. (08.2019 – 02.2020)
-Project - Amazon-like platform for legal marijuana in USA state LA.
-Tech stack: Typescript, Node.js, Nest.js, PostgreSQL, Graphql, Sequelize, Angular(v.8).
-
-JavaScript Engineer at Geniusee (09.2018 – 07.2019)
-Project is an online learning and education platform.
-Stack (backend): Node.js, GraphQL, ElasticSearch (search by filters, faceted search),
-AWS: Lambdas, AppSync(graphQL), DynamoDB(nosql database), S3(file storage), Cognito
-User Pool and Federated Identity Pool, IAM(roles, policies, users, and groups),
-CloudWatch(logs), Media Convert(video).","Professional growth in a strong team. I'm not interested in the frontend position - backend only.
-Remote work will be preferred, availability of corporate English courses, less or more flexible working hours.","On the online learning and education platform project, I did the whole backend myself on AWS.
-On the current project (online platform for staff testing and data analytics for companies) I developed the architecture, implemented the backend and for the first time completely the frontend. Currently, I continue to improve and expand the functionality of the platform.",Node.js,pre,6.0,"On the online learning and education platform project, I did the whole backend myself on AWS.
-On the current project (online platform for staff testing and data analytics for companies) I developed the architecture, implemented the backend and for the first time completely the frontend. Currently, I continue to improve and expand the functionality of the platform.
-Experienced Javascript Developer with a demonstrated history of working in the marketing and advertising industry. Skilled in Node.js, Nest.js, Typescript, PostgreSQL, AWS, ElasticSearch, GraphQL...
-Strong engineering professional with a Bachelor's degree focused in Computer - integrated technological processes and products from the National University of Food Technologies.
-From May 2020 work on my own project Digital Office Testing System. 
-I am permanently learning new technologies to improve my skills and become a better developer in this rapidly changing industry.
-
-Work Experience. ( last 3 work ):
-
-Web Software Engineer at Digital Office Testing System. (05.2020 – Present)
-The project is an online platform for staff testing and data analytics for companies.
-Tech stack: frontend - Vue.js, backend - Node.js, PostgreSQL, Redis, and more.
-
-Node.js Developer at LA Developers Inc. (08.2019 – 02.2020)
-Project - Amazon-like platform for legal marijuana in USA state LA.
-Tech stack: Typescript, Node.js, Nest.js, PostgreSQL, Graphql, Sequelize, Angular(v.8).
-
-JavaScript Engineer at Geniusee (09.2018 – 07.2019)
-Project is an online learning and education platform.
-Stack (backend): Node.js, GraphQL, ElasticSearch (search by filters, faceted search),
-AWS: Lambdas, AppSync(graphQL), DynamoDB(nosql database), S3(file storage), Cognito
-User Pool and Federated Identity Pool, IAM(roles, policies, users, and groups),
-CloudWatch(logs), Media Convert(video).
-Professional growth in a strong team. I'm not interested in the frontend position - backend only.
-Remote work will be preferred, availability of corporate English courses, less or more flexible working hours.",en,dbd3ed02-d19b-520a-abf9-66edf56d8b5f,Backend
-Інженер-програміст,"I have a specialized higher education. For the past 3 years, he taught programming at the Zhytomyr Professional Cooperative College of Business and Law. (total work experience as a programmer-engineer 4 years). My duties included:
-• Setting up video cameras, their remote control and settings through the company's website;
-• Creation and further support of the website of the educational institution;
-• Support for server and network equipment based on Windows Server;
-• Teaching disciplines - ""Visual programming tools"" (C#), ""Software design"" (C++) and ""Information technologies"".",,,C++,intermediate,3.0,"
-I have a specialized higher education. For the past 3 years, he taught programming at the Zhytomyr Professional Cooperative College of Business and Law. (total work experience as a programmer-engineer 4 years). My duties included:
-• Setting up video cameras, their remote control and settings through the company's website;
-• Creation and further support of the website of the educational institution;
-• Support for server and network equipment based on Windows Server;
-• Teaching disciplines - ""Visual programming tools"" (C#), ""Software design"" (C++) and ""Information technologies"".
-",en,f5a46964-b101-5f18-8b75-ede3424078ea,Backend
-QA Engineer,"Manual desktop, mobile, web and server-side testing on component interface and system integration levels using black-box and grey-box approaches and the next testing types: smoke, functional, regression and acceptance beta testing under Waterfall methodology; Technical interviewing of candidates, check technical homework, teach new personal, make plane of personal growing; Test Plan and Test Case design, defect tracking, manage project, speak with customers, review documents before developmnet
-Environment: Target process, TestRail, VmWare, mRemoteNG, 
-WinSCP, Evernote, SVN, Teamcity, Create Install Tool, Git, Postman,Freedcamp, Vmware, WinSCP, Visual Studio, Power Shell, Fiddler, NetLimiter, SOAP",,Certification «Java Beginner»,QA,intermediate,5.0,"Certification «Java Beginner»
-Manual desktop, mobile, web and server-side testing on component interface and system integration levels using black-box and grey-box approaches and the next testing types: smoke, functional, regression and acceptance beta testing under Waterfall methodology; Technical interviewing of candidates, check technical homework, teach new personal, make plane of personal growing; Test Plan and Test Case design, defect tracking, manage project, speak with customers, review documents before developmnet
-Environment: Target process, TestRail, VmWare, mRemoteNG, 
-WinSCP, Evernote, SVN, Teamcity, Create Install Tool, Git, Postman,Freedcamp, Vmware, WinSCP, Visual Studio, Power Shell, Fiddler, NetLimiter, SOAP
-",en,193956ad-154a-5a89-b807-1fa7503ed6a8,QA
-Flutter Developer,"5 years in android software development.
-4 years in IoT project, as android developer.
-1 years 7 month in flutter mobile software development.
-
-7 year in Fintech
-5 year in  IoT Startup
-1 year in Social project, news digest app
-2 year in Social project, emergency notification app.
-
-Programming languages:Dart, Java, SQL, Kotlin
-
-Flutter Libraries and technologies: Retrofit, Moor, FlutterIcon, FlutterSvg, Webview, Custom View, UrlLauncher, Logger, SharedPreferences, FilePicker, ShowcaseView, CustomClipper, PinEntryTextField, DotDivider, FlutterFacebookAuth, GoogleSignIn, Rest API, MatLog.
-
-IDE and code editors: Android Studio, MS Visual Studio, NotepadQQ, Postman
-
-Version control systems: Git
-
-Other tools: Charles, MatLog, ApkTools.
-
-OS: Linux, Windows, MacOS
-
-Development methodologies: Scrum, Kanban.
-
-Project management tools: Trello, Jira, Mantis, etc.
-
-Wiki: Confluence.","Looking for interesting project on flutter technology.
-I can start work in your project, after 9 January 2023.","Currently live in Poland, Toruń.",Flutter,intermediate,5.0,"Currently live in Poland, Toruń.
-5 years in android software development.
-4 years in IoT project, as android developer.
-1 years 7 month in flutter mobile software development.
-
-7 year in Fintech
-5 year in  IoT Startup
-1 year in Social project, news digest app
-2 year in Social project, emergency notification app.
-
-Programming languages:Dart, Java, SQL, Kotlin
-
-Flutter Libraries and technologies: Retrofit, Moor, FlutterIcon, FlutterSvg, Webview, Custom View, UrlLauncher, Logger, SharedPreferences, FilePicker, ShowcaseView, CustomClipper, PinEntryTextField, DotDivider, FlutterFacebookAuth, GoogleSignIn, Rest API, MatLog.
-
-IDE and code editors: Android Studio, MS Visual Studio, NotepadQQ, Postman
-
-Version control systems: Git
-
-Other tools: Charles, MatLog, ApkTools.
-
-OS: Linux, Windows, MacOS
-
-Development methodologies: Scrum, Kanban.
-
-Project management tools: Trello, Jira, Mantis, etc.
-
-Wiki: Confluence.
-Looking for interesting project on flutter technology.
-I can start work in your project, after 9 January 2023.",en,5047c8d7-24ba-5714-9991-3024f60c0332,Mobile
-Front-end developer,"Experienced in planning and developing projects in a team. Has a deep understanding of UI/UX with a proven experience in JavaScript development. While working on projects I have gained significant knowledge of the full application lifecycle, Scrum, and workflow from scratch to production.
-
-Responsibilities: 
-Analysis and investigation of methods of resolving business needs
-Creating Client-side modules
-Project architecture design and implementation
-Defining database models and architecture
-Defining of interface's communications between Client and API
-Setup and configure dev or/and prod environments
-Development of Client and API application's structure",,,JavaScript,upper,1.5,"
-Experienced in planning and developing projects in a team. Has a deep understanding of UI/UX with a proven experience in JavaScript development. While working on projects I have gained significant knowledge of the full application lifecycle, Scrum, and workflow from scratch to production.
-
-Responsibilities: 
-Analysis and investigation of methods of resolving business needs
-Creating Client-side modules
-Project architecture design and implementation
-Defining database models and architecture
-Defining of interface's communications between Client and API
-Setup and configure dev or/and prod environments
-Development of Client and API application's structure
-",en,021a28b8-a43d-5d55-8822-d914e216ee0c,Frontend / JavaScript
-"Technical Artist, 3D Artist","I'm a technical artist (originally from Lviv, Ukraine ) currently working with 2D/3D assets & animations (preparation and integration of graphics, visual layouts tuning, resources optimization). As a member of the dev team, I am responsible for development from start to end and successful shipment of more than 5 mini-games. I love to participate in hackathons and create game prototypes, which are later presented to the client's team. Please be sure to request my portfolio link!","I am looking for projects:
-• Tech Art (art & animations, game assets integration, optimisation), both casual and AAA
-• 3D modelling and animation","• Successful releases of several slot games as a Tech Artist team member
-• Close communication with client regarding art assets & animations
-• Strong Time Management & Deadline Meeting, High Quality Solutions Striving
-• Jeppesen (a Boeing Company) Internship in Gdansk, Poland",Unity,upper,2.0,"• Successful releases of several slot games as a Tech Artist team member
-• Close communication with client regarding art assets & animations
-• Strong Time Management & Deadline Meeting, High Quality Solutions Striving
-• Jeppesen (a Boeing Company) Internship in Gdansk, Poland
-I'm a technical artist (originally from Lviv, Ukraine ) currently working with 2D/3D assets & animations (preparation and integration of graphics, visual layouts tuning, resources optimization). As a member of the dev team, I am responsible for development from start to end and successful shipment of more than 5 mini-games. I love to participate in hackathons and create game prototypes, which are later presented to the client's team. Please be sure to request my portfolio link!
-I am looking for projects:
-• Tech Art (art & animations, game assets integration, optimisation), both casual and AAA
-• 3D modelling and animation",en,3aa42af3-93c3-54af-be6a-ac3724cb4304,GameDev
-Junior Full Stack Web Developer,"I am a Software Engineer with 1 year of professional experience in software development. I worked with WEB applications which were created by React/Node.js technologies. Also, I have good knowledge and working experience in Agile Scrum methodology. I quickly learn new frameworks and technologies. I'm friendly, cheerful and hardworking person, also, I enjoy working on team.
-My main tasks were: 
-Estimation of tasks
-Code development and bug fixing
-Unit testing
-Development build and deployment scripts",,,JavaScript,intermediate,1.0,"
-I am a Software Engineer with 1 year of professional experience in software development. I worked with WEB applications which were created by React/Node.js technologies. Also, I have good knowledge and working experience in Agile Scrum methodology. I quickly learn new frameworks and technologies. I'm friendly, cheerful and hardworking person, also, I enjoy working on team.
-My main tasks were: 
-Estimation of tasks
-Code development and bug fixing
-Unit testing
-Development build and deployment scripts
-",en,e9f96f52-92d5-57a1-9e8d-596f6212a31a,Frontend / JavaScript
-Junior Python Developer,"More than 10 years of experience in an electrical product company in positions:
-electrical engineer ~ 3 years
-lead project engineer ~ 2 years
-project manager ~ 5 years
-product manager ~ 1 years
-I worked with Waterfall and Agile methodologies, with Scrum.
-I was a scrum master for more than a year before I was raised to project manager.
-Basic knowledge of Jira.
-
-I've finished courses in Python from Hillel IT school.
-Self-studied Django and Flask frameworks.",,,Python,upper,0.0,"
-More than 10 years of experience in an electrical product company in positions:
-electrical engineer ~ 3 years
-lead project engineer ~ 2 years
-project manager ~ 5 years
-product manager ~ 1 years
-I worked with Waterfall and Agile methodologies, with Scrum.
-I was a scrum master for more than a year before I was raised to project manager.
-Basic knowledge of Jira.
-
-I've finished courses in Python from Hillel IT school.
-Self-studied Django and Flask frameworks.
-",en,bce346e8-f876-5024-830b-03a6392a5ea2,Backend
-Middle JS developer,"3 years experience development in JS (React, Sass, MobX, Redux (saga), MUI, .ect ) at different kind of project (booking, vine investing platform, social networks, media storages ). 
-Git, Jira, Figma",,,JavaScript,intermediate,3.0,"
-3 years experience development in JS (React, Sass, MobX, Redux (saga), MUI, .ect ) at different kind of project (booking, vine investing platform, social networks, media storages ). 
-Git, Jira, Figma
-",en,15f79ba2-3fb6-5493-84cf-8f8058e4b076,Frontend / JavaScript
-Manual QA Engineer,"- 3,5 years of QA experiense
-- Dev background (1 year)
-- Deep understanding of testing methodologies 
-- Experience in creating and maintaining test documentation (test cases, user guides, checklists, bug reports)
-- Web, Mobile, API testing
-- Good knowledge of SQL
-- HTML/CSS, confident Chrome DevTools user
-- Agile
-- Understaning of programming languages(PHP, Java, JavaScript)
-
-Working experiense:
-
-Middle QA Engineer
-TechMagic (09.2019 — 03.2023)
-Responsibilities:
-
-1. Manual testing of custom Salesforce solutions
-2. Test documentation - test cases, test plans, checklists
-3. User documentation, User Guides
-More info:
-
-I was working on several projects of different types - an E-commerce project that needed API testing with Postman, and a Healthcare Web project with a lot of modules integrated into it, including Mobile Application.  
-In that position I was performing different types of testing - Functional testing, UI/UX testing, Regression testing, Smoke-testing, Integration testing, Stress testing, working with requirements and project documentation, as well as creating and maintaining project test documentation.
-I have been working in a big international team, collaborating with specialists from the USA, Ukraine and India, so I'm a good team player. As the main QA specialist on the project part of my responsibilities were experience exchange to the newcomers as well as organizing the QA team to deliver the best result. 
-
-Junior PHP Developer
-Grodas (10.2016 — 10.2017)
-Responsibilities:
-
-1. Coding the back-end logic for E-Stores and a local news website, mainly using SalesCart CRM 
-2. Managing MySQL databases of the projects that are described above",,,QA,upper,3.0,"
-- 3,5 years of QA experiense
-- Dev background (1 year)
-- Deep understanding of testing methodologies 
-- Experience in creating and maintaining test documentation (test cases, user guides, checklists, bug reports)
-- Web, Mobile, API testing
-- Good knowledge of SQL
-- HTML/CSS, confident Chrome DevTools user
-- Agile
-- Understaning of programming languages(PHP, Java, JavaScript)
-
-Working experiense:
-
-Middle QA Engineer
-TechMagic (09.2019 — 03.2023)
-Responsibilities:
-
-1. Manual testing of custom Salesforce solutions
-2. Test documentation - test cases, test plans, checklists
-3. User documentation, User Guides
-More info:
-
-I was working on several projects of different types - an E-commerce project that needed API testing with Postman, and a Healthcare Web project with a lot of modules integrated into it, including Mobile Application.  
-In that position I was performing different types of testing - Functional testing, UI/UX testing, Regression testing, Smoke-testing, Integration testing, Stress testing, working with requirements and project documentation, as well as creating and maintaining project test documentation.
-I have been working in a big international team, collaborating with specialists from the USA, Ukraine and India, so I'm a good team player. As the main QA specialist on the project part of my responsibilities were experience exchange to the newcomers as well as organizing the QA team to deliver the best result. 
-
-Junior PHP Developer
-Grodas (10.2016 — 10.2017)
-Responsibilities:
-
-1. Coding the back-end logic for E-Stores and a local news website, mainly using SalesCart CRM 
-2. Managing MySQL databases of the projects that are described above
-",en,f319f4bc-6fe8-5b81-aa73-c4ac33086e26,QA
-Full Stack Web Developer,"Now I hold the position of a Fullstack developer, but unfortunately I am the only engineer in the current company, I plan to develop and bring to the market a competitive product, and support it, and for this I study marketing, project management paradigms, monitor the product market.","Immerse yourself in the process of creating a commercial product in practice, see all the stages and processes from the beginning to the deployment, maybe it will change my development plan for now.","Developed a system for inventory and accounting of office equipment for ""Transstone"" company.
-
-I participate in the development of software for automating the administration of servers based on Windows Server 2019.
-
-I participate in a startup to create a mobile battle royale.",Node.js,pre,1.0,"Developed a system for inventory and accounting of office equipment for ""Transstone"" company.
-
-I participate in the development of software for automating the administration of servers based on Windows Server 2019.
-
-I participate in a startup to create a mobile battle royale.
-Now I hold the position of a Fullstack developer, but unfortunately I am the only engineer in the current company, I plan to develop and bring to the market a competitive product, and support it, and for this I study marketing, project management paradigms, monitor the product market.
-Immerse yourself in the process of creating a commercial product in practice, see all the stages and processes from the beginning to the deployment, maybe it will change my development plan for now.",en,03a37001-3e65-540f-aa50-cc0890ef7378,Backend
-Java Developer,"Well motivated result-oriented web developer with 6+ months of practice, good in finding problem cause, diagnosing non-obvious problems and finding out-of-the-box solutions. 
-Stack: Java Core, OOP, MySQL, JDBC, Javax Servlet API, Hibernate, Spring Core/MVC/Security, JUnit, Mockito. I keep learning new web development tools and improving my knowledge.
-Looking for opportunities for professional growth and gaining new skills.","Friendly team, interesting project, modern technologies.","World Robotics Olympiad 2017 Regular Elementary category:
-2nd place in national competition (Ukraine),
-27th place in global competition (Costa Rica).
-
-50+ solved katas on codewars",Java,upper,1.0,"World Robotics Olympiad 2017 Regular Elementary category:
-2nd place in national competition (Ukraine),
-27th place in global competition (Costa Rica).
-
-50+ solved katas on codewars
-Well motivated result-oriented web developer with 6+ months of practice, good in finding problem cause, diagnosing non-obvious problems and finding out-of-the-box solutions. 
-Stack: Java Core, OOP, MySQL, JDBC, Javax Servlet API, Hibernate, Spring Core/MVC/Security, JUnit, Mockito. I keep learning new web development tools and improving my knowledge.
-Looking for opportunities for professional growth and gaining new skills.
-Friendly team, interesting project, modern technologies.",en,0f2b3c9e-4486-53e0-b3bc-8c1829a324c0,Backend
-Full Stack Web Developer,"I got internship in the Kibera Technology and then I did some Test Projects like movie and study, then I worked real projects like, Dispetcher's company and now I'm working on project for control employees.I worked in the Python Django , Restapi and Postgrees .
-I want to work remotely because with this I can improve my skills and making new friends.","With a little  experience but with the huge desire to learn. 
-I want to develop myself in the sphere of developed programmers with the ability to become a senior developer in the nearest future.",,Python,upper,1.0,"
-I got internship in the Kibera Technology and then I did some Test Projects like movie and study, then I worked real projects like, Dispetcher's company and now I'm working on project for control employees.I worked in the Python Django , Restapi and Postgrees .
-I want to work remotely because with this I can improve my skills and making new friends.
-With a little  experience but with the huge desire to learn. 
-I want to develop myself in the sphere of developed programmers with the ability to become a senior developer in the nearest future.",en,e34b920a-dd70-5930-9a02-9f4d85c41562,Backend
-Lead DBA/DB Dev,"Over 20 years of extensive experience in RDBMS area (PostgreSQL and Oracle).
-Experience with AWS Data Services (RDS PostgreSQL, Aurora PostgreSQL, Oracle, DMS).
-Experience with different kinds of Data Migrations.
-Experience in NoSQL databases (MongoDB, Cassandra).",,,SQL,upper,11.0,"
-Over 20 years of extensive experience in RDBMS area (PostgreSQL and Oracle).
-Experience with AWS Data Services (RDS PostgreSQL, Aurora PostgreSQL, Oracle, DMS).
-Experience with different kinds of Data Migrations.
-Experience in NoSQL databases (MongoDB, Cassandra).
-",en,f83c7a59-0773-5b7d-9e32-37064176700a,Data / ML
-Junior+/ Middle QA Engineer,"I am QA Engineer (manual) with a solid technical background and strong attention to details. 
-I do like new challenges and tasks that motivate me to learn more and more and improve my skills every day.  
-My English level is Advanced and I use it in my daily work. 
-My goal is to excel in a challenging, innovative QA work environment and strive to reach my full potential.
-I am ready to develop and improve my technical skills, constantly learning something new.
-Technical skills:
-	Strong knowledge of the testing theory, SDLC and core development principles
-	Strong knowledge and daily practice in applying the test design techniques 
-	Creating and executing of the test documentation (test cases, checklists, bug reports in Jira/Zephyr)
-	Strong knowledge of Client- Server Architecture and API
-	Knowledge of SQL (MySQL), GitHub, HTML, Chrome DevTools
-	Knowledge and some experience with Postman",,,QA,fluent,1.5,"
-I am QA Engineer (manual) with a solid technical background and strong attention to details. 
-I do like new challenges and tasks that motivate me to learn more and more and improve my skills every day.  
-My English level is Advanced and I use it in my daily work. 
-My goal is to excel in a challenging, innovative QA work environment and strive to reach my full potential.
-I am ready to develop and improve my technical skills, constantly learning something new.
-Technical skills:
-	Strong knowledge of the testing theory, SDLC and core development principles
-	Strong knowledge and daily practice in applying the test design techniques 
-	Creating and executing of the test documentation (test cases, checklists, bug reports in Jira/Zephyr)
-	Strong knowledge of Client- Server Architecture and API
-	Knowledge of SQL (MySQL), GitHub, HTML, Chrome DevTools
-	Knowledge and some experience with Postman
-",en,0449cd07-d2c5-5eda-a782-0f1d04e32a03,QA
-Junior Front-end developer,"Accumulated 3 years of experience as a frontend developer in the dating industry, with a focus on:
-    - Mobile-first approach;
-    - Implementing responsive layouts;
-    - Using HTML5/CSS3, JS, Bootstrap;
-    - Layout of e-mail letters;
-    - Ability to read others' code. Code correction and maintenance.
- Over 5 years of experience in graphic design, including prepress preparation of materials, web design (landing pages, logos, icons, emails, gif animations), branding and rebranding, illustration of books and layout, as well as creating characters and environments for games.
- Actively participated in the process of defining design requirements and demonstrated the ability to manage multiple projects simultaneously. Possess a strong sense of composition and a keen eye for design aesthetics.",don't want to work with WordPress and Tilda,"- My illustrations are posted in the graphics tutorials. And posters win prizes at International and Ukrainian exhibitions.
-- Independent study of HTML, CSS, JS",JavaScript,pre,3.0,"- My illustrations are posted in the graphics tutorials. And posters win prizes at International and Ukrainian exhibitions.
-- Independent study of HTML, CSS, JS
-Accumulated 3 years of experience as a frontend developer in the dating industry, with a focus on:
-    - Mobile-first approach;
-    - Implementing responsive layouts;
-    - Using HTML5/CSS3, JS, Bootstrap;
-    - Layout of e-mail letters;
-    - Ability to read others' code. Code correction and maintenance.
- Over 5 years of experience in graphic design, including prepress preparation of materials, web design (landing pages, logos, icons, emails, gif animations), branding and rebranding, illustration of books and layout, as well as creating characters and environments for games.
- Actively participated in the process of defining design requirements and demonstrated the ability to manage multiple projects simultaneously. Possess a strong sense of composition and a keen eye for design aesthetics.
-don't want to work with WordPress and Tilda",en,bff686d0-fd92-5f37-9a84-f0dcf0753ec8,Frontend / JavaScript
-Python Developer,"Good afternoon!
-I am an active and purposeful Python Developer with one and half years of practical experience. I am well familiar with Python Core as well as the most popular frameworks (Django, Flask, Django REST Framework). 
-Worked with relational databases such as PostgreSQL, SQLite and MySQL and have an experience with non-relational databases (Redis, MongoDB) using Docker.
-I also used Django REST Framework to create REST API applications, Celery and Django Q - for distributed task queues.
-I created my own projects, which I deployed on heroku.com and render.com
-Also I was a Team Lead in a project.
-I graduated a Chernihiv State Technological University, I have masters degree in computer systems and networks.
-Currently, I am looking for new opportunities in Python Software Engineering.",I am motivated by complex tasks that require teamwork and non-trivial solutions.,,Python,upper,1.5,"
-Good afternoon!
-I am an active and purposeful Python Developer with one and half years of practical experience. I am well familiar with Python Core as well as the most popular frameworks (Django, Flask, Django REST Framework). 
-Worked with relational databases such as PostgreSQL, SQLite and MySQL and have an experience with non-relational databases (Redis, MongoDB) using Docker.
-I also used Django REST Framework to create REST API applications, Celery and Django Q - for distributed task queues.
-I created my own projects, which I deployed on heroku.com and render.com
-Also I was a Team Lead in a project.
-I graduated a Chernihiv State Technological University, I have masters degree in computer systems and networks.
-Currently, I am looking for new opportunities in Python Software Engineering.
-I am motivated by complex tasks that require teamwork and non-trivial solutions.",en,e26ee3f2-ce07-5b6c-ac9d-0c6a56de518e,Backend
-Team Lead,"I've worked on different types of client-server applications such as SPA with REST API, SPA with WebSockets, RoR MPA. Clients were built using different technologies such as Unity3D, React, CreateJS, PixiJS. I was involved as a fullstack-developer in all the projects I had, so I'm well versed in C# and JavaScript as well. 
-Also I've worked with payments, mostly blockchain-payments, so I have basic knowledge about blockchain system and experience of creating independent payment infrastructure with multiple services and secure connection.
-In addition I have experience of setting up Travis CI, GitLab CI, and working with Jenkins.",Opportunities of further self-growth and self-development,"Our team has developed a solution for local trivia gameroom, which includes:
-- resource manager and server on RoR
-- client on Unity3D for multiple TVs to display trivia interactions
-- client on Unity3D which controls the flow of the game
-- lightning controller on Arduino which changes intensity and color of light depends on game interactions",Ruby,upper,4.0,"Our team has developed a solution for local trivia gameroom, which includes:
-- resource manager and server on RoR
-- client on Unity3D for multiple TVs to display trivia interactions
-- client on Unity3D which controls the flow of the game
-- lightning controller on Arduino which changes intensity and color of light depends on game interactions
-I've worked on different types of client-server applications such as SPA with REST API, SPA with WebSockets, RoR MPA. Clients were built using different technologies such as Unity3D, React, CreateJS, PixiJS. I was involved as a fullstack-developer in all the projects I had, so I'm well versed in C# and JavaScript as well. 
-Also I've worked with payments, mostly blockchain-payments, so I have basic knowledge about blockchain system and experience of creating independent payment infrastructure with multiple services and secure connection.
-In addition I have experience of setting up Travis CI, GitLab CI, and working with Jenkins.
-Opportunities of further self-growth and self-development",en,e634de32-8b82-57fc-b766-d1f51ada6081,Backend
-Android developer,"Hello everybody. 
-
-JUNGLE
-Android developer
-
-supporting and developing an existing applications(Taxi driver app and Taxi passenger app)GOGO taxi/XCAR taxi
-creating new application SandBox(App for sale agents)
-creating new application Svype (Messenger)
-
-FIVE
-Android developer
-• Work on a project Betips (project was done with a positive recommendation)
-
-Samsung IT School
-Android Teacher",I want to join the team of professionals.,"Developments in Android Studio;
- knowledge of OOP, SOLID principles;
- knowledge of Architectural Patterns MVC, MVP, MVVM+states;
- strong knowledge of Java/Kotlin and Android SDK, Android
-lifecycle components;
- experience with uses some features of Android Jetpack Components,
-Android Kotlin Coroutines, RxJava;
- experience with uses some features of SQLite, Realm DB;
- experience with uses some features of Google Play Services (Maps
-API, Places API);
- experience with uses some features of Firebase (Firebase
-Authentication, Cloud Image Labeling, Crashlytics, database);
- little experience with uses some features of Facebook SDK;
- experience with uses some features of libraries provide DI like as
-Hilt or Koin
- experience with uses third-party libraries;
- understanding the concept REST full web services;
- understanding of mobile UI/UX concepts
- development using Material Design guidelines;
- experience at work with source control system Git;
- experience at work with Google Play Console;
- extensive experience working with people;
- people learning experience;
- studying new technologies with interest;",Android,intermediate,3.0,"Developments in Android Studio;
- knowledge of OOP, SOLID principles;
- knowledge of Architectural Patterns MVC, MVP, MVVM+states;
- strong knowledge of Java/Kotlin and Android SDK, Android
-lifecycle components;
- experience with uses some features of Android Jetpack Components,
-Android Kotlin Coroutines, RxJava;
- experience with uses some features of SQLite, Realm DB;
- experience with uses some features of Google Play Services (Maps
-API, Places API);
- experience with uses some features of Firebase (Firebase
-Authentication, Cloud Image Labeling, Crashlytics, database);
- little experience with uses some features of Facebook SDK;
- experience with uses some features of libraries provide DI like as
-Hilt or Koin
- experience with uses third-party libraries;
- understanding the concept REST full web services;
- understanding of mobile UI/UX concepts
- development using Material Design guidelines;
- experience at work with source control system Git;
- experience at work with Google Play Console;
- extensive experience working with people;
- people learning experience;
- studying new technologies with interest;
-Hello everybody. 
-
-JUNGLE
-Android developer
-
-supporting and developing an existing applications(Taxi driver app and Taxi passenger app)GOGO taxi/XCAR taxi
-creating new application SandBox(App for sale agents)
-creating new application Svype (Messenger)
-
-FIVE
-Android developer
-• Work on a project Betips (project was done with a positive recommendation)
-
-Samsung IT School
-Android Teacher
-I want to join the team of professionals.",en,802ff1d8-18c4-5f83-a44e-42ec5c1fa781,Mobile
-.NET Developer,"I passed some courses about .NET development. They includes C#, ASP.NET, EntityFramework and Razor Pages. Also, I have few pet projects. In addition, I am studying at university and have some IT project there. Also I have study robotechnics at high shool",,,.NET,upper,0.0,"
-I passed some courses about .NET development. They includes C#, ASP.NET, EntityFramework and Razor Pages. Also, I have few pet projects. In addition, I am studying at university and have some IT project there. Also I have study robotechnics at high shool
-",en,f0f0de5e-bd3f-5ef7-8c30-e71277b391ef,Backend
-QA Engineer,"Job experience: June 2016 y. – September 2018 y. Aldec-KTC
-Activity field: development of the ALINT-PRO software, aimed at testing and verification of HDL designs.
-
-Post: QA.
-Functional responsibilities:
-• Formation of specifications for future verification rules;
-• Writing test-cases for further development of rules and other functions using the TDD method;
-• Regression testing of the product;
-• Manual and automatic verification of whole product;
-• Filling the base of test-cases for the regression system;
-• Describing of vendor component libraries;
-• Developer consultation on the features of HDL languages and circuit design.",,,QA,intermediate,2.5,"
-Job experience: June 2016 y. – September 2018 y. Aldec-KTC
-Activity field: development of the ALINT-PRO software, aimed at testing and verification of HDL designs.
-
-Post: QA.
-Functional responsibilities:
-• Formation of specifications for future verification rules;
-• Writing test-cases for further development of rules and other functions using the TDD method;
-• Regression testing of the product;
-• Manual and automatic verification of whole product;
-• Filling the base of test-cases for the regression system;
-• Describing of vendor component libraries;
-• Developer consultation on the features of HDL languages and circuit design.
-",en,988ef7a4-a250-5a43-be5c-07ba20c4ca19,QA
-QA Engineer,"I have 6.5 years of experience in IT. I manually tested the front-end/back-end sides of complex web-based projects using Agile methodology. Projects were related to the food industry, marketplace, and CRM system.",,,QA,upper,6.0,"
-I have 6.5 years of experience in IT. I manually tested the front-end/back-end sides of complex web-based projects using Agile methodology. Projects were related to the food industry, marketplace, and CRM system.
-",en,9b5ef155-fb81-520c-9315-71d7edbae525,QA
-Data Scientist,"At my current job I handle supervised and unsupervised machine learning models for telecommunication and banking. For most projects I am responsible for the whole ML pipeline: data collection, cleaning, preprocessing, feature engineering&selection, modelling, validation. I also take part in deploying models to production.
-Now I'm willing to move forward to more sophisticated tasks such as Deep Learning, NLP or Computer vision problems (which so far are just a hobby for me) as well as to create and/or maintain a solid end-to-end ML production systems.",,,Data Science,fluent,2.0,"
-At my current job I handle supervised and unsupervised machine learning models for telecommunication and banking. For most projects I am responsible for the whole ML pipeline: data collection, cleaning, preprocessing, feature engineering&selection, modelling, validation. I also take part in deploying models to production.
-Now I'm willing to move forward to more sophisticated tasks such as Deep Learning, NLP or Computer vision problems (which so far are just a hobby for me) as well as to create and/or maintain a solid end-to-end ML production systems.
-",en,c43437b5-9776-5e17-849c-6ace65894aaf,Data / ML
-SRE,"08/2021 - present - SRE Engineer (TEAM International) - Maintenance of Windows and Linux servers, fixing errors in code/config files, working with monitoring systems (Dynatrace, Splunk),creating PowerShell and Bash scripts for monitoring/alerting/changing settings and configuration of Servers. 
-
-08/2019 - 08/2021 - IT Teacher in Private School",,MTA: Windows Server Administration Fundamentals - Certified 2021 (Microsoft 98-365 Exam),DevOps,upper,1.0,"MTA: Windows Server Administration Fundamentals - Certified 2021 (Microsoft 98-365 Exam)
-08/2021 - present - SRE Engineer (TEAM International) - Maintenance of Windows and Linux servers, fixing errors in code/config files, working with monitoring systems (Dynatrace, Splunk),creating PowerShell and Bash scripts for monitoring/alerting/changing settings and configuration of Servers. 
-
-08/2019 - 08/2021 - IT Teacher in Private School
-",en,e909d0ec-6405-5d23-a075-f0d5b551edc3,DevOps
-Middle DevOps Engineer,"- Hands-on Linux administration skills (Ubuntu, CentOS);
-- AWS: VPC, EC2, S3, Lambda, RDS, Aurora, SNS/SQS, CloudWatch, ECS, EKS, Codebuild;
-- Ansible, Terraform, Atlantis;
-- Zabbix, Grafana, ELK/Opendistro;
-- Python (scripting and automation): boto3, pandas, requests, selenium, bs4;
-- Docker, Kubernetes;
-- Basic experience with Nginx, Haproxy, fail2ban;
-- Gitlab CI, Github Actions, ArgoCD;
-- Airflow, Argo Workflows;
-- MongoDB, MySQL (Aurora), Postgres;
-- JIRA, Confluence;
-- Deep analytics and troubleshooting skills.","Interested in AWS, on-premise to AWS migration, serverless approach, any kind of automation. Not interested in office system administrator duties, tech support etc. I expect remote work without night shifts and !very important! I am looking for a job only as a part of DevOps team, where colleagues can handle any of my open tasks on my vacation or sick leave.","- Deployed the stock market analysis system with 50+ Lambdas, EC2 application servers (Windows, Linux), DB cluster, monitoring system (Zabbix), version control and simple CI/CD written in Python. This near-realtime system allows my client to forecast earnings dates and stock prices.
-- Was a part of  ""Prozorro.sale"" infrastructure team including planning of new infrastructure solutions
-- Created an underlying infrastructure in ECS and then Kubernetes for ML project related to cryptocurrency price prediction and trading",DevOps,intermediate,2.5,"- Deployed the stock market analysis system with 50+ Lambdas, EC2 application servers (Windows, Linux), DB cluster, monitoring system (Zabbix), version control and simple CI/CD written in Python. This near-realtime system allows my client to forecast earnings dates and stock prices.
-- Was a part of  ""Prozorro.sale"" infrastructure team including planning of new infrastructure solutions
-- Created an underlying infrastructure in ECS and then Kubernetes for ML project related to cryptocurrency price prediction and trading
-- Hands-on Linux administration skills (Ubuntu, CentOS);
-- AWS: VPC, EC2, S3, Lambda, RDS, Aurora, SNS/SQS, CloudWatch, ECS, EKS, Codebuild;
-- Ansible, Terraform, Atlantis;
-- Zabbix, Grafana, ELK/Opendistro;
-- Python (scripting and automation): boto3, pandas, requests, selenium, bs4;
-- Docker, Kubernetes;
-- Basic experience with Nginx, Haproxy, fail2ban;
-- Gitlab CI, Github Actions, ArgoCD;
-- Airflow, Argo Workflows;
-- MongoDB, MySQL (Aurora), Postgres;
-- JIRA, Confluence;
-- Deep analytics and troubleshooting skills.
-Interested in AWS, on-premise to AWS migration, serverless approach, any kind of automation. Not interested in office system administrator duties, tech support etc. I expect remote work without night shifts and !very important! I am looking for a job only as a part of DevOps team, where colleagues can handle any of my open tasks on my vacation or sick leave.",en,3603392b-5b64-5041-b65a-3c630c5c60ca,DevOps
-Junior C++ Developer,"AMC Bridge 01/2022 - now (1.7 years)
-Work with CAD/CAM systems and additional applications to them. I also have experience with Wix Builder Constractor, azure devops and other git systems. Have experience with various CAD frameworks and COM objects. I also have experience in code refactoring and optimization.","Development, using the language of object-oriented programs, interesting projects in a team, where everyone has their own very specific responsibilities. Work on interesting and cutting-edge technologies that can impact the world. Can work with Linux but I need time to get with it.","I have multitask skill and hight analytic abilities that allow me to work effectively with greate volumes of the information, quickly find qualitative solutions to complex problems, also study necessary skills in the shortest possible time. High adaptive allow me to integrate into the team and work process of the team, also allow to approach almost anyone.",C++,intermediate,1.5,"I have multitask skill and hight analytic abilities that allow me to work effectively with greate volumes of the information, quickly find qualitative solutions to complex problems, also study necessary skills in the shortest possible time. High adaptive allow me to integrate into the team and work process of the team, also allow to approach almost anyone.
-AMC Bridge 01/2022 - now (1.7 years)
-Work with CAD/CAM systems and additional applications to them. I also have experience with Wix Builder Constractor, azure devops and other git systems. Have experience with various CAD frameworks and COM objects. I also have experience in code refactoring and optimization.
-Development, using the language of object-oriented programs, interesting projects in a team, where everyone has their own very specific responsibilities. Work on interesting and cutting-edge technologies that can impact the world. Can work with Linux but I need time to get with it.",en,9c3184f0-6867-58e7-8e7f-dbe84d960f9c,Backend
-Manual QA Engineer,"Duration:	Apr 2022 - Dec 2022 (9 months)
-Role:	QA
-Project Description:	The customer is a video streaming service. This is an internet television and video-on-demand platform.
-Responsibilities:	
-- Manual testing of media application on Apple TV and Roku TV 
-- Creating and updating test cases and checklists. 
-- Identifying, recording, documenting thoroughly and tracking bugs according to Bug Lifecycle.
- - Performing Smoke, Sanity, Regression testing. 
-- Communication with internal teams to identify requirements.
-Technologies:	Apple TV, Roku TV
-
-
-Duration:	Aug 2021 - Dec 2022 (over 1 year)
-Role:	QA
-Project Description:	The customer is a new premium streaming bundle that includes the best of Films, Series, Shows and Live TV. Thousands of hours of incredible content, on demand, all in one place, with new shows and movies added every week.
-Responsibilities:	
-- Manual testing of media application on iOS, Apple TV, iPad, Fire TV, Android Mobile, Roku, Samsung TV (Tizen). 
-- Creating and updating test cases and checklists. 
-- Identifying, recording, documenting thoroughly and tracking bugs according to Bug Lifecycle. 
-- Performing Smoke, Sanity, Regression testing. 
-- Communication with internal teams to identify requirements.
-Technologies:	iOS, Apple TV, iPad, Fire TV, Android Mobile, Roku, Samsung TV, Tizen, Comcast X1
-
-
-Duration:	Mar 2021 - Mar 2022 (about 1 year)
-Role:	QA
-Project Description:	This project is the music platform with live radio, artist radio and podcast. The product is for users by providing interaction on Alexa-enabled smart speakers, Chromecast devices and  Google Home Mini.
-Responsibilities:	
-- Requirements analysis
- - Сreating test cases and bug report - Quality assurance and quality control
- - Testing types (UI, Localization, Regression, Integration), testing techniques (Boundary value analysis and Equivalence partitioning, Error Guessing) 
-Technologies:	Alexa device, Chromecast device, Google Home Mini, Android mobile OS, iOS",,,QA,upper,2.0,"
-Duration:	Apr 2022 - Dec 2022 (9 months)
-Role:	QA
-Project Description:	The customer is a video streaming service. This is an internet television and video-on-demand platform.
-Responsibilities:	
-- Manual testing of media application on Apple TV and Roku TV 
-- Creating and updating test cases and checklists. 
-- Identifying, recording, documenting thoroughly and tracking bugs according to Bug Lifecycle.
- - Performing Smoke, Sanity, Regression testing. 
-- Communication with internal teams to identify requirements.
-Technologies:	Apple TV, Roku TV
-
-
-Duration:	Aug 2021 - Dec 2022 (over 1 year)
-Role:	QA
-Project Description:	The customer is a new premium streaming bundle that includes the best of Films, Series, Shows and Live TV. Thousands of hours of incredible content, on demand, all in one place, with new shows and movies added every week.
-Responsibilities:	
-- Manual testing of media application on iOS, Apple TV, iPad, Fire TV, Android Mobile, Roku, Samsung TV (Tizen). 
-- Creating and updating test cases and checklists. 
-- Identifying, recording, documenting thoroughly and tracking bugs according to Bug Lifecycle. 
-- Performing Smoke, Sanity, Regression testing. 
-- Communication with internal teams to identify requirements.
-Technologies:	iOS, Apple TV, iPad, Fire TV, Android Mobile, Roku, Samsung TV, Tizen, Comcast X1
-
-
-Duration:	Mar 2021 - Mar 2022 (about 1 year)
-Role:	QA
-Project Description:	This project is the music platform with live radio, artist radio and podcast. The product is for users by providing interaction on Alexa-enabled smart speakers, Chromecast devices and  Google Home Mini.
-Responsibilities:	
-- Requirements analysis
- - Сreating test cases and bug report - Quality assurance and quality control
- - Testing types (UI, Localization, Regression, Integration), testing techniques (Boundary value analysis and Equivalence partitioning, Error Guessing) 
-Technologies:	Alexa device, Chromecast device, Google Home Mini, Android mobile OS, iOS
-",en,ba169e94-58d2-50c2-bef6-eff2c2c34e7e,QA
-Node.js developer,"I worked in Qumular for 6 month, got some experience with Docker, AWS. Also improved my skills with Git, REST API, TypeScript, MongoDB, Linux, Node.JS by itself and learned authentification through Google.",,"Right now I don't really have significant achievements but I  ended up programming courses ""JavaScript Complex"" in popular Lviv's IT school Okten",Node.js,upper,0.5,"Right now I don't really have significant achievements but I  ended up programming courses ""JavaScript Complex"" in popular Lviv's IT school Okten
-I worked in Qumular for 6 month, got some experience with Docker, AWS. Also improved my skills with Git, REST API, TypeScript, MongoDB, Linux, Node.JS by itself and learned authentification through Google.
-",en,753481a1-65fe-57c0-ac34-f5d2158b2fba,Backend
+• calculating different types of custom ranges;
+• studying of the psychology of players behavior;
+• calculating optimal bet lines, depending on probability theory and combinatorics;
+• using software to process hand history databases.
+I have a strong desire to learn QA technologies, but unfortunately have no expierence. Also very interested in Java and PHP languages.",en,c7a849cd-7880-5803-9c07-0d52d5657ef1,Backend,pro poker player oct 2009 present time 7 years 6 months responsibilities calculating different types custom ranges studying psychology players behavior calculating optimal bet lines depending probability theory combinatorics using software process hand history databases strong desire learn qa technologies unfortunately expierence interested java php languages
+iOS Developer,"I have been working one year on project for booking workplaces and meeting rooms by employees of a company, also people can explore detailed information about their activities in a company and they see a map of office of their location.
+
+My responsibilities were:
+• Developing new features and components
+• Creating modules of the screen and different custom views
+• Involving in the development performance and optimization features
+• Refactoring the code
+• Integrating with back-end
+• Code-coverage with Unit-tests
+• Writing complex functionality
+
+Technologies and tools on project
+• Swift, UIKit, Layout with code, Moya, VIPER, XCTest, GitLab, SwiftGen, Coordinator, Jira, Scrum",I am looking for a project with modern technology stack and opportunity to grow professionally,,iOS,intermediate,1.0,"I have been working one year on project for booking workplaces and meeting rooms by employees of a company, also people can explore detailed information about their activities in a company and they see a map of office of their location.
+
+My responsibilities were:
+• Developing new features and components
+• Creating modules of the screen and different custom views
+• Involving in the development performance and optimization features
+• Refactoring the code
+• Integrating with back-end
+• Code-coverage with Unit-tests
+• Writing complex functionality
+
+Technologies and tools on project
+• Swift, UIKit, Layout with code, Moya, VIPER, XCTest, GitLab, SwiftGen, Coordinator, Jira, Scrum
+I am looking for a project with modern technology stack and opportunity to grow professionally",en,fc3e7596-a57d-522e-9afd-d1545eca3f48,Mobile,working year project booking workplaces meeting rooms employees company people explore detailed information activities company map office location responsibilities developing new features components creating modules screen different custom views involving development performance optimization features refactoring code integrating back-end code-coverage unit-tests writing complex functionality technologies tools project swift uikit layout code moya viper xctest gitlab swiftgen coordinator jira scrum looking project modern technology stack opportunity grow professionally
+Full-stack developer (Angular/.Net),"- Development and support of web-sites connected with educational services (writing essays,
+articles, homework).
+Used technologies: ASP.NET MVC, WCF, Entity Framework, Bootstrap, Jquery, Sass.
+- Development of application for automated web-site testing.
+Used technologies: Selentium, C#.
+- Development of application for automated collection of information from the Internet.
+Used technologies: Selentium, C#.
+- Development of single-page web-sites, business card sites.","First of all I expect to get a new challenge, personal development, new tasks and a wave of positive emotions. I would like to use new technologies, have a friendly environment with people who are inspired and fully involved into the project. One of the main requirements for me is the ability to build the working process using scrum, because I find this methodology as one of the best and most effective for an IT-development process.
+Definitely, I would like to avoid difficulties in communication with management or coworkers. I suppose that any team has to be formed by particular criteria, which consider either professional skills or personal characteristics.",,.NET,upper,8.0,"- Development and support of web-sites connected with educational services (writing essays,
+articles, homework).
+Used technologies: ASP.NET MVC, WCF, Entity Framework, Bootstrap, Jquery, Sass.
+- Development of application for automated web-site testing.
+Used technologies: Selentium, C#.
+- Development of application for automated collection of information from the Internet.
+Used technologies: Selentium, C#.
+- Development of single-page web-sites, business card sites.
+First of all I expect to get a new challenge, personal development, new tasks and a wave of positive emotions. I would like to use new technologies, have a friendly environment with people who are inspired and fully involved into the project. One of the main requirements for me is the ability to build the working process using scrum, because I find this methodology as one of the best and most effective for an IT-development process.
+Definitely, I would like to avoid difficulties in communication with management or coworkers. I suppose that any team has to be formed by particular criteria, which consider either professional skills or personal characteristics.",en,4eee0c74-78f0-5e92-9c44-adf7b86847d9,Backend,development support web-sites connected educational services writing essays articles homework used technologies asp.net mvc wcf entity framework bootstrap jquery sass development application automated web-site testing used technologies selentium c# development application automated collection information internet used technologies selentium c# development single-page web-sites business card sites expect new challenge personal development new tasks wave positive emotions like use new technologies friendly environment people inspired fully involved project main requirements ability build working process using scrum methodology best effective it-development process definitely like avoid difficulties communication management coworkers suppose team formed particular criteria consider professional skills personal characteristics
+Junior Quality Assurance Specialist,"I am currently looking for a Junior QA Specialist role, with my main area of expertise being manual QA testing. I have experience with testing throughout my online courses and I would like to put my knowledge into practice.
+
+Please see my CV for additional information. I would be happy to talk with you to understand if we have a ""match"".","I want to find work which will bring pleasure.
+I like challenging tasks and opportunities for professional growth.","I graduated school with honors.
+I am additionally learning by myself to be more aware.",QA,intermediate,0.0,"I graduated school with honors.
+I am additionally learning by myself to be more aware.
+I am currently looking for a Junior QA Specialist role, with my main area of expertise being manual QA testing. I have experience with testing throughout my online courses and I would like to put my knowledge into practice.
+
+Please see my CV for additional information. I would be happy to talk with you to understand if we have a ""match"".
+I want to find work which will bring pleasure.
+I like challenging tasks and opportunities for professional growth.",en,33358e58-d6eb-5f9f-bb9d-b93549537431,QA,graduated school honors additionally learning aware currently looking junior qa specialist role main area expertise manual qa testing experience testing online courses like knowledge practice cv additional information happy talk understand match want work bring pleasure like challenging tasks opportunities professional growth
+Data Scientist,"As a Data Scientist, I have a strong foundation in statistical analysis, machine learning, and data modeling techniques. I am skilled in programming languages such as Python and SQL, have experience in working with various data visualization tools and have a passion for turning complex data into meaningful insights that can drive business decisions.",,,Data Science,upper,1.0,"As a Data Scientist, I have a strong foundation in statistical analysis, machine learning, and data modeling techniques. I am skilled in programming languages such as Python and SQL, have experience in working with various data visualization tools and have a passion for turning complex data into meaningful insights that can drive business decisions.",en,eba8b6e7-8bdc-52f4-84c9-4ef655786a27,Data / ML,data scientist strong foundation statistical analysis machine learning data modeling techniques skilled programming languages python sql experience working various data visualization tools passion turning complex data meaningful insights drive business decisions
+Junior QA Engineer,"Hi. I completed courses ActPro ""Software Testing"" in 2020. From 2020 to 2023, I studied theory of testing software and practiced, while working at the main job. Now I need to look for a new stable job where I will develop and study. I want to develop skills in automated software testing with further study of a programming language.",,,QA,upper,2.0,"Hi. I completed courses ActPro ""Software Testing"" in 2020. From 2020 to 2023, I studied theory of testing software and practiced, while working at the main job. Now I need to look for a new stable job where I will develop and study. I want to develop skills in automated software testing with further study of a programming language.",en,d7d5a3df-c19f-56aa-866e-601d7ba60b08,QA,hi completed courses actpro software testing 2020 2020 2023 studied theory testing software practiced working main job need look new stable job develop study want develop skills automated software testing study programming language
+.NET developer,"• Full-stack development
+• Writing unit, integration, end-to-end tests
+• Work on large project with complicated business logic
+• Mentoring new-comers
+• 9 years in IT, 6 years in development","New project, or project with active feature development process, challenging tasks, different areas of tasks (front-end, back-end), improve my knowledge in front-end","Team player, high ability to work, learn new technologies and use them, good communication skills. 3 years of experience in QA, 5 years of comercial development experience",.NET,upper,6.0,"Team player, high ability to work, learn new technologies and use them, good communication skills. 3 years of experience in QA, 5 years of comercial development experience
+• Full-stack development
+• Writing unit, integration, end-to-end tests
+• Work on large project with complicated business logic
+• Mentoring new-comers
+• 9 years in IT, 6 years in development
+New project, or project with active feature development process, challenging tasks, different areas of tasks (front-end, back-end), improve my knowledge in front-end",en,fdf3f712-b096-5463-a604-ead099061aa6,Backend,team player high ability work learn new technologies use good communication skills 3 years experience qa 5 years comercial development experience full-stack development writing unit integration end-to-end tests work large project complicated business logic mentoring new-comers 9 years 6 years development new project project active feature development process challenging tasks different areas tasks front-end back-end improve knowledge front-end
+QA Automation Engineer,"Manual QA Engineer, Kiev
+11 month
+- Creation or help create your own test plan.
+- Creation of test cases based on requirements and documents.
+- Creation of test data required for testing.
+- Report test results.
+- Update test cases based on detected defects.
+- Team support with testing tasks as needed.
+
+AQA Engineer
+1 year and 6 month
+- Carrying out manual tests based on provided test cases.
+- Documentation development/support testing
+- Analysis of business requirements, implement and execute functional, non-functional and exploratory testing.
+- Writing automation tests for different functional.",,,QA Automation,intermediate,2.5,"Manual QA Engineer, Kiev
+11 month
+- Creation or help create your own test plan.
+- Creation of test cases based on requirements and documents.
+- Creation of test data required for testing.
+- Report test results.
+- Update test cases based on detected defects.
+- Team support with testing tasks as needed.
+
+AQA Engineer
+1 year and 6 month
+- Carrying out manual tests based on provided test cases.
+- Documentation development/support testing
+- Analysis of business requirements, implement and execute functional, non-functional and exploratory testing.
+- Writing automation tests for different functional.",en,7258b998-07a5-5f6e-8ae1-37e7f8ee6300,QA,manual qa engineer kiev 11 month creation help create test plan creation test cases based requirements documents creation test data required testing report test results update test cases based detected defects team support testing tasks needed aqa engineer 1 year 6 month carrying manual tests based provided test cases documentation development support testing analysis business requirements implement execute functional non-functional exploratory testing writing automation tests different functional
+DevOps engineer,"I have 1 year+ experience of administrating Windows\Linux servers, understanding of fundamental network technologies like DNS, TCP/IP, HTTP, experience in scripting languages (Bash / Python),
+Docker, experience with clouds (AWS / Azure), Git, Flow, O365, Apache/
+
+My current responsibilities are:
+Supporting cloud environments,
+automating of routine tasks,
+researching and solving complicated tasks.
+
+To my mind, my strongest points are my critical way of thinking, good soft skills. I'm a really responsible guy and a quick learner.","I am open to everything new, but I would like to grow in DevOps/SecOps field.
+I would like to work with Terraform and develop knowledge of CI\CD processes.","I have a cybersecurity degree, CCNA and AZ-900 certifications (ready to pass the 200-201 CBROPS).
+Currently I'm on RnD position and working with different kind of k8s connected tasks",DevOps,upper,1.5,"I have a cybersecurity degree, CCNA and AZ-900 certifications (ready to pass the 200-201 CBROPS).
+Currently I'm on RnD position and working with different kind of k8s connected tasks
+I have 1 year+ experience of administrating Windows\Linux servers, understanding of fundamental network technologies like DNS, TCP/IP, HTTP, experience in scripting languages (Bash / Python),
+Docker, experience with clouds (AWS / Azure), Git, Flow, O365, Apache/
+
+My current responsibilities are:
+Supporting cloud environments,
+automating of routine tasks,
+researching and solving complicated tasks.
+
+To my mind, my strongest points are my critical way of thinking, good soft skills. I'm a really responsible guy and a quick learner.
+I am open to everything new, but I would like to grow in DevOps/SecOps field.
+I would like to work with Terraform and develop knowledge of CI\CD processes.",en,6b784a2d-e621-5300-be08-4d46384845da,DevOps,cybersecurity degree ccna az-900 certifications ready pass 200-201 cbrops currently m rnd position working different kind k8s connected tasks 1 year+ experience administrating windows linux servers understanding fundamental network technologies like dns tcp ip http experience scripting languages bash python docker experience clouds aws azure git flow o365 apache current responsibilities supporting cloud environments automating routine tasks researching solving complicated tasks mind strongest points critical way thinking good soft skills m really responsible guy quick learner open new like grow devops secops field like work terraform develop knowledge ci cd processes
+iOS Developer,"I have 3 years of experience in the IT field, half year as a front-end engineer, half year as a iOS developer and 2 years as a Project Manager.
+I have a solid understanding of the software development life cycle as it applies to various techniques (including Agile), as well as knowledge in analyzing technical and business requirements. I worked with various teams ranging from three to ten persons. In parallel, I managed 5 projects. Which included: mobile application, crm systems, online stores.
+Together with the team, we launched an online service for searching and booking tours and hotels with an internal CRM system, from scratch.
+I worked for an international payment system. Within the company, I have worked on several projects. As well as b2b and b2c.",,"Together with the team, we launched an online service for searching and booking tours and hotels with an internal CRM system, from scratch to the delivery of the project.
+I have launched several projects. From simple landings to complex online stores.
+Concluded agreements between banks of Kazakhstan and payment organization, created a multi-acquiring scheme.",iOS,upper,2.0,"Together with the team, we launched an online service for searching and booking tours and hotels with an internal CRM system, from scratch to the delivery of the project.
+I have launched several projects. From simple landings to complex online stores.
+Concluded agreements between banks of Kazakhstan and payment organization, created a multi-acquiring scheme.
+I have 3 years of experience in the IT field, half year as a front-end engineer, half year as a iOS developer and 2 years as a Project Manager.
+I have a solid understanding of the software development life cycle as it applies to various techniques (including Agile), as well as knowledge in analyzing technical and business requirements. I worked with various teams ranging from three to ten persons. In parallel, I managed 5 projects. Which included: mobile application, crm systems, online stores.
+Together with the team, we launched an online service for searching and booking tours and hotels with an internal CRM system, from scratch.
+I worked for an international payment system. Within the company, I have worked on several projects. As well as b2b and b2c.",en,171dceb8-fc9b-549d-90c1-7bfc2693aafe,Mobile,team launched online service searching booking tours hotels internal crm scratch delivery project launched projects simple landings complex online stores concluded agreements banks kazakhstan payment organization created multi-acquiring scheme 3 years experience field half year front-end engineer half year ios developer 2 years project manager solid understanding software development life cycle applies various techniques including agile knowledge analyzing technical business requirements worked various teams ranging persons parallel managed 5 projects included mobile application crm systems online stores team launched online service searching booking tours hotels internal crm scratch worked international payment company worked projects b2b b2c
+Junior iOS Developer/Intern,"Swift, CoreData, CoreLocation, GoogleMaps SDK",professional growth. interesting projects.,"Single-handedly created a project, which included both developing and managing the application, as well as uploading it to the AppStore. ([LINK]",iOS,fluent,0.5,"Single-handedly created a project, which included both developing and managing the application, as well as uploading it to the AppStore. ([LINK]
+Swift, CoreData, CoreLocation, GoogleMaps SDK
+professional growth. interesting projects.",en,f4b872e7-a038-5c53-b87d-308f5a01139d,Mobile,single-handedly created project included developing managing application uploading appstore swift coredata corelocation googlemaps sdk professional growth interesting projects
+.NET Developer,"I am a Full Stack .NET Developer who is passionate about development, so I am constantly improving my skills in the software engineering field. I grasp everything on the fly and have good team working and communication skills. My positive traits are punctuality and accuracy. Moreover, I'm good at optimizing processes in order to improve productivity. My goal, it's to create qualitative and reliable software products. Currently, l am working on a social network project.",I want to be part of a team where I will gain new professional skills and improve existing ones,"implemented a big part of the functionality of social network project, which includes database design, cloud deployment, backend/frontend development from scratch",.NET,intermediate,1.0,"implemented a big part of the functionality of social network project, which includes database design, cloud deployment, backend/frontend development from scratch
+I am a Full Stack .NET Developer who is passionate about development, so I am constantly improving my skills in the software engineering field. I grasp everything on the fly and have good team working and communication skills. My positive traits are punctuality and accuracy. Moreover, I'm good at optimizing processes in order to improve productivity. My goal, it's to create qualitative and reliable software products. Currently, l am working on a social network project.
+I want to be part of a team where I will gain new professional skills and improve existing ones",en,3c0c9f2b-63a3-5ffb-8cd8-44ffa33c248c,Backend,implemented big functionality social network project includes database design cloud deployment backend frontend development scratch stack .net developer passionate development constantly improving skills software engineering field grasp fly good team working communication skills positive traits punctuality accuracy m good optimizing processes order improve productivity goal s create qualitative reliable software products currently l working social network project want team gain new professional skills improve existing ones

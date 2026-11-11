@@ -61,14 +61,14 @@ Only the following `Primary Keyword` values are kept. All other values (Design, 
 |---|---|
 | `__index_level_0__` | Technical row index left from the original export, has no meaning |
 
-## 5. Known data issues
+## 5. Columns added in the cleaned files (v2)
 
-These are handled in the preprocessing step (Chapter 4), not in the raw files.
+| Column | Type | Meaning |
+|---|---|---|
+| `CV_bm25` | text | `CV` in lowercase, without punctuation, stop words and placeholders, used by BM25 |
+| `Long Description_bm25` | text | The same for `Long Description` |
 
-- `Primary Keyword` is chosen by the user and is sometimes wrong, e.g. some 2D animators use `Unity`, a 1C developer uses `Flutter`.
-- Some texts contain broken characters (`�`), non-breaking spaces and zero-width spaces (`​`).
-- A few texts still contain contact data: about 10 phone numbers and some LinkedIn / GitHub / Telegram links.
-- `Highlights`, `Moreinfo` and `Looking For` are already included in `CV`, so they are not used as separate inputs.
+In the v2 files links, e-mails and phone numbers in all text columns are replaced with `[LINK]`, `[EMAIL]` and `[PHONE]`.
 
 ## References
 
